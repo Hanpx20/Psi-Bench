@@ -1,7 +1,7 @@
 eval/
 api_keys.json
-src/analysis/
-src/drawing/
+psi_bench/analysis/
+psi_bench/drawing/
 PYPI_GUIDE.md
 RELEASE_CHECKLIST.md
 

@@ -35,7 +35,7 @@ if [ "$persuader_local" = true ]; then
 fi
 
 if [ "$test_oracle" = true ]; then
-    python src/inference.py \
+    python psi_bench/inference.py \
         --client_model "$client_model" \
         --persona_file data/cmv/persona_profile.json \
         --conv_file data/cmv/queries.json \
@@ -44,14 +44,14 @@ if [ "$test_oracle" = true ]; then
         --size 500 --n_turns "$n_turns" --profile_mode oracle \
         --inference_parallel "$inference_parallel" $persuader_local_flag
 
-    python src/llm_judge_eval.py \
+    python psi_bench/llm_judge_eval.py \
         --judge_model "$judge_model" \
         --conv_file eval/cmv/convs/${model_name}_oracle.json \
         --persona_file data/cmv/persona_profile.json \
         --output eval/cmv/${model_name}_oracle_judge.json \
         --inference_parallel "$inference_parallel"
 else
-    python src/inference.py \
+    python psi_bench/inference.py \
         --client_model "$client_model" \
         --persona_file data/cmv/persona_profile.json \
         --conv_file data/cmv/queries.json \
@@ -60,7 +60,7 @@ else
         --size 500 --n_turns "$n_turns" \
         --inference_parallel "$inference_parallel" $persuader_local_flag
 
-    python src/llm_judge_eval.py \
+    python psi_bench/llm_judge_eval.py \
         --judge_model "$judge_model" \
         --conv_file eval/cmv/convs/${model_name}.json \
         --persona_file data/cmv/persona_profile.json \

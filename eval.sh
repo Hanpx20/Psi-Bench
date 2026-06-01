@@ -2,7 +2,7 @@
 
 show_help() {
     cat << EOF
-Psi-Bench Evaluation Script
+psi_bench Evaluation Script
 
 USAGE:
     eval.sh [COMMAND] [OPTIONS]

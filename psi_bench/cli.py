@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Psi-Bench CLI - Command line interface for running evaluations
+psi_bench CLI - Command line interface for running evaluations
 """
 
 import argparse
@@ -12,10 +12,10 @@ from pathlib import Path
 def print_help():
     """Print help message"""
     help_text = """
-Psi-Bench Evaluation CLI
+psi_bench Evaluation CLI
 
 USAGE:
-    psi-bench [COMMAND] [OPTIONS]
+    psi_bench [COMMAND] [OPTIONS]
 
 COMMANDS:
     eval          - Run evaluations on benchmark datasets
@@ -23,7 +23,7 @@ COMMANDS:
     help          - Show this help message
 
 EVAL USAGE:
-    psi-bench eval [TASK] [OPTIONS]
+    psi_bench eval [TASK] [OPTIONS]
 
     TASKS:
         cmv       - Evaluate on CMV (Change My View) dataset
@@ -36,12 +36,13 @@ EVAL USAGE:
         --client_model MODEL          Client model (default: deepseek-v3-2)
         --judge_model MODEL           Judge model (default: deepseek-v3-2)
         --n_turns N                   Number of turns (default: 3)
+        --size M                      Number of conversations to evaluate (default: 500 for cmv, full for other scenarios)
         --test_oracle                 Test oracle mode
         --persuader_local             Use local persuader model
         --inference_parallel N        Parallel workers (default: 16)
 
 DOWNLOAD USAGE:
-    psi-bench download [DATASET]
+    psi_bench download [DATASET]
 
     DATASETS:
         cmv       - Change My View dataset
@@ -54,25 +55,26 @@ DOWNLOAD USAGE:
 
 EXAMPLES:
     # Evaluate model on all datasets
-    psi-bench eval all --tested_model gpt-4
+    psi_bench eval all --tested_model gpt-4
 
     # Evaluate on specific dataset with local model
-    psi-bench eval cmv --tested_model Qwen/Qwen3-8B --persuader_local
+    psi_bench eval cmv --tested_model Qwen/Qwen3-8B --persuader_local
 
     # Download all datasets
-    psi-bench download all
+    psi_bench download all
 
 For more details, see:
-- API Key Setup: https://github.com/yourusername/Psi-Bench/blob/main/API_KEY_CONFIG.md
-- User Guide: https://github.com/yourusername/Psi-Bench/blob/main/USER_GUIDE.md
+- API Key Setup: https://github.com/yourusername/psi_bench/blob/main/API_KEY_CONFIG.md
+- User Guide: https://github.com/yourusername/psi_bench/blob/main/USER_GUIDE.md
 """
     print(help_text)
 
 
-def run_eval_inference(task, tested_model, client_model, judge_model, n_turns, test_oracle,
+def run_eval_inference(task, tested_model, client_model, judge_model, n_turns, size, test_oracle,
                        persuader_local, inference_parallel):
     """Run inference for a specific task"""
-    project_root = Path(__file__).parent.parent
+    project_root = Path(__file__).resolve().parent.parent
+    DATA_ROOT = Path.cwd()
 
     # Data and output file configurations
     data_config = {
@@ -100,13 +102,13 @@ def run_eval_inference(task, tested_model, client_model, judge_model, n_turns, t
     # Build inference.py command
     inference_cmd = [
         sys.executable,
-        str(project_root / "src" / "inference.py"),
+        os.path.join(project_root, "psi_bench", "inference.py"),
         "--client_model", client_model,
-        "--persona_file", str(project_root / config["persona_file"]),
-        "--conv_file", str(project_root / config["conv_file"]),
+        "--persona_file", os.path.join(DATA_ROOT, config["persona_file"]),
+        "--conv_file", os.path.join(DATA_ROOT, config["conv_file"]),
         "--persuader_model", tested_model,
-        "--output", str(project_root / f"eval/{task}/convs/{model_name}{'_oracle' if test_oracle else ''}.json"),
-        "--size", "500",
+        "--output", os.path.join(DATA_ROOT, f"eval/{task}/convs/{model_name}{'_oracle' if test_oracle else ''}.json"),
+        "--size", str(size),
         "--n_turns", str(n_turns),
         "--inference_parallel", str(inference_parallel),
     ]
@@ -130,11 +132,11 @@ def run_eval_inference(task, tested_model, client_model, judge_model, n_turns, t
     # Build llm_judge_eval.py command
     judge_cmd = [
         sys.executable,
-        str(project_root / "src" / "llm_judge_eval.py"),
+        os.path.join(project_root, "psi_bench", "llm_judge_eval.py"),
         "--judge_model", judge_model,
-        "--conv_file", str(project_root / f"eval/{task}/convs/{model_name}{'_oracle' if test_oracle else ''}.json"),
-        "--persona_file", str(project_root / config["persona_file"]),
-        "--output", str(project_root / f"eval/{task}/{model_name}{'_oracle' if test_oracle else ''}_judge.json"),
+        "--conv_file", os.path.join(DATA_ROOT, f"eval/{task}/convs/{model_name}{'_oracle' if test_oracle else ''}.json"),
+        "--persona_file", os.path.join(DATA_ROOT, config["persona_file"]),
+        "--output", os.path.join(DATA_ROOT, f"eval/{task}/{model_name}{'_oracle' if test_oracle else ''}_judge.json"),
         "--inference_parallel", str(inference_parallel),
     ]
 
@@ -154,7 +156,7 @@ def run_eval_inference(task, tested_model, client_model, judge_model, n_turns, t
 def main():
     """Main CLI entry point"""
     parser = argparse.ArgumentParser(
-        description="Psi-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues",
+        description="psi_bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues",
         add_help=False
     )
 
@@ -166,6 +168,7 @@ def main():
     parser.add_argument('--client_model', type=str, default='deepseek-v3-2', help='Client model')
     parser.add_argument('--judge_model', type=str, default='deepseek-v3-2', help='Judge model')
     parser.add_argument('--n_turns', type=int, default=3, help='Number of turns')
+    parser.add_argument('--size', type=int, default=500, help='Number of conversations to evaluate')
     parser.add_argument('--test_oracle', action='store_true', help='Test oracle mode')
     parser.add_argument('--persuader_local', action='store_true', help='Use local persuader model')
     parser.add_argument('--inference_parallel', type=int, default=16, help='Number of parallel workers')
@@ -186,7 +189,7 @@ def main():
         # Validate eval command
         if not args.task:
             print("Error: eval command requires a task (cmv, counsel, request, or all)")
-            print("\nUsage: psi-bench eval [cmv|counsel|request|all] [OPTIONS]")
+            print("\nUsage: psi_bench eval [cmv|counsel|request|all] [OPTIONS]")
             return 1
 
         if not args.tested_model:
@@ -197,21 +200,22 @@ def main():
             print(f"Error: Unknown task '{args.task}'")
             return 1
 
-        # Ensure output directories exist
-        project_root = Path(__file__).parent.parent
-        for task_dir in ['cmv', 'counsel', 'request']:
-            (project_root / f"eval/{task_dir}/convs").mkdir(parents=True, exist_ok=True)
-
         # Run evaluation(s)
         tasks = ['cmv', 'counsel', 'request'] if args.task == 'all' else [args.task]
 
+        # Ensure output directories exist
+        DATA_ROOT = Path.cwd()
+
         for task in tasks:
+            (DATA_ROOT / f"eval/{task}/convs").mkdir(parents=True, exist_ok=True)
+            
             result = run_eval_inference(
                 task=task,
                 tested_model=args.tested_model,
                 client_model=args.client_model,
                 judge_model=args.judge_model,
                 n_turns=args.n_turns,
+                size=args.size,
                 test_oracle=args.test_oracle,
                 persuader_local=args.persuader_local,
                 inference_parallel=args.inference_parallel
@@ -226,7 +230,7 @@ def main():
 
     elif args.command == 'download':
         from . import download_data
-        sys.argv = ['psi-bench-download'] + ([args.task] if args.task else []) + remaining
+        sys.argv = ['psi_bench-download'] + ([args.task] if args.task else []) + remaining
         return download_data.main()
 
     else:

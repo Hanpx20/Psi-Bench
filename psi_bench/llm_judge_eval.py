@@ -104,7 +104,7 @@ def calculate_avg_similarity(threads):
     }
     
     # Initialize metrics dictionary with fields that exist in data
-    metrics = {src: {} for src in metric_mapping if src in first_conv_item}
+    metrics = {psi_bench: {} for psi_bench in metric_mapping if psi_bench in first_conv_item}
     if not metrics:
         return {}
     

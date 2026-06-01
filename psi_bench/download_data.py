@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Data download script for Psi-Bench
+Data download script for psi_bench
 Downloads datasets from GitHub or Hugging Face
 """
 
@@ -69,15 +69,15 @@ def extract_archive(archive_path, extract_to):
 def download_from_github(dataset_name, output_dir="./data"):
     """
     Download dataset from GitHub releases
-    Requires: psi-bench releases with data attached
+    Requires: psi_bench releases with data attached
     """
-    base_url = "https://github.com/Hanpx20/Psi-Bench/releases/download"
+    base_url = "https://github.com/Hanpx20/psi_bench/releases/download"
 
     datasets = {
-        "cmv": f"{base_url}/v0.1.0/psi-bench-data-cmv.tar.gz",
-        "counsel": f"{base_url}/v0.1.0/psi-bench-data-counsel.tar.gz",
-        "request": f"{base_url}/v0.1.0/psi-bench-data-request.tar.gz",
-        "all": f"{base_url}/v0.1.0/psi-bench-data-all.tar.gz",
+        "cmv": f"{base_url}/v0.1.0/psi_bench-data-cmv.tar.gz",
+        "counsel": f"{base_url}/v0.1.0/psi_bench-data-counsel.tar.gz",
+        "request": f"{base_url}/v0.1.0/psi_bench-data-request.tar.gz",
+        "all": f"{base_url}/v0.1.0/psi_bench-data-all.tar.gz",
     }
 
     if dataset_name not in datasets:
@@ -85,7 +85,7 @@ def download_from_github(dataset_name, output_dir="./data"):
         return False
 
     url = datasets[dataset_name]
-    archive_path = Path(output_dir) / f"psi-bench-data-{dataset_name}.tar.gz"
+    archive_path = Path(output_dir) / f"psi_bench-data-{dataset_name}.tar.gz"
 
     # Download
     if not download_file(url, archive_path):
@@ -102,7 +102,7 @@ def download_from_github(dataset_name, output_dir="./data"):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Download Psi-Bench datasets from GitHub"
+        description="Download psi_bench datasets from GitHub"
     )
     parser.add_argument(
         "dataset",
@@ -120,10 +120,10 @@ def main():
 
     if not args.dataset:
         parser.print_help()
-        print("\n💡 Hint: Run 'psi-bench download all' to get all datasets")
+        print("\n💡 Hint: Run 'psi_bench download all' to get all datasets")
         return 1
 
-    print(f"📥 Psi-Bench Data Download (from GitHub Hanpx20/Psi-Bench)\n")
+    print(f"📥 psi_bench Data Download (from GitHub Hanpx20/psi_bench)\n")
 
     success = download_from_github(args.dataset, args.output)
 
