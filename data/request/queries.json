@@ -1,0 +1,502 @@
+[
+  {
+    "question": "You are coordinating a STEM workshop for teenagers at the community center next Saturday, and it’s looking to be quite a busy day. You need a lift in the morning to help set up the racetrack models and also for transporting some of the heavier materials.",
+    "persona": "pmem_user_0000",
+    "convs": []
+  },
+  {
+    "question": "You are a professional attending an economic development summit in Guadalajara next week, from Tuesday to Friday, and your usual pet sitter is unavailable. Your dog requires daily walks and someone to check on her while you are away. You are asking for help with this because you trust the care and responsibility of the person you are addressing.",
+    "persona": "pmem_user_0001",
+    "convs": []
+  },
+  {
+    "question": "You are heading to a tech retreat in the mountains for a week starting next Saturday, and because you know your friend is as detail-oriented as you are, you must ask them to check on your apartment while you’re away. You need someone to water the indoor plants and ensure no packages are left unattended at your doorstep.",
+    "persona": "pmem_user_0002",
+    "convs": []
+  },
+  {
+    "question": "You are a guardian whose usual after-school arrangement for your niece has just fallen through. You are bound by an immovable client meeting at work and urgently need someone to retrieve her from school at 3 PM and watch over her at your residence until 6 PM tomorrow.",
+    "persona": "pmem_user_0003",
+    "convs": []
+  },
+  {
+    "question": "You are a professor who has just been asked to present at a major art conference in New York, an opportunity that unfortunately conflicts with a guest lecture you are scheduled to give at Berkeley. You must now request a colleague to cover your lecture, assuring them you will provide thorough notes and materials for a seamless class.",
+    "persona": "pmem_user_0004",
+    "convs": []
+  },
+  {
+    "question": "You are finalizing a feature article on the impacts of urban gentrification, with a submission deadline to the editorial board by next Friday. You seek a review of your draft, requesting feedback on narrative structure and clarity from someone with expertise in storytelling and investigative journalism.",
+    "persona": "pmem_user_0005",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a community garden event this Saturday, and you have a large delivery of soil and plant supplies arriving that morning. Since the materials need to be moved from the parking lot to the garden area, you are hoping someone can lend a hand with the heavy lifting for a few hours.",
+    "persona": "pmem_user_0006",
+    "convs": []
+  },
+  {
+    "question": "You are organizing an independent film screening at the local theater next Saturday to promote underrepresented filmmakers, and the person who was going to moderate the post-film discussion had to back out last minute. You are hoping I can step in to lead the discussion, given my expertise and enthusiasm for film analysis.",
+    "persona": "pmem_user_0007",
+    "convs": []
+  },
+  {
+    "question": "You are in a situation where unforeseen medical bills have depleted your savings this month, and your rent is due next week. Since your friend is known for being understanding and supportive, you're hoping they can lend you six hundred pounds to cover it until the 28th, when your next invoice payments are expected to clear.",
+    "persona": "pmem_user_0008",
+    "convs": []
+  },
+  {
+    "question": "You are an artist who has recently taken up watercolor painting. You have heard much about the wonderful assortment of vintage fountain pens the curator here offers. You are looking to experiment with different tools for some detailed line work on a new project. You are hoping the curator can lend you a couple of their pens for the next week, and you promise to take excellent care of them.",
+    "persona": "pmem_user_0009",
+    "convs": []
+  },
+  {
+    "question": "You are someone weighed down by the mounting pressure at work, a feeling of being overwhelmed that has begun to erode your focus. You seek someone's presence this weekend, needing to talk things through in order to regain some clarity.",
+    "persona": "pmem_user_0010",
+    "convs": []
+  },
+  {
+    "question": "You are a person who has just discovered that a critical report for your upcoming presentation is only available at the university library, but you are caught up in a series of virtual workshops all day. The library closes at 5 PM, and you are hoping someone can pick it up for you before then and drop it at your place.",
+    "persona": "pmem_user_0011",
+    "convs": []
+  },
+  {
+    "question": "You are a person working on a project proposal to secure funding for a marine conservation initiative, aware that your contact has been involved in similar projects through their work in environmental monitoring. You must ask them to write a recommendation highlighting the initiative's importance, knowing their perspective would add significant credibility. With a deadline coming up next week, you need their support by the 15th to ensure everything is submitted on time.",
+    "persona": "pmem_user_0012",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled for a dental surgery next Wednesday morning, and due to the anesthesia, you require someone to accompany you and stay for a few hours afterward. You are hoping someone can come with you to the clinic at 9 am and be there until you’re cleared to head home.",
+    "persona": "pmem_user_0013",
+    "convs": []
+  },
+  {
+    "question": "You are a traveler stranded at the airport after a canceled flight to Berlin, facing the urgent need to strategize a remote pitch with a potential investor tomorrow morning.",
+    "persona": "pmem_user_0014",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a themed charity event next month focused on the Victorian era, and you want to ensure everything from the decor to the speeches is historically accurate. You believe their expertise in 19th-Century British history would be invaluable, and you need them to review the event details and provide their insights. You are meeting next Saturday to go over everything, and you hope they can join to share their knowledge.",
+    "persona": "pmem_user_0015",
+    "convs": []
+  },
+  {
+    "question": "You are preparing a presentation for an upcoming international conference on sustainable manufacturing strategies, and a significant portion of your research includes Japanese industry standards. You need help translating some of the technical documents and gaining insights into how these practices are culturally integrated within Japanese companies.",
+    "persona": "pmem_user_0016",
+    "convs": []
+  },
+  {
+    "question": "You are a travel blogger facing a delicate situation with your latest post, as it contains sensitive details about an unreported local environmental issue. You need someone to review the draft and recommend edits or removals to keep the information confidential until the official release next month.",
+    "persona": "pmem_user_0017",
+    "convs": []
+  },
+  {
+    "question": "You are traveling to New York for a baking workshop next weekend, trying to keep costs down after the substantial course fees. You are hoping to stay at their place for a couple of nights, looking forward to catching up and sharing some of their famous homemade cannoli.",
+    "persona": "pmem_user_0018",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled to present a campaign at the luxury branding summit in Tokyo next week, but your parents have asked you to accompany them to a family reunion in Bangalore on the 15th for an important cultural ceremony you cannot miss. You are hoping someone can attend the summit on your behalf, network with key industry leaders, and provide insights on your brand strategy.",
+    "persona": "pmem_user_0019",
+    "convs": []
+  },
+  {
+    "question": "You are a person who has been unexpectedly called to a meeting in town tomorrow morning, but your car is at the mechanic and won't be ready until later in the day. Given my strategic knack for problem-solving and my familiarity with the city, you need me to give you a lift to the business district by 9 AM.",
+    "persona": "pmem_user_0020",
+    "convs": []
+  },
+  {
+    "question": "You are a person heading to an academic conference in Chicago next weekend, whose usual pet sitter fell through at the last minute. You need someone to look after your dachshund from Friday to Sunday morning. He is pretty low maintenance, just requiring a walk in the evening and his meals twice a day.",
+    "persona": "pmem_user_0021",
+    "convs": []
+  },
+  {
+    "question": "You are heading to a week-long urban planning conference in Vancouver starting this Saturday and have realized you need someone trustworthy to keep an eye on your home. You have a few potted plants that need watering every few days and there's also a package expected on Monday which needs to be brought inside. You are hoping they can swing by when they have a moment.",
+    "persona": "pmem_user_0022",
+    "convs": []
+  },
+  {
+    "question": "You are a parent who is out of town for a work conference until Friday evening, and your usual childcare options have unexpectedly fallen through. You need someone reliable to pick up your kids from school and watch them at your place for a few hours each day, starting tomorrow and ending Friday.",
+    "persona": "pmem_user_0023",
+    "convs": []
+  },
+  {
+    "question": "You are a professional dealing with a personal emergency, unable to lead the 3 PM digital transformation strategy meeting. You need a colleague to cover the meeting and drive the discussion, and you will forward the agenda and your notes shortly.",
+    "persona": "pmem_user_0024",
+    "convs": []
+  },
+  {
+    "question": "You are a poet who has just completed your first collection, and a publisher has expressed interest, contingent on feedback from someone with an analytical mind for both structure and language. You need someone to review your manuscript over the weekend, offering candid thoughts on its flow and organization.",
+    "persona": "pmem_user_0025",
+    "convs": []
+  },
+  {
+    "question": "You are helping a friend move into her new apartment this Saturday, and she has a beautiful but incredibly heavy antique armoire that needs to be safely transported up a narrow set of stairs. Given your knack for handling delicate and valuable items, she needs your expertise and steady hands to help manage the move without damage.",
+    "persona": "pmem_user_0026",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a community heritage festival downtown in two weeks, showcasing local historical narratives and architectural displays. You are in need of someone with archival photography skills to capture the event between 1 and 6 pm, ensuring the highlights are documented for future exhibitions.",
+    "persona": "pmem_user_0027",
+    "convs": []
+  },
+  {
+    "question": "You are facing an unexpected financial strain this month, as recent medical bills have exceeded your insurance coverage and a pending academic grant has yet to be processed. Given your understanding of financial hardship and commitment to helping others, you need to borrow five hundred dollars to tide you over until the grant disbursement arrives on the 20th.",
+    "persona": "pmem_user_0028",
+    "convs": []
+  },
+  {
+    "question": "You are an artist who has just been invited to speak at a last-minute art symposium this weekend, and your portable easel broke during a recent workshop. Your presentation heavily relies on showcasing some of your artwork, so you need to borrow an easel for the weekend to ensure everything goes smoothly.",
+    "persona": "pmem_user_0029",
+    "convs": []
+  },
+  {
+    "question": "You are a professional grappling with the weight of recent business challenges and the relentless pressure to maintain a work-life balance. You seek a companion for a walk this weekend, hoping to find support and gain a fresh perspective in a more relaxed setting.",
+    "persona": "pmem_user_0030",
+    "convs": []
+  },
+  {
+    "question": "You are an engineer racing against time, your new antenna prototype malfunctioning on the workbench. A specific 4.7k ohm resistor is the key to resuming tests tomorrow, but your day is locked down with back-to-back meetings at the office. Your only hope is to have someone retrieve the part from the downtown electronics store and deliver it to your doorstep by 6 PM.",
+    "persona": "pmem_user_0031",
+    "convs": []
+  },
+  {
+    "question": "You are working on a proposal to develop a new cultural heritage program focused on the culinary traditions of the UK, and you need a reference to strengthen your application. Given the recipient's extensive work in cultural heritage and your past collaborations on similar projects, you hope they can write a recommendation that highlights your successful partnership and your contributions, ideally by the end of next week.",
+    "persona": "pmem_user_0032",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled for a medical procedure next Wednesday at the hospital, and the clinic requires someone to accompany you due to the effects of the anesthesia. The appointment is at 10 a.m., and you could use some company and support for the morning, as you are not allowed to drive yourself home afterward.",
+    "persona": "pmem_user_0033",
+    "convs": []
+  },
+  {
+    "question": "You are at the community center, having just been immersed in the immigrant heritage exhibition, when a call informs you of your daughter’s minor accident at school. You need someone to come and take over your duties for a few hours until you can sort things out, someone with extensive experience in these collections and familiarity with the ongoing projects.",
+    "persona": "pmem_user_0034",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a tech workshop for young women in STEM next weekend and need to ensure the software development segment is both engaging and informative. Because of your extensive experience in software architecture and mentoring, you must ask for help designing a module that includes practical coding exercises and a brief talk on career development.",
+    "persona": "pmem_user_0035",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a cultural exchange event at your tech firm next month, and you are responsible for writing a welcome speech that acknowledges the diverse backgrounds of the attendees. Having noticed a deep understanding of cultural nuances, you need your draft reviewed to ensure it respectfully and accurately represents various Asian cultures, particularly the Chinese-American perspective.",
+    "persona": "pmem_user_0036",
+    "convs": []
+  },
+  {
+    "question": "You are in the middle of sorting out some sensitive family paperwork and need to keep it under wraps. You have to ask for help translating a few documents from Bahasa Indonesia to English, given the other person's knack for clear and precise communication. It would mean a lot if they could keep this private, as it's quite personal.",
+    "persona": "pmem_user_0037",
+    "convs": []
+  },
+  {
+    "question": "You are a person whose power has been out since the recent storm, with the utility company estimating it won't be restored for days. You need a place to stay overnight, as the growing cold worries you and you fear the food in your fridge will spoil. You are hoping to crash here until things return to normal.",
+    "persona": "pmem_user_0038",
+    "convs": []
+  },
+  {
+    "question": "You are an art foundation representative who must attend the Art and Technology Summit in Chicago this weekend, stepping in for your colleague. A last-minute issue with a featured installation has prevented their attendance. Your task is to engage with the presenting artists and technologists and gather insights to benefit your foundation's upcoming projects.",
+    "persona": "pmem_user_0039",
+    "convs": []
+  },
+  {
+    "question": "You are a presenter preparing for an out-of-town conference, with an early Thursday morning flight. You need a ride to the airport around 5 AM, burdened by several materials and hoping for assistance getting there.",
+    "persona": "pmem_user_0040",
+    "convs": []
+  },
+  {
+    "question": "You are a journalist heading to the Appalachian Vibes Music Festival next weekend for a feature story, left in a bind after your pet-sitter bailed last minute. You need someone to care for your cockatiel for three days, ensuring he is fed and gets some daily time outside his cage.",
+    "persona": "pmem_user_0041",
+    "convs": []
+  },
+  {
+    "question": "You are a person about to leave for a ten-day family visit to Italy. Your neighbor, who usually watches your apartment, has just canceled at the last minute. You need someone you trust to stop by every couple of days, to water the herbs and bring in the mail, and it would mean a lot to have them keeping an eye on things.",
+    "persona": "pmem_user_0042",
+    "convs": []
+  },
+  {
+    "question": "You are a parent scheduled to lead a library workshop this Saturday who has just discovered your regular babysitter is unavailable. With your spouse out of town for work and no immediate family nearby, you are in a bind, needing someone to look after your six-year-old child from 9 a.m. to 1 p.m. at your home.",
+    "persona": "pmem_user_0043",
+    "convs": []
+  },
+  {
+    "question": "You are a street photographer who has just been accepted to showcase your work at a local gallery this Friday, a significant opportunity for your career. You are scheduled to close the shop that evening, and you need someone to cover your shift from 6 PM until closing so you can arrive at the event on time. You plan to have everything set up and ready before you leave.",
+    "persona": "pmem_user_0044",
+    "convs": []
+  },
+  {
+    "question": "You are a scholar who has recently completed a collection of local legends, a project years in the making, and you plan to present it at the town's upcoming cultural festival. Knowing my passion for preserving our Oliventine heritage, you hope I will review the manuscript. You believe my insights on the language and cultural nuances would be invaluable, and you would love to have my feedback by the end of next week.",
+    "persona": "pmem_user_0045",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a community event this Saturday at the local park, and you are short on volunteers to help set up the tents and tables. The equipment is quite heavy and you start at 8 AM, so you are really hoping someone can lend a hand for a few hours in the morning.",
+    "persona": "pmem_user_0046",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a regional economic conference on November 18th, and the person who was supposed to handle the panel logistics has just canceled last minute. Given your expertise and attention to detail, you need to coordinate the panel discussions and manage the speaker schedules throughout the day at the university auditorium.",
+    "persona": "pmem_user_0047",
+    "convs": []
+  },
+  {
+    "question": "You are facing an unexpected medical expense that has left you short for your upcoming mortgage payment. You need to borrow fifteen hundred dollars, just for a couple of weeks, until your next paycheck arrives on the 10th.",
+    "persona": "pmem_user_0048",
+    "convs": []
+  },
+  {
+    "question": "You are a community garden organizer, in need of durable tools to break ground. Knowing your neighbor has a well-equipped shed and a shared passion for gardening, you must ask to borrow their heavy-duty tiller for a couple of weeks. It would truly help your group get the soil ready for planting by the month's end.",
+    "persona": "pmem_user_0049",
+    "convs": []
+  },
+  {
+    "question": "You are a person feeling overwhelmed by the struggle to balance work, family, and personal well-being. You seek someone who understands the dual pressures of career and home life, hoping they can offer an empathetic ear over coffee this weekend.",
+    "persona": "pmem_user_0050",
+    "convs": []
+  },
+  {
+    "question": "You are in a bit of a bind today, having committed to back-to-back university meetings that won't wrap up until after the shops close. An important book you ordered for an upcoming lecture has just arrived at the store on High Street, and they can only hold it until the end of business today. You are hoping someone can swing by and pick it up for you this afternoon.",
+    "persona": "pmem_user_0051",
+    "convs": []
+  },
+  {
+    "question": "You are someone who has just been offered a chance to work on a new advertising campaign for Lebanese culinary brands. Knowing that a particular contact's insight into both the industry and Lebanese culture would be invaluable, and aware that they are well-connected in advertising with a deep understanding of Lebanese heritage, you must ask them to introduce you to their network contacts for guidance or collaboration.",
+    "persona": "pmem_user_0052",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled for oral surgery next Thursday morning and require an escort, as sedation will leave you unable to drive. You need someone to accompany you to the clinic at 8 a.m., remaining through the procedure, which should conclude by noon. You are feeling anxious and hopeful this person can assist you.",
+    "persona": "pmem_user_0053",
+    "convs": []
+  },
+  {
+    "question": "You are a landscape designer who has just received an urgent, last-minute request to redesign a section of the community garden for an upcoming cultural event this weekend. Your scheduled team has backed out due to a sudden conflict, leaving you in a bind. You need someone with expertise in sustainable horticulture to come by this afternoon to help coordinate the planting.",
+    "persona": "pmem_user_0054",
+    "convs": []
+  },
+  {
+    "question": "You are setting up a home recording studio and struggling with soundproofing in one corner, where external noise keeps bleeding in. You need an acoustics expert to visit this Saturday to help optimize the space for the best possible sound quality.",
+    "persona": "pmem_user_0055",
+    "convs": []
+  },
+  {
+    "question": "You are preparing a presentation for an international radiology conference next month, and part of it involves discussing advancements in Eastern European radiologic technology. Since you have strong ties to the region and a deep understanding of its cultural nuances, you need to review the content to ensure it's culturally accurate and relevant.",
+    "persona": "pmem_user_0056",
+    "convs": []
+  },
+  {
+    "question": "You are an artist preparing a deeply personal series of paintings for a gallery show, determined to keep the work secret until the exhibition day. You need assistance curating the pieces and securing the space, all while ensuring no one else discovers the theme before the reveal.",
+    "persona": "pmem_user_0057",
+    "convs": []
+  },
+  {
+    "question": "You are in town for the Annual Immunology Conference from next Thursday to Sunday, and your usual hotel is fully booked. Given the proximity to their place and how hectic it will be, you must ask them to put you up for those three nights, if they have the space.",
+    "persona": "pmem_user_0058",
+    "convs": []
+  },
+  {
+    "question": "You are a sibling who has just been called into an unexpected Saturday work meeting, conflicting with your little sister's birthday party in Sha Tin. You promised her you'd be there, and she's been eagerly waiting. You need someone to attend in your place, take photos to preserve the moments, and convey your heartfelt regret at missing it.",
+    "persona": "pmem_user_0059",
+    "convs": []
+  },
+  {
+    "question": "You are a parent who has a last-minute training seminar across town tomorrow, but a sudden family emergency has left you with no one to pick up your children from school. You desperately need someone to collect them at 3 PM and bring them home so you can attend the crucial seminar.",
+    "persona": "pmem_user_0060",
+    "convs": []
+  },
+  {
+    "question": "You are a last-minute attendee of a legal conference in Chicago, presented with a prime networking opportunity. In your haste to depart, you require someone to visit your home on Saturday and Sunday to feed your turtle and verify its water filter is functioning.",
+    "persona": "pmem_user_0061",
+    "convs": []
+  },
+  {
+    "question": "You are a traveler departing for a week-long archival conference in Jogjakarta, beginning next Monday. You require someone to check on your sports memorabilia collection at home, verifying the dehumidifiers are functioning correctly. You hope a meticulous individual can visit mid-week and again over the weekend to ensure everything remains in order.",
+    "persona": "pmem_user_0062",
+    "convs": []
+  },
+  {
+    "question": "You are a person who has just been called into an urgent, unmissable meeting at the hospital. With your usual babysitter unavailable, you need someone to watch over your grandma for a few hours this afternoon. You hope they can keep her company at your place, ensure she takes her 3 PM medication, and simply spend some time chatting with her.",
+    "persona": "pmem_user_0063",
+    "convs": []
+  },
+  {
+    "question": "You are a professional who has been asked last minute to cover the Singapore Maritime Forum this Thursday, creating a scheduling conflict with a critical logistics review meeting for your project. You need your colleague to handle the meeting in your absence, ensuring the team stays on track with the supply chain objectives.",
+    "persona": "pmem_user_0064",
+    "convs": []
+  },
+  {
+    "question": "You are drafting a proposal for a governance reform workshop aimed at young African leaders, and you have a preliminary version you believe needs a seasoned eye. Given your expertise in political consultancy and extensive experience with policy discussions, you must ask for a review of the document and feedback, ideally by next Friday, to ensure it resonates with the target audience.",
+    "persona": "pmem_user_0065",
+    "convs": []
+  },
+  {
+    "question": "You are a determined child struggling to lift a heavy box of new Lego pieces onto the table, eager to build a giant castle but needing a helping hand to begin the project together.",
+    "persona": "pmem_user_0066",
+    "convs": []
+  },
+  {
+    "question": "You are a member of the event committee organizing a university cultural festival next month. You need someone to lend their expertise, providing insightful historical context for the exhibits to help curate a brief presentation. Your goal is to highlight the cultural memory and historical significance of the artifacts, thereby enriching the experience for all attendees.",
+    "persona": "pmem_user_0067",
+    "convs": []
+  },
+  {
+    "question": "You are a person facing a tight budget until the end of the month after an unexpectedly high electricity bill, caused by necessary repairs. You are hoping someone can lend you five hundred dollars to cover it until your next paycheck arrives on the 28th.",
+    "persona": "pmem_user_0068",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a casual soccer match in the park this Saturday, but your usual ball has a puncture. You are relying on a friend to lend their soccer ball for the afternoon so the group can play.",
+    "persona": "pmem_user_0069",
+    "convs": []
+  },
+  {
+    "question": "You are a person whose mother has just been admitted to the hospital after a sudden health scare, leaving you feeling overwhelmed and in need of a comforting presence. You are reaching out to someone whose insights and calm nature you trust, hoping they can spare time to meet, perhaps at the parish or a place of their choosing, to help you process it all.",
+    "persona": "pmem_user_0070",
+    "convs": []
+  },
+  {
+    "question": "You are a reliable child whose mother is counting on you to pick out the best cookies from the store next door. She is busy with a meeting until late and needs them for your friend's birthday party tomorrow, hoping to surprise her when she returns home.",
+    "persona": "pmem_user_0071",
+    "convs": []
+  },
+  {
+    "question": "You are about to submit an application for the Director of Student Services position at the sister college, and you believe the recipient's insight into your leadership skills would be invaluable. Having collaborated closely on various initiatives over the past three years, you must now ask them to write a recommendation letter highlighting your contributions and potential, ideally by next Wednesday.",
+    "persona": "pmem_user_0072",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled for cataract surgery at El Paso General next Tuesday morning, and you feel a bit anxious about going alone. You find it reassuring to have a familiar face with you during these moments. You need someone to accompany you to the hospital, stay with you through the process, and share a cup of coffee afterward.",
+    "persona": "pmem_user_0073",
+    "convs": []
+  },
+  {
+    "question": "You are a hiker stranded on Echo Mountain after a bad fall, nursing a painfully twisted ankle. You're struggling to descend on your own, anxiety creeping in with each attempt. You desperately need someone with a first aid kit to reach you and help you make it back to the trailhead.",
+    "persona": "pmem_user_0074",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a short comedic skit for a charity event next month and struggling with the punchlines. You need someone who has a knack for timing and delivery to help refine the jokes and offer tips on stage presence.",
+    "persona": "pmem_user_0075",
+    "convs": []
+  },
+  {
+    "question": "You are planning a visit to Amsterdam next month, eager to immerse yourself in the local culture and history, particularly drawn by your maternal roots in the city. You need to know the essential historical sites to visit and the cultural practices you should understand during your stay.",
+    "persona": "pmem_user_0076",
+    "convs": []
+  },
+  {
+    "question": "You are in a bit of a bind because you've decided to apply for a job in a different city, but you haven't informed your current employer yet. The application process requires a confidential recommendation letter from someone unrelated to your workplace, and given your background in anthropology and museum studies, you believe the person you're addressing would be perfect for this. You are hoping they can write this letter for you by next Friday, ensuring it stays between you both until the right time comes to disclose your plans.",
+    "persona": "pmem_user_0077",
+    "convs": []
+  },
+  {
+    "question": "You are an astrophysics symposium attendee arriving late Tuesday night, seeking a place to stay for a couple of nights near the Harvard-Smithsonian Center after finding local hotels fully booked.",
+    "persona": "pmem_user_0078",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled to give a short talk at the historical society's event this Saturday about digital humanities, but a family emergency has just arisen that you must attend. You need a friend, passionate about history and technology, to go in your place and take notes or record the session for you.",
+    "persona": "pmem_user_0079",
+    "convs": []
+  },
+  {
+    "question": "You are attending a last-minute jam band concert downtown on Friday night, and since the venue is a bit out of reach for public transport late at night, you need someone to give you a ride home after the show. You are counting on them to pick you up at the Wild Rose Amphitheater around 11 PM.",
+    "persona": "pmem_user_0080",
+    "convs": []
+  },
+  {
+    "question": "You are a writer heading to a retreat from Friday morning until Sunday night. Your usual pet sitter canceled at the last minute, leaving you in need of someone to check on your dachshund twice daily—to feed her and take her for a short walk. You are hoping a neighbor with a natural way with animals, who lives nearby, can step in to help.",
+    "persona": "pmem_user_0081",
+    "convs": []
+  },
+  {
+    "question": "You are attending a series of history conferences in Europe from the 5th to the 20th of next month and have realized you need someone you trust to keep an eye on your house while you are away. You are hoping they can water your plants once a week and collect the mail so it doesn't pile up.",
+    "persona": "pmem_user_0082",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled to attend an emergency meeting at the main office downtown tomorrow, and your usual caregiver is unavailable at short notice. You need someone to help by staying with your grandmother from 10 am to 2 pm, just to ensure she’s comfortable and takes her medications on time.",
+    "persona": "pmem_user_0083",
+    "convs": []
+  },
+  {
+    "question": "You are in the middle of editing a critical scene for your upcoming documentary, but you have just been called in for an urgent meeting with a potential funder this Thursday at 2 PM. You are hoping I can cover this meeting for you, as my expertise in storytelling and connections in the industry would be invaluable. You will share all the necessary details and background information with me by tomorrow.",
+    "persona": "pmem_user_0084",
+    "convs": []
+  },
+  {
+    "question": "You are finalizing a research proposal on the integration of AI in telehealth services, with a submission deadline next Friday. The proposal needs a thorough review, particularly to ensure the medical terminology and technological applications align, and you believe my expertise in this field would be invaluable. You must ask me to look it over this weekend and provide feedback on how you can enhance the sections on patient care integration.",
+    "persona": "pmem_user_0085",
+    "convs": []
+  },
+  {
+    "question": "You are moving into your new apartment in Capitol Hill this weekend, and some of the furniture has turned out to be much heavier than you expected. You find yourself in a spot where you need help carrying the new bookshelves up to the third floor on Saturday afternoon.",
+    "persona": "pmem_user_0086",
+    "convs": []
+  },
+  {
+    "question": "You are organizing a film screening and panel discussion on Latinx representation in media next Thursday evening at the community center, and you are short on people to help with the event setup. You need someone to assist with setting up the AV equipment and coordinating with the panelists from 5 to 9 pm.",
+    "persona": "pmem_user_0087",
+    "convs": []
+  },
+  {
+    "question": "You are in a bit of a financial bind, having covered unexpected medical expenses for your mother back in Ukraine, which has depleted your savings. You need to borrow around six hundred euros to get through the next month until your next paycheck arrives on the 10th, and you hope the other person can lend a hand this time.",
+    "persona": "pmem_user_0088",
+    "convs": []
+  },
+  {
+    "question": "You are a food blogger, gearing up for a weekend video shoot, only to have your own camera suddenly fail. In a bind, you remember a friend's impressive DSLR, the very one they use to film their comedy sketches. You must now ask to borrow it for Saturday and Sunday, pledging meticulous care and its safe return in pristine condition.",
+    "persona": "pmem_user_0089",
+    "convs": []
+  },
+  {
+    "question": "You are a person who has just received news of your aunt's passing, with the funeral set for next Tuesday in Montpelier. You know it will be a difficult day, and you need someone by your side who understands the importance of family in hard times. You hope this person can join you for support at the service and assist with some of the arrangements.",
+    "persona": "pmem_user_0090",
+    "convs": []
+  },
+  {
+    "question": "You are feeling under the weather today, and you are supposed to pick up a few gardening supplies from the store before it closes at 6 PM. Since your friend is so knowledgeable about plants, you need them to grab a bag of tulip bulbs and some potting soil for you. You really appreciate their help in keeping your garden vibrant.",
+    "persona": "pmem_user_0091",
+    "convs": []
+  },
+  {
+    "question": "You are applying for a research grant focused on the impact of social media on urban communities, and you need a recommendation from someone familiar with your work in this area. Having collaborated on several projects, you believe their insight into your methods and dedication would be invaluable. You must ask them to write a recommendation letter by the 15th to strengthen your application.",
+    "persona": "pmem_user_0092",
+    "convs": []
+  },
+  {
+    "question": "You are scheduled for a minor surgery on Monday at the hospital downtown, and the doctor has advised that you shouldn't be alone for the first 24 hours post-surgery. You are hoping someone can come with you to the appointment at 9 am and stay with you until the next morning to ensure you're okay and help with anything you need.",
+    "persona": "pmem_user_0093",
+    "convs": []
+  },
+  {
+    "question": "You are heading to a drag show tonight and have just realized your phone died while you were out photographing earlier. You need someone to meet you at the corner of 5th and Broadway with a charger or spare phone, as you don’t want to miss capturing the event or finding your way back.",
+    "persona": "pmem_user_0094",
+    "convs": []
+  },
+  {
+    "question": "You are a family therapist with extensive experience in youth mental health, approached by a relative whose nephew is facing emotional challenges at school. The boy’s parents are deeply concerned, and you are being asked to meet with them for an hour this weekend to offer guidance on how they can best support their son.",
+    "persona": "pmem_user_0095",
+    "convs": []
+  },
+  {
+    "question": "You are organizing an event for your local community center to celebrate Ghanaian culture, and you want to ensure any material used accurately represents the language and traditions. You need assistance translating some phrases into Twi and guidance on cultural nuances to make the event feel authentic and respectful.",
+    "persona": "pmem_user_0096",
+    "convs": []
+  },
+  {
+    "question": "You are in the final stages of buying a small storefront to expand your catering business, and there’s a delicate part in the negotiations you’d rather keep under the radar from your business partners for now. You need someone to review the financial documents and lease agreements with a knack for small business finance to ensure everything’s in order, and it has to remain strictly between you until you finalize the details.",
+    "persona": "pmem_user_0097",
+    "convs": []
+  },
+  {
+    "question": "You are a podcast conference attendee arriving in Wellington next week, left without accommodation after your hotel overbooked. You need a place to stay for two nights starting Monday while you are in town for the sessions.",
+    "persona": "pmem_user_0098",
+    "convs": []
+  },
+  {
+    "question": "You are a person who has been called away for a last-minute work assignment in Seattle this weekend. Unfortunately, it conflicts with your family's annual Tongva cultural gathering in Malibu on Saturday. Since you can't attend, and it's important for your family to be represented, you are asking someone to go in your place to share about your recent environmental projects with the group.",
+    "persona": "pmem_user_0099",
+    "convs": []
+  }
+]

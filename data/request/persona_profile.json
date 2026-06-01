@@ -1,0 +1,3202 @@
+{
+  "pmem_user_0000": {
+    "age": "28",
+    "gender": "Female",
+    "place_of_birth": "Nigeria",
+    "education": "Master's Degree in Mechanical Engineering, specializing in Applied Physics for Mechanical Systems and Motion Dynamics.",
+    "occupation": "STEM Education Program Designer in the STEM Education and Public Outreach industry.",
+    "hobbies_and_interests": "Designing custom racetracks, experimenting with aerodynamics in miniature models, attending science fairs, collecting vintage toy cars, and astronomy stargazing nights.",
+    "personality": {
+      "traits": "Curious, playfully competitive, innovative, patient, analytical, warm.",
+      "political_views": "Moderate progressive.",
+      "religion": "Christian, Anglican background."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Maintains strong ties with extended family despite living abroad."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild West-African accent over American English.",
+      "cultural_identity": "Nigerian-American with strong ties to Igbo heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly, enthusiastic, and intellectually playful.",
+      "formality": "Moderately informal in casual exchanges, highly articulate and precise when discussing science topics.",
+      "clarity": "Smooth and measured with occasional bursts of excitement."
+    },
+    "short_persona": "A science whiz who loves to incorporate physics concepts into unique toy car races, blending her Nigerian heritage with her American life.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0001": {
+    "age": "42",
+    "gender": "female",
+    "place_of_birth": "Querétaro, Mexico",
+    "education": "Bachelor’s in Political Science from Universidad Nacional Autónoma de México (UNAM) and Master’s in Public Administration from Instituto Tecnológico Autónomo de México (ITAM).",
+    "occupation": "Municipal Council Member for Economic Development with 18 years of experience in local government and community outreach.",
+    "hobbies_and_interests": "Reading political biographies, attending regional cultural festivals, networking at social charity galas, collecting artisanal ceramics, and running early morning in the city park.",
+    "personality": {
+      "traits": "Highly competitive, articulate and persuasive, charismatic leader.",
+      "political_views": "Centrist with leanings toward progressive economic policies.",
+      "religion": "Roman Catholic, cultural rather than devout."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Family history includes type 2 diabetes on the maternal side."
+    },
+    "language_and_culture": {
+      "first_language": "Spanish.",
+      "accent": "Mild Mexican accent when speaking English.",
+      "cultural_identity": "Mexican-born Latina of mixed Spanish and indigenous heritage."
+    },
+    "speaking_style": {
+      "tone": "Polished but guarded; speaks with underlying competitiveness and subtle self-promotion.",
+      "formality": "Semi-formal to formal, using politically correct phrasing.",
+      "clarity": "Moderate and deliberate, taking time to articulate thoughts clearly."
+    },
+    "short_persona": "An envious political rival in the same province, balancing a competitive career with family life.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0002": {
+    "age": "32",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "Master of Science in Information Systems from the University of Washington; Bachelor of Science in Computer Science from the University of Oregon.",
+    "occupation": "Product Manager in Cloud Solutions at a cloud computing company.",
+    "hobbies_and_interests": "Enjoys hiking, exploring local coffee culture, attending tech meetups, and engaging with emerging tech trends.",
+    "personality": {
+      "traits": "Analytical, curious, goal-oriented, pragmatic, open to new ideas, mildly introverted but articulate in professional settings, detail-oriented.",
+      "political_views": "Moderate with progressive tendencies toward technology regulation and environmental policy.",
+      "religion": "Agnostic."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Family pressure to move back to her hometown despite wanting to stay in Seattle."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American English with a mild Pacific Northwest accent.",
+      "cultural_identity": "American with English and German heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional yet approachable, warm without being overly casual.",
+      "formality": "Moderately formal, using complete sentences and proper grammar, but comfortable with conversational elements.",
+      "clarity": "Speaks efficiently, breaking down complex topics clearly and adapting pacing based on discussion complexity."
+    },
+    "short_persona": "A tech-savvy professional seeking career growth and work-life balance, deeply engaged in the tech community and passionate about ethical technology use.",
+    "neighbours": [
+      "pmem_user_0057"
+    ]
+  },
+  "pmem_user_0003": {
+    "age": "29",
+    "gender": "Male",
+    "place_of_birth": "Ghana",
+    "education": "Bachelor’s degree in Information Technology from the University of Ghana.",
+    "occupation": "Junior IT Support Specialist at a local fintech startup.",
+    "hobbies_and_interests": "Enjoys following tech blogs and podcasts, learning to code in Python and JavaScript, exploring local coffee shops, attending LGBTQ+ community meetups, and engaging in street photography.",
+    "personality": {
+      "traits": "Curious, open-minded, friendly, eager to learn, detail-oriented, slightly reserved in unfamiliar settings but warms up quickly.",
+      "political_views": "Moderate progressive.",
+      "religion": "Non-religious."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Cares for an ill parent."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild West-African accent over English.",
+      "cultural_identity": "Ghanaian with strong ties to local heritage."
+    },
+    "speaking_style": {
+      "tone": "Polite, warm, and slightly formal initially but becomes casually friendly over time.",
+      "formality": "Semi-formal with respectful addressing; avoids slang unless with familiar contacts.",
+      "clarity": "Moderate pace, thoughtful; tends to pause to consider questions before responding."
+    },
+    "short_persona": "A tech-savvy Ghanaian IT specialist passionate about technology and community, seeking guidance and insights from global voices while contributing his own knowledge.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0004": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "Kyoto, Japan",
+    "education": "Ph.D. in Art History with a specialization in Modern and Contemporary Art focusing on Surrealism from Yale University.",
+    "occupation": "Professor of Fine Arts in the Visual Arts Department at the University of California, Berkeley.",
+    "hobbies_and_interests": "Visiting art galleries and museums, writing poetry inspired by surrealist imagery, collecting vintage art books, practicing calligraphy, experimental photography, gardening with an emphasis on symbolic plant arrangements",
+    "personality": {
+      "traits": "Imaginative, patient, analytical, culturally aware, encouraging, philosophical, slightly eccentric",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a museum curator.",
+      "children": "Two children, ages 14 and 9.",
+      "parents": "Mother and father are retired teachers living in Japan; maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Mild Japanese-inflected American English.",
+      "cultural_identity": "Japanese-American with strong ties to traditional Japanese aesthetics."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and reflective, with a balance of academic rigor and creative openness.",
+      "formality": "Moderately formal; uses precise terminology when discussing art theory, but softens tone with accessible explanations and examples.",
+      "clarity": "Measured and deliberate; allows pauses in thought, often structuring responses as if forming a lecture or guided meditation."
+    },
+    "short_persona": "A professor of fine arts who teaches a course on surrealism, providing theoretical knowledge and guiding practical exercises.",
+    "neighbours": [
+      "pmem_user_0080"
+    ]
+  },
+  "pmem_user_0005": {
+    "age": "37",
+    "gender": "Woman",
+    "place_of_birth": "USA",
+    "education": "Master of Journalism from Columbia University Graduate School of Journalism; Bachelor of Arts in English Literature from University of Wisconsin–Madison.",
+    "occupation": "Independent Investigative Journalist and Feature Writer.",
+    "hobbies_and_interests": "Photography, long-form storytelling, community volunteering at legal aid groups, cycling, traveling to interview subjects in person.",
+    "personality": {
+      "traits": "Empathetic, inquisitive, meticulous, nonjudgmental, socially conscious, persistent, open-minded.",
+      "political_views": "Progressive with a focus on social justice and equity.",
+      "religion": "Agnostic with a focus on humanistic values."
+    },
+    "family": {
+      "marital_status": "Married to a documentary filmmaker.",
+      "children": "One daughter, age 6, interested in drawing and storybooks.",
+      "parents": "Father is a retired high school history teacher; mother is a former librarian."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with subtle Danish influences.",
+      "cultural_identity": "Danish-American with strong ties to both Danish and German heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, respectful, and conversational with professional curiosity.",
+      "formality": "Semi-formal with a focus on clarity and emotionally resonant language.",
+      "clarity": "Rich and precise vocabulary shaped by journalism and literature background."
+    },
+    "short_persona": "A dedicated journalist passionate about giving voice to marginalized individuals and uncovering untold human stories.",
+    "neighbours": [
+      "pmem_user_0069"
+    ]
+  },
+  "pmem_user_0006": {
+    "age": "37",
+    "gender": "Genderfluid",
+    "place_of_birth": "San Antonio, Texas, United States",
+    "education": "Master’s in Public Administration (MPA) from Georgetown University; Bachelor’s in Sociology from the University of Texas at Austin.",
+    "occupation": "Deputy Director of Community Engagement in local government.",
+    "hobbies_and_interests": "Attending local art exhibits, gardening with native plants, leading neighborhood clean-up events, reading about urban planning, cooking traditional family recipes, cycling to work",
+    "personality": {
+      "traits": "Empathetic, community-driven, strategic thinker, diplomatic, warm yet assertive",
+      "political_views": "Progressive/Left-leaning.",
+      "religion": "Culturally Catholic with secular values."
+    },
+    "family": {
+      "marital_status": "In a long-term partnership with a supportive partner.",
+      "children": "No children.",
+      "parents": "Parents emigrated from Jalisco, Mexico; close, regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-American inflection.",
+      "cultural_identity": "Mexican-American with strong ties to Hispanic heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, approachable, and collaborative.",
+      "formality": "Semi-formal, professional vocabulary for policy topics, casual for community stories.",
+      "clarity": "Measured and deliberate, ensures mutual understanding."
+    },
+    "short_persona": "A local government representative interested in supporting cooperative initiatives for community development.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0007": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "Princeton, New Jersey, USA",
+    "education": "Master of Arts in Journalism from Columbia University Graduate School of Journalism; Bachelor of Arts in English Literature from New York University.",
+    "occupation": "Culture and Arts Editor in the Media & Publishing industry.",
+    "hobbies_and_interests": "Writing film essays, hosting monthly film club discussions, attending film festivals in New York and Toronto.",
+    "personality": {
+      "traits": "Intellectually curious, highly imaginative, organized, empathetic listener, composed under pressure.",
+      "political_views": "Moderate progressive.",
+      "religion": "Hindu with cultural practices."
+    },
+    "family": {
+      "marital_status": "Single, previously in a long-term relationship.",
+      "children": "No children.",
+      "parents": "Parents immigrated from Mumbai, India; second-generation American."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild East Coast American accent.",
+      "cultural_identity": "Indian-American with strong ties to South Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, articulate, and inquisitive.",
+      "formality": "Moderately formal, with a shift to casual when emotionally engaged.",
+      "clarity": "Measured and deliberate, often presenting thoughts in organized sections."
+    },
+    "short_persona": "An intellectually curious and imaginative woman with a passion for film and journalism, living on the East Coast of the USA.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0008": {
+    "age": "38",
+    "gender": "Woman",
+    "place_of_birth": "Accra, Ghana",
+    "education": "Master of Arts in Archival Studies and Public History from University College London",
+    "occupation": "Independent genealogist and freelance archival consultant",
+    "hobbies_and_interests": "Genealogy, archival research, African and diasporic history, calligraphy, traveling to historical locations, community storytelling projects",
+    "personality": {
+      "traits": "Meticulous and detail-oriented, highly curious and investigative, patient and methodical in research",
+      "political_views": "Advocates for pan-African unity and heritage preservation, supports racial and LGBTQ+ equality",
+      "religion": "Agnostic with an appreciation for traditional African spiritual heritage"
+    },
+    "family": {
+      "marital_status": "Single and identifies as lesbian.",
+      "children": "No children, but questions how legacy will play into her personal life.",
+      "parents": "Mother is a Kenyan schoolteacher, father is a Ghanaian historian."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild West-African accent over British English",
+      "cultural_identity": "Ghanaian-British with strong ties to Ghanaian and Kenyan heritage"
+    },
+    "speaking_style": {
+      "tone": "Warm, measured, and inquisitive, often tinged with quiet enthusiasm for historical details",
+      "formality": "Semi-formal; maintains polite, precise language but softens it with familiar expressions",
+      "clarity": "Deliberate and unrushed, giving space for reflection and consideration of details"
+    },
+    "short_persona": "A meticulous genealogist tracing family lineage, driven by a personal quest to uncover historical mysteries through a mysterious ancestral diary.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0009": {
+    "age": "32",
+    "gender": "Woman",
+    "place_of_birth": "Dubai, United Arab Emirates",
+    "education": "Master of Fine Arts (MFA) in Creative Writing from the University of Edinburgh.",
+    "occupation": "Novelist and occasional literary columnist.",
+    "hobbies_and_interests": "Frequenting independent bookstores, attending literary festivals, watercolor painting, exploring historical architecture, and collecting vintage fountain pens.",
+    "personality": {
+      "traits": "Introspective but warm, highly articulate, curious about human nature, pragmatic dreamer, a touch self-deprecating.",
+      "political_views": "Moderate progressive.",
+      "religion": "Culturally Muslim, non-practicing."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Father is a retired mechanical engineer from Sharjah, UAE, and mother is a former literature teacher from Beirut, Lebanon."
+    },
+    "language_and_culture": {
+      "first_language": "Arabic.",
+      "accent": "Mild Middle Eastern accent over British English.",
+      "cultural_identity": "Emirati-British with strong ties to Lebanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, reflective, and gently probing.",
+      "formality": "Semi-formal; blends an educated, literary register with accessible phrasing.",
+      "clarity": "Measured and deliberate, valuing nuance over speed."
+    },
+    "short_persona": "A debut novelist whose book became a bestseller, bridging Middle Eastern heritage and European sensibilities in her work.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0010": {
+    "age": "32",
+    "gender": "Female",
+    "place_of_birth": "Hyderabad, India",
+    "education": "Master’s in Aeronautical Engineering from Indian Institute of Science (IISc), Bengaluru; B.Tech in Mechanical Engineering from Air Force Academy, Dundigal.",
+    "occupation": "Squadron Leader in the Indian Air Force, specializing in aircraft maintenance and systems engineering.",
+    "hobbies_and_interests": "Running 10K marathons, aviation history research, classical Indian dance (Bharatanatyam), reading biographies of military leaders, practicing meditation and yoga.",
+    "personality": {
+      "traits": "Disciplined, detail-oriented, respectful, ambitious, supportive, patriotic, resilient under pressure, mentorship-focused.",
+      "political_views": "Moderate, supportive of defense modernization and women’s empowerment in the armed forces.",
+      "religion": "Hindu."
+    },
+    "family": {
+      "marital_status": "Married to a software engineer in aerospace systems.",
+      "children": "One child, age 4.",
+      "parents": "Father is deceased; mother is a homemaker living in the same city."
+    },
+    "language_and_culture": {
+      "first_language": "Telugu",
+      "accent": "Mild Telugu-inflected Indian English.",
+      "cultural_identity": "Indian of Telugu heritage."
+    },
+    "speaking_style": {
+      "tone": "Respectful, warm, and professional, with subtle deference when mentioning senior officers.",
+      "formality": "High formality when discussing professional matters; softens to a more conversational style when discussing personal reflections or shared interests.",
+      "clarity": "Measured and deliberate, rarely speaking hurriedly; leaves thoughtful pauses to indicate consideration of complex ideas."
+    },
+    "short_persona": "A disciplined and ambitious officer in the Indian Air Force, balancing a demanding career with family life while maintaining a strong commitment to service and personal integrity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0011": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "Pakistan",
+    "education": "Master of Laws (LLM) in International Human Rights from SOAS University of London, with a diploma in Conflict Resolution and Transitional Justice from University of Essex.",
+    "occupation": "Independent researcher and international human rights consultant.",
+    "hobbies_and_interests": "Writing op-eds on human rights, gardening, reciting and reflecting on poetry, cooking traditional South Asian meals for close friends.",
+    "personality": {
+      "traits": "Resilient, empathetic, principled, intensely introspective, calm under pressure, meticulously articulate.",
+      "political_views": "Progressive human rights advocacy.",
+      "religion": "Muslim, progressive and culturally rooted."
+    },
+    "family": {
+      "marital_status": "Single with a focus on personal and professional growth.",
+      "children": "No children.",
+      "parents": "Maintains a complex relationship due to past experiences and cultural expectations."
+    },
+    "language_and_culture": {
+      "first_language": "Urdu.",
+      "accent": "Mild South Asian accent with British English influences.",
+      "cultural_identity": "Pakistani-British with strong ties to South Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Measured and thoughtful, with a calm but passionate undercurrent.",
+      "formality": "Moderately formal; respectful but warm.",
+      "clarity": "Deliberate and steady, using precise language."
+    },
+    "short_persona": "A former Guantánamo Bay detainee and human rights activist with a resilient and empathetic nature.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0012": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Durban, South Africa",
+    "education": "Master of Science in Oceanography from the University of Cape Town, Bachelor of Science in Nautical Science from South African Naval College.",
+    "occupation": "Naval Officer in the Cartography and Environmental Monitoring Division.",
+    "hobbies_and_interests": "Sailing and yachting, maritime history, underwater photography, community marine conservation projects, learning new languages, cooking seafood dishes.",
+    "personality": {
+      "traits": "Disciplined, detail-oriented, empathetic, calm under pressure, environmentally conscious.",
+      "political_views": "Moderately progressive with strong emphasis on environmental policy.",
+      "religion": "Anglican Christian."
+    },
+    "family": {
+      "marital_status": "Married to a corporate attorney.",
+      "children": "Two children, ages 9 and 6.",
+      "parents": "Mother and father are retired teachers living in the same city; close, weekly contact."
+    },
+    "language_and_culture": {
+      "first_language": "Zulu",
+      "accent": "Mild Zulu-inflected South African English.",
+      "cultural_identity": "Zulu heritage with strong ties to South African culture."
+    },
+    "speaking_style": {
+      "tone": "Professional yet approachable, blending warmth with precision.",
+      "formality": "Moderately formal — uses correct grammar and complete sentences but is not rigidly militaristic in tone.",
+      "clarity": "Measured and deliberate; takes time to clarify questions and provide context, avoiding rushed or incomplete statements."
+    },
+    "short_persona": "A Naval officer specialized in nautical cartography and water pollution, dedicated to environmental conservation and family life.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0013": {
+    "age": "34",
+    "gender": "Transgender man",
+    "place_of_birth": "Cambodia",
+    "education": "Bachelor's degree in Office Administration from a satellite campus of the University of Nairobi.",
+    "occupation": "Clerical Assistant at a municipal government office.",
+    "hobbies_and_interests": "Reading mystery novels, tending to a small balcony herb garden, listening to 90s pop and traditional Southeast Asian music, cooking fusion dishes combining East African and Southeast Asian flavors.",
+    "personality": {
+      "traits": "Resilient, empathetic, detail-oriented, soft-spoken but firm when necessary, private about personal struggles yet open to trusted confidants.",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular with spiritual openness, raised Buddhist."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Parents reside overseas, with limited contact due to travel costs and health priorities."
+    },
+    "language_and_culture": {
+      "first_language": "Khmer.",
+      "accent": "Mild Southeast Asian accent over Kenyan English.",
+      "cultural_identity": "Cambodian-Kenyan with strong ties to Southeast Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Polite, thoughtful, and slightly reserved at first but becomes warmer when feeling understood.",
+      "formality": "Semi-formal, balancing respectful phrasing with occasional casual remarks.",
+      "clarity": "Deliberate and unhurried; tends to think through ideas before expressing them."
+    },
+    "short_persona": "A resilient transgender man of Cambodian-Kenyan heritage, working as a clerical assistant in a small Kenyan town, navigating life with empathy and detail-oriented precision.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0014": {
+    "age": "38",
+    "gender": "Transgender woman",
+    "place_of_birth": "Portland, Oregon, USA",
+    "education": "Master of Science in Computer Science with a specialization in Artificial Intelligence and Autonomous Systems from a prestigious institution.",
+    "occupation": "Founder & CEO of a defense technology and autonomous software solutions company.",
+    "hobbies_and_interests": "Enjoys competitive sailing, collecting rare mechanical watches, immersive VR gaming, and bespoke cocktail mixology.",
+    "personality": {
+      "traits": "Strategic, competitive, innovative, self-reliant, and pragmatic.",
+      "political_views": "Economically libertarian, socially progressive.",
+      "religion": "Secular / Agnostic."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Estranged from parts of her family after her transition."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with mild influences from German.",
+      "cultural_identity": "German-American with strong ties to tech and entrepreneurial communities."
+    },
+    "speaking_style": {
+      "tone": "Confident and deliberate, with a slightly combative edge in competitive contexts.",
+      "formality": "Semi-formal, blending technical jargon with direct, blunt phrasing.",
+      "clarity": "Measured and steady, with calculated pauses to emphasize key points."
+    },
+    "short_persona": "A tech entrepreneur and strategic thinker who thrives in competitive environments and values innovation and market efficiency.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0015": {
+    "age": "32",
+    "gender": "Woman",
+    "place_of_birth": "England, UK",
+    "education": "Master of Arts in History with a specialization in 19th-Century British Social and Cultural History from the University of Exeter.",
+    "occupation": "Research Archivist and Independent Historical Consultant with 8 years of experience.",
+    "hobbies_and_interests": "Victorian-era social history, archival research, antique book collecting, visiting historical reenactments, classical literature, restoring Victorian furniture.",
+    "personality": {
+      "traits": "Inquisitive, detail-oriented, warmly approachable, patient, meticulous about historical accuracy, generous with knowledge, persistent researcher, collaborative in discussions.",
+      "political_views": "Progressive with a focus on education and cultural preservation.",
+      "religion": "Culturally Catholic but mostly secular in practice."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Parents are supportive and share a mixed heritage of Filipina and English."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild British accent with clear enunciation.",
+      "cultural_identity": "British with mixed Filipina and English heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, collegial, and intellectually curious.",
+      "formality": "Semi-formal, balancing professionalism with friendliness.",
+      "clarity": "Measured and deliberate, ensuring clarity with context."
+    },
+    "short_persona": "A Victorian history enthusiast who shares valuable resources and discussions in online forums, combining a love for historical accuracy with a warm and approachable demeanor.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0016": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "Japan",
+    "education": "Bachelor's degree in Mechanical Engineering from the University of Washington, Seattle, graduated in 1999.",
+    "occupation": "Maintenance Engineer at a regional manufacturing plant specializing in packaging machinery.",
+    "hobbies_and_interests": "Gardening, woodworking, cycling, hiking, and reading about sustainable living.",
+    "personality": {
+      "traits": "Pragmatic, patient, disciplined, detail-oriented, conservative with spending, humble.",
+      "political_views": "Conservative with a focus on financial independence and environmental responsibility.",
+      "religion": "Agnostic with Buddhist cultural influences."
+    },
+    "family": {
+      "marital_status": "Married to a part-time Japanese language teacher.",
+      "children": "Has two children: a 16-year-old son and a 13-year-old daughter.",
+      "parents": "Experienced grief from the passing of his father in Japan."
+    },
+    "language_and_culture": {
+      "first_language": "Japanese.",
+      "accent": "Mild Japanese accent over American English.",
+      "cultural_identity": "Japanese-American with strong ties to Japanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Polite, reserved, and thoughtful with occasional dry humor.",
+      "formality": "Semi-formal, using complete sentences and avoiding slang.",
+      "clarity": "Clear and concise, often providing background context before specific queries."
+    },
+    "short_persona": "A middle-aged Japanese-American man living a frugal life, focused on family harmony and self-sufficiency.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0017": {
+    "age": "21",
+    "gender": "Female",
+    "place_of_birth": "Pune, Maharashtra, India",
+    "education": "Currently a 3rd year undergraduate pursuing a Bachelor of Arts in Geography at the University of Delhi.",
+    "occupation": "Full-time student and part-time geography tutor at a local tutoring center.",
+    "hobbies_and_interests": "Travel blogging, virtual museum tours, learning new languages, landscape photography, collecting world maps and antique globes, volunteering for environmental NGOs.",
+    "personality": {
+      "traits": "Curious, enthusiastic, imaginative, detail-oriented, warm, and friendly.",
+      "political_views": "Moderate progressive.",
+      "religion": "Raised in a Hindu family but not actively participating in religious rituals."
+    },
+    "family": {
+      "marital_status": "Single, previously experienced a broken romantic relationship.",
+      "children": "No children.",
+      "parents": "Mother is a high school history teacher and father is a civil engineer in urban infrastructure."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "Mild Indian accent with fluency in English.",
+      "cultural_identity": "Indian with a blend of traditional and modern influences."
+    },
+    "speaking_style": {
+      "tone": "Friendly, upbeat, and genuinely curious.",
+      "formality": "Semi-formal with a mix of academic and casual expressions.",
+      "clarity": "Clear and precise, with a well-developed vocabulary."
+    },
+    "short_persona": "A young student fascinated by geography and eager to learn about different countries, balancing traditional family expectations with an independent lifestyle.",
+    "neighbours": [
+      "pmem_user_0028"
+    ]
+  },
+  "pmem_user_0018": {
+    "age": "78",
+    "gender": "Female",
+    "place_of_birth": "Palermo, Sicily, Italy",
+    "education": "High school diploma, with lifelong informal education through community activities and cultural societies.",
+    "occupation": "Retired seamstress and part-time baker, formerly ran a small neighborhood tailor shop in Brooklyn.",
+    "hobbies_and_interests": "Baking traditional Sicilian desserts, knitting for charity, attending church events, watching old Italian films, hosting family dinners, storytelling about Italian history.",
+    "personality": {
+      "traits": "Warm and affectionate, talkative and animated, proud of heritage, nostalgic, slightly nosy but endearing, dramatic storyteller.",
+      "political_views": "Moderate conservative with strong community values.",
+      "religion": "Christian, Roman Catholic."
+    },
+    "family": {
+      "marital_status": "Widowed, husband was a WWII veteran and grocery store owner.",
+      "children": "Two adult children, one lives nearby and the other in Florida.",
+      "parents": "Both from Palermo, Sicily; father was a fisherman, mother specialized in traditional Sicilian cooking."
+    },
+    "language_and_culture": {
+      "first_language": "Italian.",
+      "accent": "Mild Italian accent over American English.",
+      "cultural_identity": "Italian-American with strong ties to Sicilian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, lively, and theatrical, often with affectionate teasing.",
+      "formality": "Casual and informal, with old-fashioned idioms and occasional Italian phrases.",
+      "clarity": "Rich and colorful vocabulary, using descriptive adjectives and playful exaggeration."
+    },
+    "short_persona": "A gossipy little old Italian woman who loves storytelling and boasting about her countrymen's accomplishments.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0019": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Singapore",
+    "education": "Master of Business Administration (MBA) in Marketing and Brand Strategy from London Business School; Bachelor of Arts in Communication Studies from National University of Singapore.",
+    "occupation": "Senior Advertising Executive in the advertising, marketing, and brand strategy industry.",
+    "hobbies_and_interests": "Contemporary art exhibitions, immersive theatre experiences, global street food culture, mindfulness and yoga, luxury branding trends.",
+    "personality": {
+      "traits": "Charismatic, results-driven, highly creative, observant of cultural nuances, persuasive communicator, adaptable, detail-oriented.",
+      "political_views": "Socially progressive, business-friendly.",
+      "religion": "Culturally Hindu, not strictly practicing."
+    },
+    "family": {
+      "marital_status": "Single, experienced cultural pressure to marry by a certain age.",
+      "children": "No children.",
+      "parents": "Father is an architect, mother is a classical dance instructor."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Singaporean English with South Asian influences.",
+      "cultural_identity": "Singaporean with Indian heritage, deeply global in outlook."
+    },
+    "speaking_style": {
+      "tone": "Warm yet professional, maintains a friendly openness while focused on objectives.",
+      "formality": "Semi-formal, balances professionalism with approachable conversational language.",
+      "clarity": "Rich and precise vocabulary, blends marketing jargon with art and cultural terminology."
+    },
+    "short_persona": "A charismatic advertising executive who blends art with commerce in innovative campaigns, rooted in South Asian heritage with a global outlook.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0020": {
+    "age": "38",
+    "gender": "Male",
+    "place_of_birth": "Surabaya, East Java, Indonesia",
+    "education": "Bachelor of Laws (LL.B.) in Criminal Law and International Relations from the University of Indonesia, Jakarta.",
+    "occupation": "Former Corporate Legal Consultant and Criminal Enterprise Leader.",
+    "hobbies_and_interests": "Chess, collecting rare historical manuscripts, psychology texts, wine tasting, and strategic board games.",
+    "personality": {
+      "traits": "Highly intelligent, strategically manipulative, charismatic when advantageous, calculating risk-taker, observant, persuasive, and cynical.",
+      "political_views": "Opportunistic leanings toward policies that enabled loopholes.",
+      "religion": "Raised Muslim but now agnostic."
+    },
+    "family": {
+      "marital_status": "Divorced.",
+      "children": "One daughter, age 10, living with ex-wife in Singapore.",
+      "parents": "Middle-class educators in Surabaya."
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia.",
+      "accent": "Mild Southeast Asian accent over fluent American English.",
+      "cultural_identity": "Indonesian-American with a blend of Southeast Asian and Western influences."
+    },
+    "speaking_style": {
+      "tone": "Smooth, confident, and often slightly teasing.",
+      "formality": "Semi-formal to formal, shifts to casual to disarm.",
+      "clarity": "Measured and deliberate, weighing every word for impact."
+    },
+    "short_persona": "An intelligent, manipulative felon with a history of strategic criminal activities and a complex psychological profile.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0021": {
+    "age": "33",
+    "gender": "Woman",
+    "place_of_birth": "San Francisco, California, USA",
+    "education": "Ph.D. in Comparative Literature from Stanford University; B.A. from University of California, Berkeley.",
+    "occupation": "Assistant Professor in the Department of Comparative Literature at Yale University.",
+    "hobbies_and_interests": "Reading world literature, cooking regional Chinese cuisine, urban cycling, art-house cinema, attending art exhibitions.",
+    "personality": {
+      "traits": "Curious, imaginative, empathetic, analytical, intellectually ambitious.",
+      "political_views": "Progressive, with a focus on diversity in academia and equitable access to education.",
+      "religion": "Agnostic, with a strong interest in Buddhist philosophy."
+    },
+    "family": {
+      "marital_status": "In a long-term relationship with a documentary filmmaker.",
+      "children": "No children.",
+      "parents": "Parents immigrated from Shanghai in the early 1980s; maintain regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild American English with occasional Mandarin influences.",
+      "cultural_identity": "Chinese American with strong ties to East Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm but purpose-driven; intellectually engaged yet approachable.",
+      "formality": "Moderately formal in academic settings; informal in personal matters.",
+      "clarity": "Deliberate and reflective, with a rich and precise vocabulary."
+    },
+    "short_persona": "A dedicated academic and Assistant Professor at Yale, deeply engaged in literature and philosophy, with a strong commitment to diversity and mentorship.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0022": {
+    "age": "47",
+    "gender": "Woman",
+    "place_of_birth": "Novi Sad, Serbia",
+    "education": "Master of Public Administration (MPA) from the University of Washington Evans School of Public Policy & Governance; Bachelor's in Urban and Regional Planning from the University of Belgrade.",
+    "occupation": "Mayor of Eastwood, focusing on economic diversification and sustainable infrastructure.",
+    "hobbies_and_interests": "Reading policy journals, hiking in nearby national parks, attending local theater productions, cooking Serbian family recipes, traveling to tech conferences",
+    "personality": {
+      "traits": "Pragmatic, visionary, diplomatic, determined, approachable",
+      "political_views": "Centrist with progressive tendencies in economic and environmental policy.",
+      "religion": "Eastern Orthodox Christian."
+    },
+    "family": {
+      "marital_status": "Married to a civil engineer.",
+      "children": "Two children, ages 19 and 15.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Serbian",
+      "accent": "Mild Serbian-inflected American English.",
+      "cultural_identity": "Serbian-American with strong ties to Eastern European heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional yet warm — balances directness with courtesy.",
+      "formality": "Moderately formal — avoids slang, uses complete sentences with subtle humor.",
+      "clarity": "Sophisticated and policy-oriented — ensures clarity by adding brief explanations when using niche terminology."
+    },
+    "short_persona": "The mayor of a neighboring city who wants to collaborate on creating a regional tech hub.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0023": {
+    "age": "39",
+    "gender": "Woman",
+    "place_of_birth": "Tokyo, Japan",
+    "education": "Bachelor of Science in Industrial Engineering from the University of Michigan, Ann Arbor.",
+    "occupation": "Manufacturing Manager in the Automotive Manufacturing industry.",
+    "hobbies_and_interests": "Cooking Japanese home-style meals, hiking with family, salsa dancing, reading industrial leadership books, practicing origami, attending rock concerts",
+    "personality": {
+      "traits": "Detail-oriented, empathetic, organized, collaborative, calm",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a mechanical design engineer.",
+      "children": "Two children, ages 10 and 7.",
+      "parents": "Keeps close ties with parents in Japan; visits twice a year."
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Mild Japanese-inflected American English.",
+      "cultural_identity": "Japanese-American with strong ties to Japanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional yet approachable.",
+      "formality": "Semi-formal, business-appropriate language.",
+      "clarity": "Organized and precise, often providing detailed context."
+    },
+    "short_persona": "A manufacturing manager ensuring efficiency and safety in the production line of automobiles, balancing Japanese heritage with American professional identity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0024": {
+    "age": "38",
+    "gender": "Woman",
+    "place_of_birth": "San Juan, Puerto Rico",
+    "education": "Master of Public Health (MPH) with a specialization in Health Informatics from Boston University School of Public Health; Bachelor of Science in Nursing (BSN) from University of Puerto Rico, Medical Sciences Campus.",
+    "occupation": "Senior Healthcare Technology Consultant in the healthcare consulting and digital transformation industry.",
+    "hobbies_and_interests": "Urban gardening, practicing yoga and mindfulness, bilingual children's literacy programs, traveling to explore healthcare practices in other countries, tinkering with smart home technology",
+    "personality": {
+      "traits": "Visionary, analytical, empathetic, pragmatic, persistent, collaborative",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a corporate attorney.",
+      "children": "Two children, ages 8 and 5.",
+      "parents": "Father is deceased; mother passed away unexpectedly."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Puerto Rican-inflected American English.",
+      "cultural_identity": "American with a mixed heritage of Puerto Rican and Irish descent."
+    },
+    "speaking_style": {
+      "tone": "Warm, professional, and purpose-driven, with a nuanced blend of empathy and assertiveness.",
+      "formality": "Semi-formal, balancing professionalism with approachability.",
+      "clarity": "Steady and well-structured, rarely rushed."
+    },
+    "short_persona": "A visionary healthcare consultant advocating for the use of technology to streamline administrative processes.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0025": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "El Paso, Texas, USA",
+    "education": "Bachelor's Degree in Accounting from the University of New Mexico, with additional certifications as a Certified Public Accountant and workshops in creative writing.",
+    "occupation": "Senior Accountant in the finance industry, working at a financial services company.",
+    "hobbies_and_interests": "Attending poetry slams, journaling, hiking, cooking, listening to jazz, volunteering",
+    "personality": {
+      "traits": "Reflective, disciplined, empathetic, observant, open to new experiences",
+      "political_views": "Moderate with progressive leanings in social issues.",
+      "religion": "Cultural Catholic with a secular worldview."
+    },
+    "family": {
+      "marital_status": "Married to a supportive partner.",
+      "children": "Two children, ages 19 and 15.",
+      "parents": "Father is deceased; mother lives in El Paso, Texas, with occasional visits."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-American influenced English.",
+      "cultural_identity": "Mexican-American with strong ties to Latino heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and genuine, with occasional playful remarks.",
+      "formality": "Casual-to-semi-formal, avoiding slang but using colloquial expressions naturally.",
+      "clarity": "Clear, professional vocabulary with occasional poetic flourishes."
+    },
+    "short_persona": "A middle-aged accountant who attends poetry slams to appreciate the art and find inspiration.",
+    "neighbours": [
+      "pmem_user_0008"
+    ]
+  },
+  "pmem_user_0026": {
+    "age": "72",
+    "gender": "Male",
+    "place_of_birth": "Portland, Maine, USA",
+    "education": "Bachelor of Fine Arts in Metal Arts & Design from the Rhode Island School of Design (RISD), with additional training including an apprenticeship under a master goldsmith in Copenhagen and certification from the Gemological Institute of America (GIA).",
+    "occupation": "Retired master jeweler with a career spanning 45 years, specializing in handcrafted fine jewelry and restoration of antique pieces.",
+    "hobbies_and_interests": "Lapidary arts, fly fishing, photography of natural landscapes, collecting antique tools, reading historical novels, volunteering at local arts workshops",
+    "personality": {
+      "traits": "Warm, patient, encouraging",
+      "political_views": "Moderate with a focus on environmental conservation.",
+      "religion": "Episcopalian"
+    },
+    "family": {
+      "marital_status": "Married to a supportive partner for 48 years.",
+      "children": "Two children, ages 44 and 41.",
+      "parents": "Father is deceased; mother is also deceased."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild New England accent.",
+      "cultural_identity": "American with Northern European (English and Danish) heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, patient, and encouraging, with a natural inclination to tell stories.",
+      "formality": "Semi-formal—polite and articulate, yet friendly and approachable.",
+      "clarity": "Measured and deliberate, taking time to elaborate and provide context."
+    },
+    "short_persona": "A retired master jeweler passing down years of expertise and knowledge in the craft.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0027": {
+    "age": "46",
+    "gender": "Genderfluid",
+    "place_of_birth": "Bishkek, Kyrgyzstan",
+    "education": "Master’s in Public History from the University of California, Riverside.",
+    "occupation": "Freelance historical researcher and community heritage consultant.",
+    "hobbies_and_interests": "Oral history documentation, preservation of architectural heritage, local genealogy projects, archival photography, garden walking tours.",
+    "personality": {
+      "traits": "Inquisitive, attentive to detail, warmly nostalgic, slightly eccentric, patient listener.",
+      "political_views": "Progressive with an emphasis on historical preservation policy.",
+      "religion": "Culturally Muslim, spiritually agnostic."
+    },
+    "family": {
+      "marital_status": "Married to longtime partner, a cultural archivist.",
+      "children": "No children.",
+      "parents": "Parents immigrated from Bishkek, Kyrgyzstan in the late 1970s; maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Kyrgyz-inflected American English.",
+      "cultural_identity": "Kyrgyz-American with strong ties to Central Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, reflective, and slightly formal, often conveying a sense of storytelling.",
+      "formality": "Semi-formal; blends personable warmth with well-structured sentences.",
+      "clarity": "Rich and descriptive vocabulary with historical and archival terminology."
+    },
+    "short_persona": "A former neighbor from South Pasadena known as the neighborhood historian, deeply invested in preserving cultural heritage and community memory.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0028": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "Japan",
+    "education": "Doctor of Philosophy (Ph.D.) in Systematic Theology, Master of Divinity (M.Div.), Bachelor of Arts in Political Science",
+    "occupation": "Professor of Theology and Political Thought at a university in Boston",
+    "hobbies_and_interests": "Reading historical theological texts, attending interfaith dialogues, exploring world history museums, writing academic papers, engaging in debates on ethics and governance, classical music, and traditional Japanese arts",
+    "personality": {
+      "traits": "Analytical, reflective, measured, compassionate, culturally aware, historically knowledgeable",
+      "political_views": "Centrist with a focus on social justice, moral governance, and preserving human dignity through ethical policy-making",
+      "religion": "Christian, Anglican tradition"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has two children",
+      "parents": "Experienced grief after the passing of his father, who was a strong spiritual mentor"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Japanese accent over American English",
+      "cultural_identity": "Japanese-American with strong ties to Japanese heritage"
+    },
+    "speaking_style": {
+      "tone": "Respectful, contemplative, and slightly formal",
+      "formality": "Moderately formal; uses scholarly phrases but avoids unnecessary jargon",
+      "clarity": "Rich and sophisticated vocabulary with precise theological terminology"
+    },
+    "short_persona": "A theologian who provides insights on the role of religion in shaping political ideologies, balancing Eastern and Western perspectives.",
+    "neighbours": [
+      "pmem_user_0094"
+    ]
+  },
+  "pmem_user_0029": {
+    "age": "67",
+    "gender": "Female",
+    "place_of_birth": "Zimbabwe",
+    "education": "Bachelor of Fine Arts in Art History from the University of Cape Town.",
+    "occupation": "Retired art curator and freelance travel blogger.",
+    "hobbies_and_interests": "Painting watercolors, curating photo essays, gardening with indigenous plants, hosting art salons.",
+    "personality": {
+      "traits": "Reflective, curious, empathetic, detail-oriented, intellectually adventurous.",
+      "political_views": "Progressive with a strong focus on cultural preservation and community art funding.",
+      "religion": "Anglican Christian with a deep interest in interfaith dialogue."
+    },
+    "family": {
+      "marital_status": "Widowed.",
+      "children": "Two adult children living overseas.",
+      "parents": "Deceased."
+    },
+    "language_and_culture": {
+      "first_language": "Shona.",
+      "accent": "Mild Zimbabwean accent over fluent English.",
+      "cultural_identity": "Zimbabwean-born, South African naturalized citizen with a rich appreciation for African art and culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and occasionally nostalgic.",
+      "formality": "Semi-formal with polished sentence structure, softened by conversational warmth.",
+      "clarity": "Rich and expressive vocabulary, drawing from art history and cultural references."
+    },
+    "short_persona": "A retired art enthusiast and travel blogger who enjoys contemplating the depth and impact of art on personal life and society.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0030": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "Indonesia",
+    "education": "Master’s in Computer Science with a focus on Information Security from the National University of Singapore; Bachelor’s in Software Engineering from Bandung Institute of Technology.",
+    "occupation": "Founder & CEO of Privasea Technologies in the Data Privacy & Cybersecurity industry.",
+    "hobbies_and_interests": "Emerging data security technologies, cybersecurity policy debates, startup ecosystem development, travel to tech hubs, mentoring young entrepreneurs.",
+    "personality": {
+      "traits": "Principled, analytical, forward-thinking, cautiously optimistic, empathetic toward consumers, resilient under pressure, detail-oriented about legal frameworks, socially responsible.",
+      "political_views": "Moderate with progressive tech policy advocacy.",
+      "religion": "Culturally Muslim, moderately observant."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Parents reside in Indonesia."
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia.",
+      "accent": "Mild Southeast Asian accent over fluent English.",
+      "cultural_identity": "Indonesian with a strong connection to Southeast Asian culture, currently residing in Singapore."
+    },
+    "speaking_style": {
+      "tone": "Polite yet assertive, balancing warmth with technical authority.",
+      "formality": "Moderately formal, using professional vocabulary in technical contexts but casual phrasing for personal beliefs.",
+      "clarity": "Speaks in well-constructed paragraphs, using a measured and deliberate pace."
+    },
+    "short_persona": "A startup founder advocating for stricter data protection laws to safeguard consumer privacy.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0031": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "United Kingdom",
+    "education": "Bachelor of Science in Electrical Engineering with a specialization in Wireless Communications and Signal Processing.",
+    "occupation": "Senior RF Systems Engineer in the telecommunications industry.",
+    "hobbies_and_interests": "Amateur radio operation, tinkering with DIY electronics, field testing signal transmission, collecting vintage radio equipment, and backpacking with radio antenna experiments.",
+    "personality": {
+      "traits": "Curious, meticulous, inventive, introverted but warm once engaged, persistent, analytical.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic with a secular outlook."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Father passed away; maintains a distant relationship with mother."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild British accent with Northern European influences.",
+      "cultural_identity": "British with mixed British and Scandinavian heritage."
+    },
+    "speaking_style": {
+      "tone": "Enthusiastic yet measured; friendly with a technical edge.",
+      "formality": "Semi-formal, blending conversational warmth with precise terminology.",
+      "clarity": "Clear, with moderate pacing and pauses for complex explanations."
+    },
+    "short_persona": "A radio frequency enthusiast and senior engineer, passionate about unconventional communication methods and DIY electronics.",
+    "neighbours": [
+      "pmem_user_0018"
+    ]
+  },
+  "pmem_user_0032": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "United Kingdom",
+    "education": "Master of Arts in History and Cultural Studies from the University of Edinburgh, with additional certifications in Culinary Arts and Heritage Interpretation.",
+    "occupation": "Cultural Heritage Consultant with 15 years of experience, working independently in the Cultural Heritage and Historical Education industry.",
+    "hobbies_and_interests": "Collects first-edition history books, explores stately homes, experiments with traditional British recipes, hosts themed dinner parties, and attends lectures on European history.",
+    "personality": {
+      "traits": "Inquisitive, reflective, detail-oriented, warmly sociable, patient, and deeply nostalgic yet open to new perspectives.",
+      "political_views": "Centrist with liberal leanings in social issues and conservative leanings in heritage preservation.",
+      "religion": "Anglican, practicing occasionally."
+    },
+    "family": {
+      "marital_status": "Married to a literature professor.",
+      "children": "Has two children, a 12-year-old son interested in chess and medieval novels, and a 9-year-old daughter interested in ballet and baking.",
+      "parents": "Father is a retired history teacher and mother is a former pastry chef."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild British accent.",
+      "cultural_identity": "British with English and Irish descent, deeply connected to historical and cultural roots."
+    },
+    "speaking_style": {
+      "tone": "Warm, articulate, and respectfully inquisitive.",
+      "formality": "Semi-formal with polite address and well-structured sentences.",
+      "clarity": "Measured and deliberate, allowing space for reflection."
+    },
+    "short_persona": "A history and culture enthusiast fascinated by the British monarchy and culinary arts, working as a cultural heritage consultant.",
+    "neighbours": [
+      "pmem_user_0075"
+    ]
+  },
+  "pmem_user_0033": {
+    "age": "56",
+    "gender": "Female",
+    "place_of_birth": "Indonesia",
+    "education": "Bachelor of Science in Military Science from Indonesian Military Academy; Master of Arts in International Security Studies from Royal Military Academy Sandhurst / King's College London.",
+    "occupation": "Retired military officer; part-time lecturer on defense & conflict resolution; community volunteer for veterans’ affairs.",
+    "hobbies_and_interests": "Organic gardening, traditional batik making, reading historical biographies, mentoring young women in leadership, traveling to historical sites.",
+    "personality": {
+      "traits": "Disciplined, empathetic, culturally aware, diplomatic, and strategic.",
+      "political_views": "Moderate with strong emphasis on diplomacy, peacekeeping, and multilateral cooperation.",
+      "religion": "Muslim."
+    },
+    "family": {
+      "marital_status": "Married to a retired civil engineer and part-time university lecturer.",
+      "children": "Two children: a medical doctor in Jakarta and a graduate student in the Netherlands.",
+      "parents": "Has a family history of type 2 diabetes on her mother's side."
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia.",
+      "accent": "Mild Indonesian accent when speaking English.",
+      "cultural_identity": "Indonesian of Javanese heritage, with strong ties to Southeast Asian culture."
+    },
+    "speaking_style": {
+      "tone": "Polite, composed, and occasionally formal, with a diplomatic warmth.",
+      "formality": "Generally formal to semi-formal; uses complete sentences and avoids slang.",
+      "clarity": "Measured and deliberate, ensuring clarity with logical sequencing."
+    },
+    "short_persona": "A retired NATO military officer and part-time lecturer who values diplomacy and cultural heritage.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0034": {
+    "age": "72",
+    "gender": "Male",
+    "place_of_birth": "Mumbai, India",
+    "education": "Master's degree in Library and Information Science from Case Western Reserve University.",
+    "occupation": "Retired community archivist and librarian, formerly specializing in immigrant heritage collections.",
+    "hobbies_and_interests": "Reading historical journals, documenting oral histories, photography, translating letters, classical music, gardening heritage plants.",
+    "personality": {
+      "traits": "Warm, patient, reflective, methodical, sentimental.",
+      "political_views": "Moderate-progressive, values community welfare and immigrant rights.",
+      "religion": "Hindu by birth, participates in Catholic community events."
+    },
+    "family": {
+      "marital_status": "Married for 45 years to a Lithuanian-American.",
+      "children": "Two adult children, a high school history teacher and a museum curator.",
+      "parents": "Parents are deceased, with a family history rooted in India."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "Mild Indian accent with American English influences.",
+      "cultural_identity": "Lithuanian-American with strong ties to Indian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, courteous, with a touch of nostalgia.",
+      "formality": "Moderately formal, using complete sentences and polite address.",
+      "clarity": "Rich and precise vocabulary, often using historical references."
+    },
+    "short_persona": "A nostalgic senior member of the Lithuanian-American community, deeply engaged in preserving cultural heritage and history.",
+    "neighbours": [
+      "pmem_user_0014"
+    ]
+  },
+  "pmem_user_0035": {
+    "age": "39",
+    "gender": "Female",
+    "place_of_birth": "India",
+    "education": "Master of Science in Computer Science from the University of Washington; Bachelor of Technology in Computer Engineering from the Indian Institute of Technology Bombay.",
+    "occupation": "Senior Software Architect with 16 years of experience in the software/web development industry.",
+    "hobbies_and_interests": "Cooking fusion dishes, cycling around Lake Washington, collecting art prints, mentoring young women in STEM, and photography.",
+    "personality": {
+      "traits": "High openness, very high conscientiousness, moderate extraversion, high agreeableness, low neuroticism.",
+      "political_views": "Moderate progressive.",
+      "religion": "Culturally Hindu, non-practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Parents are divorced, with family residing in India."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "Mild Indian accent over American English.",
+      "cultural_identity": "Indian-American with strong ties to Indian heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional but warm, blending analytical precision with friendliness.",
+      "formality": "Semi-formal, avoids slang but uses casual phrases for relatability.",
+      "clarity": "Moderately fast with well-structured thoughts, breaking down complex queries into clear components."
+    },
+    "short_persona": "A senior software architect with a passion for real-time systems and mentoring in STEM, balancing a rich cultural heritage with a dynamic career in the U.S.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0036": {
+    "age": "32",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "Master of Science in Data Science from a prestigious university.",
+    "occupation": "Senior Data Scientist in the tech industry, specializing in social media analytics.",
+    "hobbies_and_interests": "Analyzing social media memes, participating in hackathons, reading behavioral economics books, practicing yoga, visiting artisanal coffee shops.",
+    "personality": {
+      "traits": "Analytical, curious, detail-oriented, optimistic about technology, future-focused, socially perceptive, enthusiastic about new findings.",
+      "political_views": "Moderate progressive.",
+      "religion": "Non-religious with a cultural appreciation for traditional festivals."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Parents immigrated from Guangzhou; mother is a retired nurse, father is a small business owner."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American accent with occasional Mandarin influences.",
+      "cultural_identity": "Chinese-American with strong ties to East Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional yet approachable, with friendly curiosity.",
+      "formality": "Moderate formality, balancing conversational speech with precise technical explanations.",
+      "clarity": "Clear and engaging, uses metaphors to explain complex concepts."
+    },
+    "short_persona": "A data scientist passionate about the predictive power of social media trends, blending technical expertise with cultural insights.",
+    "neighbours": [
+      "pmem_user_0020"
+    ]
+  },
+  "pmem_user_0037": {
+    "age": "27",
+    "gender": "female",
+    "place_of_birth": "Indonesia",
+    "education": "Bachelor of Communication Studies in Sports Journalism from Universitas Indonesia, graduated in 2019.",
+    "occupation": "Sports Content Producer in the Digital Media / Sports Broadcasting industry for BolaKita Online Media, with 4 years of experience.",
+    "hobbies_and_interests": "Enjoys watching football matches, following a favorite professional football player's career, traveling for away matches, photography at sports events, and playing futsal with friends.",
+    "personality": {
+      "traits": "Passionate, socially outgoing, curious, optimistic, slightly impulsive when excited about games.",
+      "political_views": "Moderate progressive.",
+      "religion": "Muslim."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Both Javanese, middle-class professionals; father is a retired civil servant, mother is a high school teacher."
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia.",
+      "accent": "Mild Indonesian accent with fluency in English.",
+      "cultural_identity": "Javanese Indonesian with strong ties to Southeast Asian culture."
+    },
+    "speaking_style": {
+      "tone": "Friendly, casual, and expressive.",
+      "formality": "Low formality, except for structured football analysis.",
+      "clarity": "Clear and enthusiastic, often using football jargon and local expressions."
+    },
+    "short_persona": "A passionate football fan and sports content producer who follows a favorite professional player and enjoys engaging with the football community.",
+    "neighbours": [
+      "pmem_user_0057"
+    ]
+  },
+  "pmem_user_0038": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "USA",
+    "education": "Master of Fine Arts in Film Production from the University of Southern California (USC) School of Cinematic Arts; Bachelor of Arts in Media Studies from New York University (NYU) Tisch School of the Arts.",
+    "occupation": "Vice President of Production & Archival Management in the Film & Entertainment industry.",
+    "hobbies_and_interests": "Collecting vintage film posters, photography, sailing, cooking Mediterranean cuisine, cycling in Griffith Park",
+    "personality": {
+      "traits": "Creative, meticulous, progressive",
+      "political_views": "Progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a corporate attorney.",
+      "children": "One child, age 8.",
+      "parents": "Mother and father are retired teachers living in the same city; close, weekly contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English.",
+      "cultural_identity": "White American with Western European heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly but professional, often mixing industry jargon with approachable explanations.",
+      "formality": "Moderate — balances clear professional communication with a conversational warmth.",
+      "clarity": "Measured and thoughtful; succinct and efficient in phrasing."
+    },
+    "short_persona": "A film studio executive known for pioneering secure digital archives, blending artistry with technology.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0039": {
+    "age": "46",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "Master of Arts in Art History and Curatorial Studies from Columbia University.",
+    "occupation": "Founder and Director of a Contemporary Arts Foundation focusing on culturally significant art grounded in technology and heritage.",
+    "hobbies_and_interests": "Collecting early prototypes of tech-based art, hosting salons with artists and technologists, attending biennales and design weeks, experimenting with immersive VR installations, collecting rare Native American beadwork, enjoying high-end fashion brands",
+    "personality": {
+      "traits": "Curious, Strategic, Charismatic, Perceptive, Discerning, Worldly",
+      "political_views": "Moderate progressive.",
+      "religion": "Spiritually attuned with deep respect for Apsáalooke ceremonial practices."
+    },
+    "family": {
+      "marital_status": "Single, previously in a long-term relationship.",
+      "children": "No children.",
+      "parents": "Mother and father are involved in cultural activities; maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild American English with occasional Indigenous linguistic influences.",
+      "cultural_identity": "American with strong ties to Apsáalooke heritage and European descent."
+    },
+    "speaking_style": {
+      "tone": "Warm yet authoritative, cultured but approachable.",
+      "formality": "Semi-formal to formal, blending conversational warmth with precise academic articulation.",
+      "clarity": "Measured and intentional, with sophisticated vocabulary and art-world specific terminology."
+    },
+    "short_persona": "A wealthy art collector interested in acquiring technologically-driven artworks, deeply connected to her Indigenous roots while embracing modernity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0040": {
+    "age": "43",
+    "gender": "Male",
+    "place_of_birth": "Ghana",
+    "education": "Ph.D. in Computational Linguistics from Stanford University, M.Sc. in Artificial Intelligence from University of Edinburgh, B.Sc. in Computer Science from University of Ghana.",
+    "occupation": "Founder and Chief Scientist at LinguaSynth AI Labs, specializing in Artificial Intelligence Research and Development.",
+    "hobbies_and_interests": "Reading books on linguistics and philosophy, playing chess, mentoring young engineers, traveling to conferences, exploring African oral storytelling traditions.",
+    "personality": {
+      "traits": "Analytical, visionary, persistent, curious, empathetic, detail-oriented, innovative.",
+      "political_views": "Moderate progressive.",
+      "religion": "Non-religious with cultural respect."
+    },
+    "family": {
+      "marital_status": "Single, focused on career growth with cultural expectations to marry.",
+      "children": "No children.",
+      "parents": "Parents are aging, lives far away, causing emotional impact."
+    },
+    "language_and_culture": {
+      "first_language": "Twi.",
+      "accent": "Mild West-African accent over fluent English.",
+      "cultural_identity": "Ghanaian with a strong emphasis on education and cultural heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, respectful, and intellectually engaged with a subtle dash of humor.",
+      "formality": "Moderately formal; professional in academic contexts, more conversational when brainstorming.",
+      "clarity": "Measured and deliberate, ensuring clarity with occasional pauses for reflection."
+    },
+    "short_persona": "A pioneer in artificial intelligence exploring the integration of human language into machines, combining analytical rigor with creative problem-solving.",
+    "neighbours": [
+      "pmem_user_0018"
+    ]
+  },
+  "pmem_user_0041": {
+    "age": "32",
+    "gender": "Male",
+    "place_of_birth": "Edison, New Jersey, USA",
+    "education": "Bachelor of Arts in Journalism and Mass Communication with a minor in Ethnomusicology from the University of Wisconsin–Madison.",
+    "occupation": "Senior Music Journalist at an independent cultural magazine with a strong digital presence.",
+    "hobbies_and_interests": "Crate-digging for rare vinyl records, discovering underground bands, photography, attending music festivals, writing short cultural essays.",
+    "personality": {
+      "traits": "Curious, witty, observant, passionate about music and culture, slightly perfectionist, open-minded, analytical yet creative.",
+      "political_views": "Leans progressive socially and culturally, supports diversity, inclusion, and open artistic expression.",
+      "religion": "Raised in a culturally Hindu household, but now more secular."
+    },
+    "family": {
+      "marital_status": "In a long-term relationship.",
+      "children": "No children.",
+      "parents": "First-generation immigrants from Mumbai, India."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with subtle South Asian influences.",
+      "cultural_identity": "Indian-American with strong ties to South Asian cultural heritage."
+    },
+    "speaking_style": {
+      "tone": "Conversational yet thoughtful; mixes enthusiasm with analytical depth when discussing music or culture.",
+      "formality": "Mostly casual, but grows more formal when discussing industry trends, historical context, or serious journalism topics.",
+      "clarity": "Takes time to formulate clear, vivid descriptions, but speeds up when excited about a discovery or idea."
+    },
+    "short_persona": "A former DJ at WSUM who is now working as a music journalist, passionate about exploring cultural intersections in music and documenting underground artist stories.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0042": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Naples, Italy",
+    "education": "Master of Fine Arts in Interactive Media & Game Design from the University of Southern California; B.Sc. in Computer Science with a minor in Physics from Politecnico di Milano.",
+    "occupation": "Lead Game Designer in the Video Game Development and Educational Technology industry.",
+    "hobbies_and_interests": "Reading popular science books, playing indie puzzle games, sketching level designs, attending physics lectures, cooking traditional Neapolitan dishes, traveling to historical observatories, participating in game jams.",
+    "personality": {
+      "traits": "Imaginative, analytical, curious, passionate about learning, slightly perfectionistic, introverted but socially adept, thoughtfully humorous.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic with a cultural appreciation for Catholic traditions."
+    },
+    "family": {
+      "marital_status": "Single with a history of a difficult breakup.",
+      "children": "No children, but experiences societal pressure regarding this.",
+      "parents": "Parents reside in Italy and expect a more traditional life path."
+    },
+    "language_and_culture": {
+      "first_language": "Italian.",
+      "accent": "Mild Italian accent over fluent American English.",
+      "cultural_identity": "Italian-American with strong ties to Italian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, intellectually engaged, and slightly playful.",
+      "formality": "Semi-formal with a balance of professional and friendly expression.",
+      "clarity": "Rich and precise with vivid analogies and occasional Italian phrases."
+    },
+    "short_persona": "A creative game designer blending science and art to create interactive experiences. Balances a rich cultural heritage with a modern, independent lifestyle.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0043": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "El Paso, Texas",
+    "education": "Master's Degree in Library and Information Science from the University of Texas at Austin.",
+    "occupation": "Community Librarian with 10 years of experience in the Public Library/Education industry.",
+    "hobbies_and_interests": "Reading memoirs and autobiographies, organizing book clubs, hiking, exploring local markets, baking traditional pastries, and practicing conversational French.",
+    "personality": {
+      "traits": "Reflective, persevering, empathetic, curious, detail-oriented.",
+      "political_views": "Moderate progressive.",
+      "religion": "Roman Catholic, culturally but not strictly practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Parents reside in El Paso, Texas."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Mexican-American accent.",
+      "cultural_identity": "Mexican-American with strong ties to Hispanic heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and conversational.",
+      "formality": "Generally informal but precise and articulate when discussing books.",
+      "clarity": "Deliberate and measured, ensuring clarity and depth in responses."
+    },
+    "short_persona": "An avid reader and community librarian who values resilience, family, and cultural heritage.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0044": {
+    "age": "27",
+    "gender": "Male",
+    "place_of_birth": "USA",
+    "education": "Associate of Arts in Hospitality Management from a community college.",
+    "occupation": "Barista & Shift Lead at an independently owned neighborhood coffee shop.",
+    "hobbies_and_interests": "Exploring emerging hip-hop artists, skateboarding, street photography, specialty coffee brewing, and attending local music performances.",
+    "personality": {
+      "traits": "Outgoing and approachable, warm sense of humor, creative and easygoing, attentive to details, sociable yet enjoys solitude.",
+      "political_views": "Moderate progressive.",
+      "religion": "Culturally Muslim, non-practicing."
+    },
+    "family": {
+      "marital_status": "Single with occasional pressure to settle down.",
+      "children": "No children.",
+      "parents": "Supportive, with expectations about cultural heritage and family responsibilities."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with occasional Moroccan Arabic influences.",
+      "cultural_identity": "Moroccan-American with strong ties to North African heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly and laid-back, with a hint of dry humor.",
+      "formality": "Informal but coherent, occasionally using slang or pop culture references.",
+      "clarity": "Conversational and fluid, with occasional pauses for thought."
+    },
+    "short_persona": "A sociable and creative coffee shop employee with a passion for hip-hop and community engagement.",
+    "neighbours": [
+      "pmem_user_0045"
+    ]
+  },
+  "pmem_user_0045": {
+    "age": "78",
+    "gender": "Woman",
+    "place_of_birth": "Olivença, Portugal",
+    "education": "Vocational teaching diploma in Primary Education and Literacy from Instituto de Formação de Professores de Évora.",
+    "occupation": "Retired primary school teacher and local oral historian.",
+    "hobbies_and_interests": "Preserving Oliventine Portuguese language through storytelling, gardening olives and figs, embroidery with traditional motifs, reading historical novels and poetry, listening to fado and old folk songs, participating in religious processions and cultural festivals.",
+    "personality": {
+      "traits": "Warm, hospitable, stubborn, patient, nostalgic, humorous",
+      "political_views": "Culturally conservative with a focus on heritage preservation.",
+      "religion": "Cultural Catholic with syncretic folk traditions."
+    },
+    "family": {
+      "marital_status": "Widowed.",
+      "children": "Three children, all living abroad.",
+      "parents": "Parents are deceased; strong family bonds maintained through memories and traditions."
+    },
+    "language_and_culture": {
+      "first_language": "Oliventine Portuguese",
+      "accent": "Distinct Oliventine Portuguese accent.",
+      "cultural_identity": "Mixed-race Iberian and North African heritage, deeply connected to Oliventine culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, deliberate, and affectionate; carries the rhythm of oral storytelling.",
+      "formality": "Semi-formal, blending polite address with occasional colloquialisms and idioms from Oliventine Portuguese.",
+      "clarity": "Measured and unrushed, often pausing to reflect or add anecdotes when responding."
+    },
+    "short_persona": "An elderly Oliventine Portuguese speaker, deeply connected to cultural heritage and language, living in a small rural home in Olivença.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0046": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "Nigeria",
+    "education": "Bachelor’s Degree in Computer Engineering with certifications in Cisco Certified Network Professional and AWS Certified Solutions Architect.",
+    "occupation": "Senior Systems Engineer in the Information Technology and Services industry.",
+    "hobbies_and_interests": "Explaining computing concepts, reading historical non-fiction, walking nature trails, photography, and playing chess.",
+    "personality": {
+      "traits": "Patient, analytical, empathetic, methodical, curious, helpful, optimistic.",
+      "political_views": "Moderate progressive.",
+      "religion": "Christian, Anglican background."
+    },
+    "family": {
+      "marital_status": "Married to a pediatric nurse.",
+      "children": "Two children, ages 6 and 3.",
+      "parents": "Eldest son with high family expectations."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Nigerian accent over fluent English.",
+      "cultural_identity": "Nigerian, Igbo ethnicity, with strong ties to cultural heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly, patient, and curious.",
+      "formality": "Moderate, blending professional terminology with conversational phrasing.",
+      "clarity": "Deliberate and measured, often using structured responses."
+    },
+    "short_persona": "A computer engineer passionate about making complex issues understandable, with a love for nature and photography.",
+    "neighbours": [
+      "pmem_user_0008"
+    ]
+  },
+  "pmem_user_0047": {
+    "age": "38",
+    "gender": "Woman",
+    "place_of_birth": "Beirut, Lebanon",
+    "education": "Ph.D. in Economics, specializing in Industrial Organization and Digital Economy from the London School of Economics and Political Science (LSE).",
+    "occupation": "Senior Policy Economist at the International Trade and Competitiveness Division, World Bank Group.",
+    "hobbies_and_interests": "Reading historical non-fiction, attending economic policy forums, cooking traditional Lebanese food, hiking in nature, exploring contemporary art museums.",
+    "personality": {
+      "traits": "Analytical, detail-oriented, pragmatic, intellectually curious, diplomatic communicator, patient, highly adaptable, empathetic but critical thinker.",
+      "political_views": "Moderate progressive with a focus on global cooperation and sustainable development.",
+      "religion": "Secular Muslim background."
+    },
+    "family": {
+      "marital_status": "Married to a software engineer specializing in cybersecurity.",
+      "children": "Has one child.",
+      "parents": "Raised in a middle-class family in post-war Beirut."
+    },
+    "language_and_culture": {
+      "first_language": "Arabic.",
+      "accent": "Mild Lebanese accent over American English.",
+      "cultural_identity": "Lebanese-American with strong ties to Lebanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional yet warm; maintains a respectful and precise demeanor while occasionally blending in light humor or personal reflections when relaxed.",
+      "formality": "Generally formal in professional contexts, but willing to shift to a conversational middle ground when brainstorming or exploring creative angles.",
+      "clarity": "Measured and deliberate — tends to pause logically between thoughts, presenting information in a structured and methodical sequence to ensure clarity."
+    },
+    "short_persona": "An economist studying the impact of digital transformation on market competitiveness, with a strong focus on evidence-based decision-making and global cooperation.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0048": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "Brazil",
+    "education": "Bachelor's in Aeronautical Science from Pontifícia Universidade Católica de Minas Gerais (PUC-Minas) with additional certifications in aviation.",
+    "occupation": "First Officer (Co-Pilot) at LATAM Airlines Brasil with 9 years of experience.",
+    "hobbies_and_interests": "Paragliding, photography from cockpit views, exploring new cuisines, road trips along coastal routes.",
+    "personality": {
+      "traits": "Determined, adventurous, detail-oriented, empathetic, warm, pragmatic, goal-driven, confident under pressure.",
+      "political_views": "Moderate progressive.",
+      "religion": "Christian, with a cultural Catholic background."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Maintains a close relationship with family, though often apart due to career commitments."
+    },
+    "language_and_culture": {
+      "first_language": "Portuguese.",
+      "accent": "Subtle Brazilian accent when speaking English.",
+      "cultural_identity": "Afro-Brazilian with mixed Portuguese and Indigenous ancestry."
+    },
+    "speaking_style": {
+      "tone": "Friendly, respectful, and open; carries warmth and excitement when discussing aviation.",
+      "formality": "Moderately informal, blends professionalism with a personable nature.",
+      "clarity": "Expressive and clear, uses precise aviation terminology and idiomatic expressions."
+    },
+    "short_persona": "A Brazilian pilot with a passion for aviation and a dream to advance her career in the USA.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0049": {
+    "age": "68",
+    "gender": "Male",
+    "place_of_birth": "El Paso, Texas, USA",
+    "education": "B.Sc. in Electrical Engineering from the University of Texas at Austin; MBA in Technology Management from Stanford Graduate School of Business.",
+    "occupation": "Retired Executive Vice President of Operations in the semiconductor manufacturing and design industry.",
+    "hobbies_and_interests": "Golf, reading business biographies, volunteering with STEM programs, gardening, traveling to historical sites, attending classical guitar concerts.",
+    "personality": {
+      "traits": "Analytical, warm, disciplined, detail-oriented, patient, mentorship-minded, structured thinker, loyal.",
+      "political_views": "Moderate progressive.",
+      "religion": "Roman Catholic, culturally observant."
+    },
+    "family": {
+      "marital_status": "Married to a supportive partner for 42 years.",
+      "children": "Two children, ages 39 and 36.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-American inflection.",
+      "cultural_identity": "Mexican-American with strong ties to Latino heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm and cordial, with a mix of curiosity and pragmatism.",
+      "formality": "Moderately formal; professional phrasing for technical topics, conversational for personal matters.",
+      "clarity": "Measured and deliberate, ensuring precision and clarity."
+    },
+    "short_persona": "A retiree and former semiconductor industry executive, deeply committed to family, education, and cultural heritage.",
+    "neighbours": [
+      "pmem_user_0080"
+    ]
+  },
+  "pmem_user_0050": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "Mumbai, India",
+    "education": "Holds a B.A. in Film and Media Studies from the University of California, Berkeley, and an MBA from the University of Southern California, Marshall School of Business.",
+    "occupation": "Senior Vice President of Development in the Film & Television industry at Aurora Studios.",
+    "hobbies_and_interests": "Enjoys cooking traditional Indian and fusion cuisine, practicing yoga, hiking on weekends, watching classic Bollywood films, and hosting intimate dinner parties.",
+    "personality": {
+      "traits": "Decisive under pressure, empathetic listener, collaborative leader, perfectionist tendencies, deeply family-oriented, values cultural traditions while embracing modernity.",
+      "political_views": "Moderate progressive.",
+      "religion": "Hindu, with a secular, culturally open outlook."
+    },
+    "family": {
+      "marital_status": "Married to a corporate attorney.",
+      "children": "Has two children: a 14-year-old son and a 9-year-old daughter.",
+      "parents": "Maintains a close relationship with her mother, who lives in Mumbai, India."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Indian accent over American English.",
+      "cultural_identity": "Indian-American with strong ties to Indian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and respectful with occasional moments of playfulness.",
+      "formality": "Semi-formal; uses complete sentences with clear reasoning, interspersed with casual phrases.",
+      "clarity": "Speaks with a rich, nuanced vocabulary, avoiding slang-heavy speech."
+    },
+    "short_persona": "A studio executive who values her mother's opinion and often seeks it before making major decisions.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0051": {
+    "age": "38",
+    "gender": "Transgender man",
+    "place_of_birth": "Rural village in Yorkshire, England, United Kingdom",
+    "education": "Ph.D. in Social Anthropology from University of Cambridge.",
+    "occupation": "Senior Lecturer in Social Anthropology at a prestigious university.",
+    "hobbies_and_interests": "Attending fantasy literature conventions, amateur calligraphy, cycling along the Thames path, visiting second-hand bookstores, collecting vintage maps, reading Discworld series",
+    "personality": {
+      "traits": "Analytical, curious, dry-witted, empathetic, detail-oriented, intellectually playful",
+      "political_views": "Progressive with strong focus on academic freedom and evidence-based policy.",
+      "religion": "Agnostic with humanist leanings."
+    },
+    "family": {
+      "marital_status": "Married to an archivist specializing in medieval manuscripts.",
+      "children": "No children.",
+      "parents": "Mother and father live in the countryside; relationship is distant due to limited understanding of his transition."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Yorkshire-inflected British English.",
+      "cultural_identity": "British with strong ties to Western European heritage."
+    },
+    "speaking_style": {
+      "tone": "Measured, thoughtful, and often tinged with subtle dry humor.",
+      "formality": "Moderately formal by default, with precise sentence structure.",
+      "clarity": "Deliberate and unhurried, often pausing to consider complex ideas."
+    },
+    "short_persona": "A social anthropologist who analyzes the societal implications portrayed in the Discworld series.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0052": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Chicago, United States",
+    "education": "Bachelor’s in Marketing and Communications from Northwestern University.",
+    "occupation": "Senior Accounts Executive in the advertising industry.",
+    "hobbies_and_interests": "Collecting vintage TV commercials, traveling to Mediterranean countries, cooking Lebanese recipes, jogging around the lakefront trail, hosting wine-and-cheese gatherings",
+    "personality": {
+      "traits": "Persuasive, sociable, detail-oriented, confident, loyal",
+      "political_views": "Progressive with a focus on social equity, inclusivity, and anti-discrimination policies.",
+      "religion": "Culturally Muslim, non-practicing."
+    },
+    "family": {
+      "marital_status": "In a long-term relationship with a partner.",
+      "children": "No children.",
+      "parents": "Mother and father are alive; maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild American English with occasional Levantine Arabic influences.",
+      "cultural_identity": "Lebanese-American with strong ties to Middle Eastern heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and personable.",
+      "formality": "Semi-formal, blending professional terminology with informal language.",
+      "clarity": "Moderate to slightly deliberate pacing with clear, story-driven communication."
+    },
+    "short_persona": "A dedicated sales representative in the advertising industry who values traditional media and champions diversity and inclusivity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0053": {
+    "age": "27",
+    "gender": "Male",
+    "place_of_birth": "Madison, Wisconsin, USA",
+    "education": "Bachelor of Arts in English Literature with a minor in Music from University of Wisconsin–Madison, graduated in 2019.",
+    "occupation": "Coffee shop barista at an indie café with live open-mic nights, part-time guitar teacher, and freelance lyric consultant.",
+    "hobbies_and_interests": "Acoustic guitar, folk and indie rock music, vinyl record collecting, hiking, reading poetry, journal writing, and browsing independent record stores.",
+    "personality": {
+      "traits": "Creative, self-reflective, introverted but warm once comfortable, slightly perfectionistic, optimistic yet pragmatic about challenges, occasionally self-deprecating humor, empathetic and a good listener.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Grew up in a warm, music-tinged household with a father who played Irish ballads and a Swedish-American mother."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American accent with a mild Midwestern influence.",
+      "cultural_identity": "American with Swedish and Irish heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly, introspective, and curious; often blends vulnerability with humor.",
+      "formality": "Semi-informal, uses contractions and natural speech patterns.",
+      "clarity": "Rich descriptive language, especially when discussing lyrics or emotions."
+    },
+    "short_persona": "An aspiring singer-songwriter with a passion for folk and indie rock music, working towards overcoming performance anxiety and building a loyal audience.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0054": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "Egypt",
+    "education": "Bachelor’s Degree in Landscape Architecture from Cairo University, with additional training in sustainable horticulture and desert flora conservation.",
+    "occupation": "Lead Horticultural Designer for Outdoor Flora Installations, working as a private contractor for international summits and events.",
+    "hobbies_and_interests": "Enjoys traditional Arabic calligraphy, studying botany, cooking family recipes, exploring historic gardens, and photographing seasonal blooms.",
+    "personality": {
+      "traits": "Patient, detail-oriented, grounded, aesthetically sensitive, practical yet creative, values tradition and heritage.",
+      "political_views": "Environmentally progressive with a focus on sustainable development and biodiversity preservation.",
+      "religion": "Culturally Muslim, with a spiritual but non-dogmatic outlook."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Father was a mentor figure; experienced difficulty coping with his death."
+    },
+    "language_and_culture": {
+      "first_language": "Arabic.",
+      "accent": "Mild Egyptian accent with influences from Moroccan dialect.",
+      "cultural_identity": "Egyptian with strong ties to Middle Eastern heritage, currently residing in Morocco."
+    },
+    "speaking_style": {
+      "tone": "Warm, polite, and cordial, with traces of gentle formality.",
+      "formality": "Moderately formal, avoids slang, and uses proper sentence structures.",
+      "clarity": "Measured and thoughtful, structuring responses in complete thoughts."
+    },
+    "short_persona": "A skilled gardener who designs and maintains outdoor floral installations for international summits, blending cultural heritage with modern aesthetics.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0055": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Singapore, Singapore",
+    "education": "Bachelor of Engineering in Acoustics and Audio Technology with a minor in Industrial Design from the University of Southampton (UK) — Institute of Sound and Vibration Research.",
+    "occupation": "Founder and Lead Acoustic Engineer in the Professional Audio Equipment Manufacturing industry.",
+    "hobbies_and_interests": "Vinyl record collecting, traveling to music festivals worldwide, playing the electric bass, urban photography, researching historical design of speakers and sound technology",
+    "personality": {
+      "traits": "Innovative, detail-oriented, adaptive, resourceful, authentic",
+      "political_views": "Moderate progressive.",
+      "religion": "Buddhist, culturally, not strictly practicing."
+    },
+    "family": {
+      "marital_status": "In a committed relationship with a fellow entrepreneur.",
+      "children": "No children.",
+      "parents": "Parents are supportive, living in Singapore; regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Mandarin Chinese",
+      "accent": "Mild Singaporean English with occasional Mandarin phrases.",
+      "cultural_identity": "Chinese Singaporean with strong ties to East Asian culture."
+    },
+    "speaking_style": {
+      "tone": "Enthusiastic but grounded, with a balance between professional authority and approachable warmth.",
+      "formality": "Semi-formal — blends professional jargon with casual conversational style.",
+      "clarity": "Moderately animated, uses precise technical terms and vivid metaphors."
+    },
+    "short_persona": "A sound equipment manufacturer specializing in high-fidelity speakers for music production, passionate about innovation and cultural diversity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0056": {
+    "age": "42",
+    "gender": "Female",
+    "place_of_birth": "USA",
+    "education": "Bachelor of Science in Radiologic Technology from the University of Illinois at Chicago.",
+    "occupation": "Senior Radiologic Technologist and Online Radiology Forum Moderator.",
+    "hobbies_and_interests": "Photography, hiking, cooking family recipes, reading medical case studies, collecting vintage radiology textbooks.",
+    "personality": {
+      "traits": "Warm, detail-oriented, supportive, methodical, analytical, approachable, patient.",
+      "political_views": "Moderate with a focus on healthcare access and education.",
+      "religion": "Eastern Orthodox (culturally)."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "None.",
+      "parents": "Father passed away; mother living abroad."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with occasional Eastern European influences.",
+      "cultural_identity": "Serbian-American with strong ties to Eastern European heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, encouraging, and professional.",
+      "formality": "Semi-formal with professional terminology in radiology contexts.",
+      "clarity": "Measured and thoughtful, ensuring clarity and structure."
+    },
+    "short_persona": "A dedicated radiology professional who mentors aspiring technicians and actively contributes to the community.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0057": {
+    "age": "52",
+    "gender": "Male",
+    "place_of_birth": "Guadalajara, Jalisco, Mexico",
+    "education": "Bachelor of Fine Arts in Graphic Design from California State University, Fullerton.",
+    "occupation": "Freelance Branding and Visual Identity Consultant.",
+    "hobbies_and_interests": "Visiting art museums and galleries, cooking traditional Mexican dishes, collecting art prints, volunteering at LGBTQ+ youth programs, gardening with native plants, traveling to culturally rich cities.",
+    "personality": {
+      "traits": "Warm, expressive, articulate, nostalgic, encouraging, sincere.",
+      "political_views": "Progressive — strong advocate for arts education, public school funding, immigrant rights, and LGBTQ+ inclusion.",
+      "religion": "Cultural Catholic, non-practicing, participates in certain traditions for family and heritage."
+    },
+    "family": {
+      "marital_status": "Married to an IT consultant.",
+      "children": "One adult child, age 27, pursuing a career in animation.",
+      "parents": "Immigrant parents from Mexico, emphasized bilingualism, higher education, and creative self-expression."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-inflected American English.",
+      "cultural_identity": "Mexican-American with strong ties to Jalisco heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, heartfelt, and genuine; naturally blends enthusiasm with reflective sentiment.",
+      "formality": "Semi-formal and personable; uses courteous phrasing with relaxed warmth.",
+      "clarity": "Moderate to slow, often pausing to savor details or memories."
+    },
+    "short_persona": "A deeply connected Mexican-American artist and educator, passionate about mentorship, cultural heritage, and the arts, navigating the complexities of family life and career transitions.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0058": {
+    "age": "46",
+    "gender": "Female",
+    "place_of_birth": "Indonesia",
+    "education": "Ph.D. in Immunology from the University of Melbourne, B.Sc. in Biology from Gadjah Mada University",
+    "occupation": "Chief Immunologist & Vaccine Development Lead at the International Institute for Tropical Diseases",
+    "hobbies_and_interests": "Classical piano, batik painting, morning runs, traveling for field research",
+    "personality": {
+      "traits": "Analytical, empathetic, patient, detail-oriented, modestly confident",
+      "political_views": "Moderate progressive with a focus on public health advocacy",
+      "religion": "Moderate Muslim"
+    },
+    "family": {
+      "marital_status": "Married to a public health policy advisor",
+      "children": "Mother of two children",
+      "parents": "Cares for aging parents"
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia",
+      "accent": "Mild Indonesian accent over fluent English",
+      "cultural_identity": "Indonesian with strong ties to Southeast Asian heritage"
+    },
+    "speaking_style": {
+      "tone": "Warm, professional, and intellectually engaged",
+      "formality": "Semi-formal to formal, precise in scientific contexts",
+      "clarity": "Measured and deliberate, ensuring clarity and completeness"
+    },
+    "short_persona": "A renowned immunologist respected for her vaccine contributions, balancing scientific authority with empathy.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0059": {
+    "age": "23",
+    "gender": "Man",
+    "place_of_birth": "Thailand",
+    "education": "Final year undergraduate student pursuing a Bachelor of Engineering in Civil Engineering at The University of Hong Kong.",
+    "occupation": "Intern at an environmental engineering consultancy in Kowloon.",
+    "hobbies_and_interests": "Enjoys photography, cooking fusion Thai-Chinese cuisine, hiking, trail running, listening to jazz and lo-fi music, and watching Japanese anime and Korean dramas.",
+    "personality": {
+      "traits": "Warm, friendly, intellectually curious, empathetic, detail-oriented, and responsible.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic with interest in philosophy, raised Buddhist."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Raised in a Thai-Chinese family with high academic expectations."
+    },
+    "language_and_culture": {
+      "first_language": "Thai.",
+      "accent": "Mild Southeast Asian accent over fluent English.",
+      "cultural_identity": "Thai-Chinese with strong ties to Southeast Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Friendly and conversational, with occasional playful humor.",
+      "formality": "Semi-formal, blending polite phrasing with casual colloquialisms.",
+      "clarity": "Medium-paced communication with thoughtful pauses for complex topics."
+    },
+    "short_persona": "A civil engineering student at Hong Kong University with a passion for sustainable infrastructure and a rich cultural background.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0060": {
+    "age": "37",
+    "gender": "Male",
+    "place_of_birth": "Yogyakarta, Indonesia",
+    "education": "Bachelor of Science in Information Technology from Institut Teknologi Sepuluh Nopember.",
+    "occupation": "IT Support Specialist in the Technology Services industry.",
+    "hobbies_and_interests": "Photography with smartphones, cooking traditional Indonesian dishes, cycling in the early morning, teaching neighbors how to use smartphones, participating in online coding hackathons.",
+    "personality": {
+      "traits": "Patient, kind, methodical, empathetic, technical-minded.",
+      "political_views": "Moderate progressive.",
+      "religion": "Follows Islamic practices, attends prayer times daily."
+    },
+    "family": {
+      "marital_status": "Married to an administrative assistant.",
+      "children": "Two children, ages 8 and 5.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Indonesian (Bahasa Indonesia)",
+      "accent": "Mild Javanese-inflected Indonesian.",
+      "cultural_identity": "Javanese Indonesian with strong ties to Southeast Asian culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, encouraging, and friendly — designed to put the other person at ease and build confidence.",
+      "formality": "Semi-formal with occasional casual expressions; avoids jargon unless explained in simple terms.",
+      "clarity": "Repeats key steps for clarity; highlights important tips with phrases like 'Remember…' or 'A quick note…'."
+    },
+    "short_persona": "A patient and kind internet user who provides step-by-step instructions and troubleshooting tips for using smartphones and social media.",
+    "neighbours": [
+      "pmem_user_0080"
+    ]
+  },
+  "pmem_user_0061": {
+    "age": "38",
+    "gender": "Nonbinary",
+    "place_of_birth": "Los Angeles, USA",
+    "education": "Juris Doctor (JD) from University of California, Los Angeles (UCLA) School of Law. Bachelor of Arts in Political Science and Chicano Studies from University of California, Berkeley.",
+    "occupation": "Criminal Defense Attorney specializing in drug-related offenses at a mid-sized law firm.",
+    "hobbies_and_interests": "Playing soccer, cooking Mexican dishes, attending live music performances, volunteering, collecting rare books",
+    "personality": {
+      "traits": "Empathetic, articulate, passionate",
+      "political_views": "Progressive, with strong advocacy for criminal justice reform.",
+      "religion": "Culturally Catholic but personally spiritual."
+    },
+    "family": {
+      "marital_status": "In a long-term partnership with a supportive partner.",
+      "children": "No children.",
+      "parents": "Parents are supportive and live in the same city; regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-American inflection.",
+      "cultural_identity": "Mexican-American with strong ties to Jalisco heritage."
+    },
+    "speaking_style": {
+      "tone": "Conversational yet precise.",
+      "formality": "Moderate, articulate and structured.",
+      "clarity": "Rich and nuanced vocabulary with accessible language."
+    },
+    "short_persona": "A dedicated criminal defense attorney specializing in drug-related offenses, passionate about justice reform and cultural heritage.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0062": {
+    "age": "38",
+    "gender": "Male",
+    "place_of_birth": "Indonesia",
+    "education": "Master's in Archival Science from the University of British Columbia; Bachelor's in History from Universitas Indonesia.",
+    "occupation": "Sports History Archivist at the National Sports Museum of Indonesia.",
+    "hobbies_and_interests": "Collecting vintage sports memorabilia, visiting sports museums, amateur photography, watching historical sports documentaries, playing table tennis recreationally, cataloging old newspaper archives.",
+    "personality": {
+      "traits": "Detail-oriented, patient, curious, historically passionate, methodical, thoughtful, mildly introverted but socially warm, perfectionistic about documentation.",
+      "political_views": "Moderate progressive.",
+      "religion": "Muslim, moderately practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Parents relocated from a rural area to Jakarta."
+    },
+    "language_and_culture": {
+      "first_language": "Indonesian.",
+      "accent": "Mild Indonesian accent over fluent English.",
+      "cultural_identity": "Indonesian with Javanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm but professional; blends enthusiasm for sports history with a calm, measured demeanor.",
+      "formality": "Moderately formal—organized sentence structure but not overly academic.",
+      "clarity": "Deliberate and steady, allowing for thorough articulation of ideas."
+    },
+    "short_persona": "An archivist specializing in sports history, passionate about documenting the rich history of table tennis.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0063": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "San Francisco, California, USA",
+    "education": "Bachelor of Science in Pharmaceutical Marketing with a minor in Regulatory Affairs from the University of Southern California.",
+    "occupation": "Senior Sales Representative in the pharmaceutical industry.",
+    "hobbies_and_interests": "Cycling along local trails, cooking modern twists on traditional Chinese recipes, volunteering at free health clinics, collecting antique fountain pens, practicing mindful meditation",
+    "personality": {
+      "traits": "Diligent, sociable yet professional, conscientious rule-follower",
+      "political_views": "Moderate with a focus on healthcare reform and science-based policy.",
+      "religion": "Non-religious with cultural Buddhist influences."
+    },
+    "family": {
+      "marital_status": "Married to a nurse practitioner specialized in cardiology.",
+      "children": "One child, age 4.",
+      "parents": "Living in a different state, experiencing occasional cultural differences in parenting styles."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild West Coast American English with occasional Mandarin inflection.",
+      "cultural_identity": "Chinese American with strong Californian roots."
+    },
+    "speaking_style": {
+      "tone": "Warmly professional with a balance between friendliness and efficiency.",
+      "formality": "Moderate – uses industry-appropriate terminology but occasionally shifts into more relaxed phrasing.",
+      "clarity": "Measured and deliberate, taking time to clearly lay out context and details."
+    },
+    "short_persona": "A dedicated sales representative who promotes his company's new medications and works closely with FDA officials to ensure compliance.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0064": {
+    "age": "38",
+    "gender": "Male",
+    "place_of_birth": "Sri Lanka",
+    "education": "Master of Business Administration in International Business & Maritime Logistics from National University of Singapore; Bachelor's in Mechanical Engineering from University of Melbourne.",
+    "occupation": "Regional Supply Chain Director in the Maritime & Shipping Logistics industry with 15 years of experience.",
+    "hobbies_and_interests": "Sailing, deep-sea fishing, cultural travel, fine dining, marine navigation technology, photography.",
+    "personality": {
+      "traits": "Adventurous, detail-oriented, optimistic, socially confident, status-conscious but discreet, research-driven.",
+      "political_views": "Moderate progressive.",
+      "religion": "Hindu."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Mother resides in Sri Lanka; father passed away during his teenage years."
+    },
+    "language_and_culture": {
+      "first_language": "Tamil.",
+      "accent": "Mild Southeast Asian accent over Singaporean English.",
+      "cultural_identity": "Sri Lankan-born Singaporean with Southeast Asian cultural ties."
+    },
+    "speaking_style": {
+      "tone": "Enthusiastic and warm, with friendly curiosity.",
+      "formality": "Semi-formal, blending professional and relaxed language.",
+      "clarity": "Uses rich vocabulary with nautical terminology, ensuring clarity with layperson's analogies."
+    },
+    "short_persona": "An excited potential yacht buyer seriously considering the Beneteau 50 as his first yacht, blending luxury with purpose in life decisions.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0065": {
+    "age": "54",
+    "gender": "Man",
+    "place_of_birth": "Accra, Ghana",
+    "education": "Master of Public Administration from the London School of Economics and Political Science; Bachelor of Arts in Political Science from the University of Ghana, Legon.",
+    "occupation": "Former Member of Parliament, now a political consultant and media commentator.",
+    "hobbies_and_interests": "Collecting rare history books, playing chess, hosting political salons, jazz music appreciation, Scotch whisky tasting",
+    "personality": {
+      "traits": "Strategic, guarded, charismatic under pressure, opportunistic, adaptive",
+      "political_views": "Independent with a centrist reformist background.",
+      "religion": "Cultural Christian, non-practicing."
+    },
+    "family": {
+      "marital_status": "Divorced.",
+      "children": "Two children, ages 26 and 22.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Ghanaian-inflected English.",
+      "cultural_identity": "Ghanaian with strong ties to local heritage."
+    },
+    "speaking_style": {
+      "tone": "Guardedly conversational yet somewhat performative; speaks as though every word must have strategic weight.",
+      "formality": "Semi-formal — mixes professional discourse with personable anecdotes, but avoids casual slang.",
+      "clarity": "Measured and deliberate, with occasional pauses to ‘plant’ an idea before elaborating."
+    },
+    "short_persona": "A convoluted political figure with a tarnished reputation and a knack for being elusive.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0066": {
+    "age": "9",
+    "gender": "Male",
+    "place_of_birth": "United States",
+    "education": "4th Grade Student at a public elementary school",
+    "occupation": "Student",
+    "hobbies_and_interests": "Drawing animals and fantasy creatures, building Lego sets, watching nature documentaries, playing soccer, bird watching, watercolor painting, and collecting toy cars.",
+    "personality": {
+      "traits": "Sensitive, thoughtful, introverted, empathetic, cautious, imaginative.",
+      "political_views": "No developed political views due to age.",
+      "religion": "Raised in a non-religious household with secular values."
+    },
+    "family": {
+      "marital_status": "Parents are married and live together.",
+      "children": "Has one older sister, age 14.",
+      "parents": "Father is an elementary school teacher, mother is a nurse."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Midwestern American accent.",
+      "cultural_identity": "American with Danish and Swedish heritage, identifying with Northern European roots."
+    },
+    "speaking_style": {
+      "tone": "Cautious but seeking reassurance.",
+      "formality": "Informal, childlike language with simple sentences.",
+      "clarity": "Clear when comfortable, hesitant and trailing off when discussing difficult topics."
+    },
+    "short_persona": "A sensitive and thoughtful 9-year-old boy who enjoys drawing and nature documentaries. Struggles with anxiety and nightmares due to past traumatic experiences.",
+    "neighbours": [
+      "pmem_user_0014"
+    ]
+  },
+  "pmem_user_0067": {
+    "age": "37",
+    "gender": "Male",
+    "place_of_birth": "Santa Fe, New Mexico, USA",
+    "education": "Doctor of Philosophy (Ph.D.) in History with a specialization in Colonial Latin American History and Cultural Memory from the University of Texas at Austin.",
+    "occupation": "University History Professor and Author at the University of Texas at San Antonio.",
+    "hobbies_and_interests": "Visiting historic sites, reading historical fiction and epic romances, listening to boleros and flamenco guitar music, cooking family recipes passed down for generations, attending cultural festivals",
+    "personality": {
+      "traits": "Romantic, emotional, reflective, passionate, empathetic",
+      "political_views": "Progressive with a strong focus on education, cultural preservation, and social justice.",
+      "religion": "Culturally Catholic, spiritually open-minded."
+    },
+    "family": {
+      "marital_status": "Married to an art curator with a focus on Latin American art.",
+      "children": "Two children, ages 8 and 5.",
+      "parents": "Father is a retired schoolteacher from Chihuahua, Mexico; mother is a community organizer and seamstress, second-generation Mexican American."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican American English with occasional Spanish inflections.",
+      "cultural_identity": "Mexican American with strong ties to cultural heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, heartfelt, deeply personal; often poetic and filled with vivid imagery.",
+      "formality": "Semi-formal to conversational; employs academic precision when discussing history but becomes more tender and lyrical when speaking about emotions or relationships.",
+      "clarity": "Deliberate and thoughtful; pauses frequently to reflect and choose words carefully; sometimes drifts into long, narrative-like responses."
+    },
+    "short_persona": "A romantic and emotional historian.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0068": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Surabaya, Indonesia",
+    "education": "Ph.D. in Epidemiology from London School of Hygiene & Tropical Medicine, M.Sc. in Public Health from University of Indonesia, B.Sc. in Biomedical Science from Airlangga University.",
+    "occupation": "Senior Epidemiologist at the Indonesian National Institute of Public Health.",
+    "hobbies_and_interests": "Gardening, reading historical biographies, cooking traditional Javanese recipes, exploring data visualization tools, participating in community health workshops.",
+    "personality": {
+      "traits": "Analytical, meticulous, empathetic, resilient, diplomatic, patient.",
+      "political_views": "Strongly supports evidence-based, equitable healthcare policies; advocates for governmental transparency and international cooperation in disease prevention.",
+      "religion": "Muslim, practicing but progressive in outlook."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Grew up in Surabaya, Indonesia; family background includes a history of type 2 diabetes on her mother's side."
+    },
+    "language_and_culture": {
+      "first_language": "Indonesian.",
+      "accent": "Mild Indonesian accent over fluent English.",
+      "cultural_identity": "Indonesian with strong ties to Southeast Asian cultural practices."
+    },
+    "speaking_style": {
+      "tone": "Warm, respectful, and slightly formal.",
+      "formality": "Moderately formal with a shift to conversational when discussing personal topics.",
+      "clarity": "Deliberate and methodical, ensuring clarity and logical structure."
+    },
+    "short_persona": "A dedicated epidemiologist focused on vaccination strategies, balancing meticulous research with community engagement.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0069": {
+    "age": "10",
+    "gender": "Male",
+    "place_of_birth": "Novi Sad, Serbia",
+    "education": "Currently in 5th grade at Evergreen Elementary School.",
+    "occupation": "Student",
+    "hobbies_and_interests": "Collecting world coins, sketching maps of imaginary countries, researching cultures online, playing soccer at the park, drawing maps, watching documentaries, playing strategy board games",
+    "personality": {
+      "traits": "Curious, empathetic, analytical, imaginative, socially aware",
+      "political_views": "Progressive with a strong interest in global issues.",
+      "religion": "Culturally Eastern Orthodox, non-observant."
+    },
+    "family": {
+      "marital_status": "Single, living with family.",
+      "children": "No children.",
+      "parents": "Father is a software engineer and mother is a high school history teacher; both immigrated from Serbia and maintain a close family environment."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Serbian-inflected American English.",
+      "cultural_identity": "Serbian-American with strong ties to Eastern European heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, inquisitive, and open-minded; voice carries a childlike sincerity mixed with moments of surprising depth.",
+      "formality": "Informal but polite; tends to use everyday vocabulary but picks up and experiments with terms learned from books or school.",
+      "clarity": "Moderate; sometimes pauses mid-sentence to think, especially when forming complex questions."
+    },
+    "short_persona": "A curious and empathetic 10-year-old who asks thought-provoking questions about global conflicts.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0070": {
+    "age": "34",
+    "gender": "Transgender man",
+    "place_of_birth": "United States",
+    "education": "Master of Arts in Theology, with a focus on Biblical Studies from the University of Notre Dame.",
+    "occupation": "Adult Faith Formation Coordinator at a mid-sized parish.",
+    "hobbies_and_interests": "Reading Catholic theological works, attending church retreats, volunteering for parish outreach, studying early Church Fathers, playing classical guitar, hiking.",
+    "personality": {
+      "traits": "Reflective, warm, deeply principled, patient, intellectually curious, loyal, contemplative, humorous.",
+      "political_views": "Leaning conservative on theological matters, moderate on social policy.",
+      "religion": "Roman Catholic, Latin Rite with interest in Benedictine spirituality."
+    },
+    "family": {
+      "marital_status": "Single, open to marriage.",
+      "children": "No children.",
+      "parents": "Mother is a nurse, father is a history teacher."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with occasional theological terminology.",
+      "cultural_identity": "American with mixed Irish and German heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, respectful, and reflective.",
+      "formality": "Moderately formal, uses complete sentences and proper grammar.",
+      "clarity": "Measured and deliberate, prefers depth over rapid exchanges."
+    },
+    "short_persona": "A devoted Catholic and enthusiastic reader of Catholic theology, passionate about theology and community service.",
+    "neighbours": [
+      "pmem_user_0020"
+    ]
+  },
+  "pmem_user_0071": {
+    "age": "7",
+    "gender": "female",
+    "place_of_birth": "Duluth, Minnesota, USA",
+    "education": "Currently in 2nd grade at North Shore Elementary School, enjoys art, reading, and science experiments.",
+    "occupation": "Student",
+    "hobbies_and_interests": "Drawing imaginary worlds, reading fairy tales, baking cookies, building forts, playing with friends, writing stories.",
+    "personality": {
+      "traits": "Affectionate, imaginative, sensitive, playful, inquisitive, optimistic, warm-hearted.",
+      "political_views": "No developed political views due to age.",
+      "religion": "Raised in a culturally Christian environment."
+    },
+    "family": {
+      "marital_status": "Parents are married.",
+      "children": "Only child.",
+      "parents": "Mother is an elementary school teacher, father is a long-haul truck driver."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "American, with a Northern Midwestern influence.",
+      "cultural_identity": "American with Northern European ancestry."
+    },
+    "speaking_style": {
+      "tone": "Warm, enthusiastic, and trusting.",
+      "formality": "Informal and innocent.",
+      "clarity": "Uses simple words and expressions, often with creative analogies."
+    },
+    "short_persona": "A young child eagerly awaiting her father's return from long trips, full of imagination and warmth.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0072": {
+    "age": "48",
+    "gender": "Female",
+    "place_of_birth": "USA",
+    "education": "Doctor of Education (Ed.D.) in Higher Education Administration from the University of Pennsylvania. Bachelor of Arts in Sociology from the University of Michigan.",
+    "occupation": "Dean of Admissions at a private liberal arts college.",
+    "hobbies_and_interests": "Reading contemporary fiction, cooking Mediterranean cuisine, attending art exhibitions, jogging along river trails, hosting salon-style discussion evenings",
+    "personality": {
+      "traits": "Analytical, empathetic, goal-oriented, fair-minded, articulate, diplomatic, vision-driven",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a public policy consultant.",
+      "children": "Two children, ages 16 and 13.",
+      "parents": "Parents have moved to a retirement community in another state."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English.",
+      "cultural_identity": "American with Western European heritage, primarily English and Scottish descent."
+    },
+    "speaking_style": {
+      "tone": "Warm yet professional — balances approachability with a polished demeanor.",
+      "formality": "Moderately formal — uses complete sentences, refrains from slang.",
+      "clarity": "Measured and deliberate — takes the time to articulate thoughts fully."
+    },
+    "short_persona": "A dean of admissions, skilled in strategic recruitment and enrollment management, who holds strong values for diversity and equal opportunity.",
+    "neighbours": [
+      "pmem_user_0008"
+    ]
+  },
+  "pmem_user_0073": {
+    "age": "72",
+    "gender": "woman",
+    "place_of_birth": "El Paso, Texas, USA",
+    "education": "Bachelor’s in Elementary Education from the University of Arizona.",
+    "occupation": "Retired elementary school teacher with 35 years of experience.",
+    "hobbies_and_interests": "Cooking traditional Mexican dishes, gardening roses, writing letters to old friends, singing along to boleros.",
+    "personality": {
+      "traits": "Warm, sentimental, highly empathetic, community-oriented, patient with a playful sense of humor.",
+      "political_views": "Moderate progressive.",
+      "religion": "Catholic."
+    },
+    "family": {
+      "marital_status": "Married for 52 years.",
+      "children": "Has 3 children and 5 grandchildren.",
+      "parents": "Both parents are deceased."
+    },
+    "language_and_culture": {
+      "first_language": "Spanish.",
+      "accent": "Mild Mexican-American accent over American English.",
+      "cultural_identity": "Mexican-American with strong ties to Latino heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm and conversational, with affectionate undertones.",
+      "formality": "Moderately informal, respectful but relaxed.",
+      "clarity": "Measured and thoughtful, with rich personal anecdotes."
+    },
+    "short_persona": "A warm and empathetic retired teacher who cherishes family traditions and community involvement, visiting a diner weekly with her husband to reminisce about their shared past.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0074": {
+    "age": "38",
+    "gender": "Male",
+    "place_of_birth": "San Diego, USA",
+    "education": "Ph.D. in Chemical Engineering from Massachusetts Institute of Technology (MIT), B.S. in Materials Science and Engineering from University of California, Berkeley.",
+    "occupation": "Senior Manufacturing Scientist in Advanced Manufacturing / Industrial R&D.",
+    "hobbies_and_interests": "3D printing, hiking, cooking, mentoring, reading science fiction",
+    "personality": {
+      "traits": "Analytical, innovative, collaborative",
+      "political_views": "Moderate progressive.",
+      "religion": "Culturally Catholic, non-practicing."
+    },
+    "family": {
+      "marital_status": "Married to a high school Spanish teacher.",
+      "children": "Two children, ages 10 and 7.",
+      "parents": "Parents and two siblings live within a 30-minute drive; close-knit family."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Mexican-American accent.",
+      "cultural_identity": "Mexican-American with strong ties to cultural heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, engaged, and intellectually curious.",
+      "formality": "Semi-formal with a friendly tone.",
+      "clarity": "Moderate and deliberate, with technical precision."
+    },
+    "short_persona": "A manufacturing scientist who invents novel methods in production, helping the company stay ahead of the curve.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0075": {
+    "age": "29",
+    "gender": "Female",
+    "place_of_birth": "Minneapolis, Minnesota, USA",
+    "education": "Bachelor of Arts in Communications with a minor in Theater from the University of Minnesota, Twin Cities.",
+    "occupation": "Freelance stand-up comedian and content creator, also works as a barista to support income.",
+    "hobbies_and_interests": "Performing at open mics, writing new material, listening to comedy podcasts, watching stand-up specials, following pop culture, taking improv classes, attending music gigs and indie films, and cooking comfort food.",
+    "personality": {
+      "traits": "Charismatic, quick-witted, sociable, ambitious, self-deprecating sense of humor, perceptive observer of people and culture, persistent, slightly anxious but uses humor as a coping mechanism.",
+      "political_views": "Progressive.",
+      "religion": "Agnostic."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Lost a parent unexpectedly at 24, which deepened existential questions."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Northern American accent with occasional comedic exaggeration.",
+      "cultural_identity": "American with Northern European heritage, primarily Swedish and Irish descent."
+    },
+    "speaking_style": {
+      "tone": "Casual, conversational, and infused with humor; alternates between sharp wit and self-reflective sincerity.",
+      "formality": "Informal — often conversational, peppered with slang and comedic exaggeration.",
+      "clarity": "Quick and spontaneous, but willing to slow down when discussing deeper topics or needing thoughtful advice."
+    },
+    "short_persona": "An upcoming stand-up comedian constantly networking to make a name in the industry, known for her quick wit and charismatic presence.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0076": {
+    "age": "64",
+    "gender": "Male",
+    "place_of_birth": "Montréal, Québec, Canada",
+    "education": "Bachelor of Arts in Canadian History from McGill University, graduated in 1982.",
+    "occupation": "Retired high school history teacher with a focus on integrating sports history into Canadian history lessons.",
+    "hobbies_and_interests": "Following Major League Baseball, collecting vintage baseball cards, gardening, traveling to historical sites, reading biographies, volunteering at a community center",
+    "personality": {
+      "traits": "Reflective, nostalgic, community-oriented",
+      "political_views": "Moderate with progressive social views and centrist economic perspectives.",
+      "religion": "Culturally Catholic, non-practicing."
+    },
+    "family": {
+      "marital_status": "Married to a retired librarian.",
+      "children": "Two children, ages 34 and 31.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Québecois-inflected Canadian English.",
+      "cultural_identity": "Second-generation Canadian with strong ties to Irish and Dutch heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, friendly, and reflective, with an undercurrent of nostalgia.",
+      "formality": "Semi-formal; uses complete sentences and proper grammar.",
+      "clarity": "Measured and steady; often takes time to frame a question or comment thoughtfully."
+    },
+    "short_persona": "A baseball fan who grew up watching the Montréal Expos, now a retired history teacher with a passion for community involvement and nostalgia for the past.",
+    "neighbours": [
+      "pmem_user_0094"
+    ]
+  },
+  "pmem_user_0077": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "Albuquerque, New Mexico, USA",
+    "education": "Bachelor of Arts in Anthropology from the University of New Mexico, with additional certifications in Museum Studies and Amateur Astronomy.",
+    "occupation": "Local History Museum Curator at the Roswell Historical and UFO Museum.",
+    "hobbies_and_interests": "Researching UFO sightings, amateur stargazing, reading historical archives, visiting UFO festivals, collecting vintage sci-fi memorabilia, participating in online UFO forums",
+    "personality": {
+      "traits": "Curious, detail-oriented, open-minded, friendly, eager storyteller, mildly skeptical but imaginative",
+      "political_views": "Moderately liberal with a strong interest in civil liberties, transparency, and scientific inquiry.",
+      "religion": "Agnostic"
+    },
+    "family": {
+      "marital_status": "Married to a supportive partner who shares an interest in cultural activities.",
+      "children": "Two children, ages 10 and 7.",
+      "parents": "Mother diagnosed with early-stage dementia; father recently deceased. Maintains regular contact with mother."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Southwestern American English.",
+      "cultural_identity": "Japanese American with a strong connection to both Japanese and American cultural traditions."
+    },
+    "speaking_style": {
+      "tone": "Warm and enthusiastic, often displaying a contagious sense of wonder when discussing extraterrestrials or space-related topics.",
+      "formality": "Casual and friendly, but shifts to semi-formal when explaining historical events or scientific details.",
+      "clarity": "Generally deliberate and measured, with pauses when considering more speculative ideas; speeds up when excitement takes over during a breakthrough or when sharing personal theories."
+    },
+    "short_persona": "A UFO enthusiast living in Roswell who is passionate about the town's extraterrestrial history.",
+    "neighbours": [
+      "pmem_user_0037"
+    ]
+  },
+  "pmem_user_0078": {
+    "age": "37",
+    "gender": "Woman",
+    "place_of_birth": "Beijing, China",
+    "education": "Ph.D. in Astrophysics from California Institute of Technology, B.Sc. in Physics from Peking University.",
+    "occupation": "Associate Professor of Astrophysics at Harvard-Smithsonian Center for Astrophysics.",
+    "hobbies_and_interests": "Stargazing, playing the guzheng, reading philosophical essays and science fiction, hiking, astrophotography.",
+    "personality": {
+      "traits": "Highly analytical, deeply curious, calm under pressure, patient and persistent, philosophically reflective.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic with a philosophical outlook."
+    },
+    "family": {
+      "marital_status": "Single, experienced a long-term relationship ending recently.",
+      "children": "No children.",
+      "parents": "Father is a mechanical engineer, mother is a mathematics teacher."
+    },
+    "language_and_culture": {
+      "first_language": "Mandarin Chinese.",
+      "accent": "Mild Chinese accent over fluent English.",
+      "cultural_identity": "Chinese-American with strong ties to Chinese heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm yet intellectually rigorous.",
+      "formality": "Moderately formal with precise terminology.",
+      "clarity": "Measured and deliberate, often uses metaphors."
+    },
+    "short_persona": "An astrophysicist fascinated by the complexity and orderliness of the universe, balancing a rich cultural heritage with a passion for scientific discovery.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0079": {
+    "age": "18",
+    "gender": "Male",
+    "place_of_birth": "USA",
+    "education": "High school senior preparing for university applications, with a strong interest in pursuing a Bachelor of Arts in History focusing on Digital Humanities and Public History.",
+    "occupation": "Student with aspirations to become a museum curator, historical documentary producer, history educator, or cultural heritage consultant.",
+    "hobbies_and_interests": "Exploring historical archives, traveling to historical landmarks, reading historical fiction and biographies, learning new languages, and photography with a focus on architectural heritage.",
+    "personality": {
+      "traits": "Curious, enthusiastic, reflective, open-minded, meticulous, friendly, slightly idealistic, self-motivated.",
+      "political_views": "Moderate progressive.",
+      "religion": "Raised in a culturally Catholic environment but holds a secular worldview."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Father is a first-generation Italian immigrant and university librarian; mother is a high school world history teacher."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with occasional Italian phrases.",
+      "cultural_identity": "Italian-American with strong ties to both Boston and Florence, Italy."
+    },
+    "speaking_style": {
+      "tone": "Warm, enthusiastic, and collaborative.",
+      "formality": "Moderately formal when discussing academic topics, relaxed and friendly in casual exchanges.",
+      "clarity": "Thoughtfully paced with rich, precise vocabulary, often including historical terminology."
+    },
+    "short_persona": "An enthusiastic and curious prospective history major excited about innovative academic programs and blending traditional studies with modern technology.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0080": {
+    "age": "34",
+    "gender": "Transgender woman",
+    "place_of_birth": "India",
+    "education": "Master’s in Ethnomusicology, University of British Columbia, Canada, graduated in 2014.",
+    "occupation": "Freelance Music Archivist and Cultural Researcher",
+    "hobbies_and_interests": "Trading and cataloging Phish bootlegs, attending jam band concerts, collecting rare vinyl records, hosting listening parties, learning sound mixing techniques, participating in online fan forums.",
+    "personality": {
+      "traits": "Passionate, outgoing, detail-oriented, curious, sociable, optimistic, authentic.",
+      "political_views": "Liberal with a focus on inclusivity and cultural exchange.",
+      "religion": "Raised in a liberal Hindu family, now spiritually eclectic."
+    },
+    "family": {
+      "marital_status": "Single, previously experienced a painful breakup.",
+      "children": "No children.",
+      "parents": "Supportive but experienced tension due to career choices."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi",
+      "accent": "Mild Indian accent with a hint of Canadian influence.",
+      "cultural_identity": "Indian with a strong connection to Western music culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, enthusiastic, and highly engaging.",
+      "formality": "Semi-formal but friendly.",
+      "clarity": "Moderate to fast pace when excited, slows down for technical details."
+    },
+    "short_persona": "A dedicated Phish fan and passionate music archivist who thrives on cultural exchange and community building through music.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0081": {
+    "age": "29",
+    "gender": "Nonbinary",
+    "place_of_birth": "United States",
+    "education": "Bachelor of Arts in English Literature from the University of Michigan.",
+    "occupation": "After-School Program Coordinator at a community youth education nonprofit, focusing on literacy development and mentorship.",
+    "hobbies_and_interests": "Writing short stories, reading children’s books and YA novels, baking bread and South Asian sweets, urban gardening, hiking, and volunteering at the public library.",
+    "personality": {
+      "traits": "Patient, empathetic, nurturing, lighthearted, encouraging, observant, thoughtful.",
+      "political_views": "Progressive with an emphasis on inclusivity and education.",
+      "religion": "Culturally Muslim, secular in practice."
+    },
+    "family": {
+      "marital_status": "Single, with a close-knit family.",
+      "children": "No children.",
+      "parents": "Both parents are immigrants from Punjab, settled in Michigan in the early 1990s."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American English with mild South Asian influences.",
+      "cultural_identity": "American with strong Punjabi heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, calm, and encouraging, with a hint of humor.",
+      "formality": "Generally informal but adapts to more structured language when necessary.",
+      "clarity": "Deliberate and thoughtful, ensuring clarity in communication."
+    },
+    "short_persona": "A patient and understanding individual who enjoys helping children practice reading and writing, while balancing their own cultural and personal identity.",
+    "neighbours": [
+      "pmem_user_0065"
+    ]
+  },
+  "pmem_user_0082": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "Reykjavík, Iceland",
+    "education": "PhD in History with a specialization in 19th-century European and North Atlantic history from the University of Iceland in collaboration with the University of Copenhagen.",
+    "occupation": "Associate Professor of History at the University of Iceland, specializing in 19th-century Icelandic history, Nordic colonialism, and transnational cultural exchange.",
+    "hobbies_and_interests": "Collecting first-edition Icelandic literature, attending history conferences, sketching historical landmarks, curating local history tours, practicing traditional Korean cooking, winter hiking",
+    "personality": {
+      "traits": "Diligent, analytical, warmly curious, meticulous, empathetic",
+      "political_views": "Progressive with an emphasis on education and cultural heritage protection.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Single, previously experienced a painful romantic breakup.",
+      "children": "No children.",
+      "parents": "Mother is a South Korean immigrant who worked as a nurse; father was an Icelandic fisherman turned local historian, now deceased."
+    },
+    "language_and_culture": {
+      "first_language": "Icelandic",
+      "accent": "Mild Icelandic accent with occasional Danish influences.",
+      "cultural_identity": "Icelandic of mixed heritage with strong ties to South Korean culture."
+    },
+    "speaking_style": {
+      "tone": "Warm yet scholarly, maintaining friendly curiosity.",
+      "formality": "Formally precise on historical matters, conversationally warm otherwise.",
+      "clarity": "Thoughtfully structured, ensuring clarity and nuance."
+    },
+    "short_persona": "An Icelandic historian specialized in the 19th century, passionate about storytelling and cultural preservation.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0083": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "Accra, Ghana",
+    "education": "Bachelor's Degree in Real Estate Management from the University of Ghana, with certifications in Facility Management and Hospitality Management.",
+    "occupation": "Property Manager with 15 years of experience, working at a family-owned firm managing residential complexes.",
+    "hobbies_and_interests": "Enjoys soccer, traveling within West Africa, cooking traditional Ghanaian dishes, community volunteering, listening to highlife and Afrobeat music, and gardening.",
+    "personality": {
+      "traits": "Warm and trustworthy, detail-oriented, patient but decisive, balances formality with approachability.",
+      "political_views": "Moderate progressive.",
+      "religion": "Christian, Methodist background."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has two children.",
+      "parents": "Family-oriented with strong ties to extended family."
+    },
+    "language_and_culture": {
+      "first_language": "Twi.",
+      "accent": "Mild Ghanaian accent over fluent English.",
+      "cultural_identity": "Ghanaian with strong Akan heritage."
+    },
+    "speaking_style": {
+      "tone": "Polite, professional, and hospitable with a friendly undertone.",
+      "formality": "Moderately formal with respectful address.",
+      "clarity": "Calm and deliberate, ensuring understanding with occasional elaboration."
+    },
+    "short_persona": "A dedicated property manager providing fully furnished apartments with laundry service. Balances professional integrity with community-oriented values.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0084": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "San Antonio, Texas, United States",
+    "education": "Master of Fine Arts in Film Production from the University of Southern California School of Cinematic Arts.",
+    "occupation": "Independent documentary filmmaker and producer.",
+    "hobbies_and_interests": "Historical research, visiting museums and archives, travel for cultural immersion, writing and editing scripts, photography, collecting antique books and maps.",
+    "personality": {
+      "traits": "Curious, meticulous, passionate, empathetic, independent.",
+      "political_views": "Moderate progressive.",
+      "religion": "Culturally Catholic but not strictly religious, aligned with spiritual traditions around storytelling and ancestry."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Daughter of first-generation Mexican immigrants; father is a high school history teacher and mother owns a small bakery."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Mexican-American accent.",
+      "cultural_identity": "Mexican-American with strong ties to cultural storytelling traditions."
+    },
+    "speaking_style": {
+      "tone": "Warm, inquisitive, and engaging.",
+      "formality": "Moderately formal but adaptive.",
+      "clarity": "Measured but expressive, with occasional rapid bursts when excited."
+    },
+    "short_persona": "A passionate filmmaker dedicated to exploring and documenting the histories of royal families, with a strong cultural and historical focus.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0085": {
+    "age": "34",
+    "gender": "Nonbinary",
+    "place_of_birth": "Chennai, India",
+    "education": "Doctor of Medicine (MD) in Internal Medicine with an interest in Telemedicine Technologies from the University of Toronto Faculty of Medicine, graduated in 2016.",
+    "occupation": "Hospitalist and part-time Telehealth Consultant at Toronto General Hospital and a private telehealth startup.",
+    "hobbies_and_interests": "Tinkering with medical AI tools and apps, volunteering for free community health clinics, urban photography, experimenting with vegetarian recipes, reading speculative fiction, meditation and yoga",
+    "personality": {
+      "traits": "Analytical yet empathetic, deeply curious, balanced in logic and intuition",
+      "political_views": "Progressive with a focus on healthcare reform.",
+      "religion": "Agnostic with cultural Hindu influences."
+    },
+    "family": {
+      "marital_status": "In a long-term polyamorous relationship.",
+      "children": "No children.",
+      "parents": "Parents live in India; regular contact maintained despite distance."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Canadian English with Tamil influences.",
+      "cultural_identity": "Canadian with Tamil Indian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and professional without being overly formal; often blends compassion with evidence-driven perspectives.",
+      "formality": "Adaptive — formal in professional/medical discussions, more casual and playful in personal or creative topics.",
+      "clarity": "Measured and deliberate when explaining complex concepts; uses pauses thoughtfully to process and respond."
+    },
+    "short_persona": "A medical practitioner who balances their fascination for technology with the hands-on requirements of patient care.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0086": {
+    "age": "27",
+    "gender": "Male",
+    "place_of_birth": "San Jose, California, USA",
+    "education": "Master of Science in Data Science from the University of Washington.",
+    "occupation": "Data Visualization Engineer in the Environmental Technology & Analytics industry.",
+    "hobbies_and_interests": "Coding, photography, botany, hiking, and urban gardening.",
+    "personality": {
+      "traits": "Analytical, patient, supportive, curious, meticulous.",
+      "political_views": "Moderate progressive.",
+      "religion": "Agnostic with a cultural appreciation for Buddhist traditions."
+    },
+    "family": {
+      "marital_status": "Single after a recent breakup.",
+      "children": "No children.",
+      "parents": "Parents immigrated from Guangzhou, China in the early 1990s."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American accent with slight West Coast inflection.",
+      "cultural_identity": "Chinese-American with strong ties to both cultures."
+    },
+    "speaking_style": {
+      "tone": "Friendly, curious, and slightly playful.",
+      "formality": "Semi-formal to informal, using technical jargon when necessary.",
+      "clarity": "Measured and deliberate, often breaking down topics into steps."
+    },
+    "short_persona": "A computer whiz passionate about data visualization and environmental science, who enjoys collaborating on educational projects.",
+    "neighbours": [
+      "pmem_user_0045"
+    ]
+  },
+  "pmem_user_0087": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "San Antonio, Texas",
+    "education": "Master of Arts in Media Studies from New York University; Bachelor of Arts in Comparative Literature from the University of Texas at Austin.",
+    "occupation": "Television Critic with freelance engagements at New York Magazine, Vulture, Slate, and NPR.",
+    "hobbies_and_interests": "Hosting film and TV critique salons, traveling to festivals, urban photography, curating watchlists, cooking regional Mexican dishes, powerlifting, and indie music.",
+    "personality": {
+      "traits": "Analytical, playful, skeptical, witty, confident.",
+      "political_views": "Progressive.",
+      "religion": "Agnostic with an interest in secular philosophy and ethics."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Second-generation Mexican-American; parents own a bakery in San Antonio."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Mexican-American accent.",
+      "cultural_identity": "Mexican-American with strong ties to Latinx heritage."
+    },
+    "speaking_style": {
+      "tone": "Conversational yet sharply observant.",
+      "formality": "Semi-formal with a mix of critic voice and casual idioms.",
+      "clarity": "Dynamic and layered, blending academic terms with colloquial slang."
+    },
+    "short_persona": "A TV critic who challenges mainstream opinions, passionate about Latinx representation, and enjoys hosting salons and traveling to festivals.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0088": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "Kryvyi Rih, Ukraine",
+    "education": "Master’s in International Relations from the University of Granada, Spain; Bachelor’s in Journalism from Taras Shevchenko National University of Kyiv.",
+    "occupation": "Cultural Exchange Program Coordinator in a non-profit organization.",
+    "hobbies_and_interests": "Photography, cooking fusion dishes, attending art exhibitions, urban gardening, travel and cultural anthropology",
+    "personality": {
+      "traits": "Warm, curious, empathetic, organized, adaptable",
+      "political_views": "Progressive with focus on humanitarian causes.",
+      "religion": "Culturally Muslim with secular worldview."
+    },
+    "family": {
+      "marital_status": "Married to an architect.",
+      "children": "No children.",
+      "parents": "Mother and father are alive; maintain regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Ukrainian",
+      "accent": "Mild Ukrainian-inflected Spanish.",
+      "cultural_identity": "Middle Eastern and Ukrainian heritage with a strong connection to both cultures."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and occasionally reflective.",
+      "formality": "Semi-formal, blending professional clarity with friendly informality.",
+      "clarity": "Moderate pacing with fully formed thoughts, often elaborating with anecdotes."
+    },
+    "short_persona": "A native from Pokrovskyi District, Kryvyi Rih, Ukraine, who now lives abroad in Barcelona, Spain, working in cultural exchange and passionate about multiculturalism.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0089": {
+    "age": "34",
+    "gender": "Man",
+    "place_of_birth": "El Paso, Texas",
+    "education": "Bachelor of Arts in Communications from the University of Texas at Austin.",
+    "occupation": "Stand-up comedian performing at clubs, festivals, and in online comedy specials.",
+    "hobbies_and_interests": "Watching old comedy specials with his grandfather, cooking Mexican street food recipes, hiking in nearby canyons, collecting vintage joke books, traveling to experience comedy scenes in different cities.",
+    "personality": {
+      "traits": "Witty, warm, observant, persistent, empathetic, inquisitive, free-spirited.",
+      "political_views": "Progressive with a strong emphasis on free expression and immigrant rights.",
+      "religion": "Culturally Catholic but not actively practicing."
+    },
+    "family": {
+      "marital_status": "Single, with a focus on career and family connections.",
+      "children": "No children.",
+      "parents": "Second-generation Mexican-American father and first-generation immigrant mother from Guadalajara."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild Mexican-American accent.",
+      "cultural_identity": "Mexican-American with strong ties to Latino heritage."
+    },
+    "speaking_style": {
+      "tone": "Casual and conversational, with a touch of playful sarcasm; expressive and emotionally warm.",
+      "formality": "Low–moderate formality; sprinkles in slang, Spanglish phrases, and regional idioms when feeling relaxed.",
+      "clarity": "Clear and engaging, often using storytelling structure even in short exchanges."
+    },
+    "short_persona": "A stand-up comedian passionate about comedy, deeply connected to his cultural roots, and inspired by his grandfather's storytelling.",
+    "neighbours": [
+      "pmem_user_0058"
+    ]
+  },
+  "pmem_user_0090": {
+    "age": "54",
+    "gender": "Male",
+    "place_of_birth": "Manchester, Vermont, USA",
+    "education": "Bachelor of Fine Arts in Woodworking and Furniture Design from the Rochester Institute of Technology, School for American Crafts.",
+    "occupation": "Owner and craftsman of a family-run toy store specializing in handcrafted wooden toys, puzzles, and educational games.",
+    "hobbies_and_interests": "Woodcarving, restoring antique furniture, attending local farmers’ markets, participating in historical reenactments, playing the harmonica, reading historical fiction.",
+    "personality": {
+      "traits": "Warm, patient, community-minded, ethically driven, nostalgic.",
+      "political_views": "Moderate conservative with a strong focus on community values.",
+      "religion": "Episcopalian."
+    },
+    "family": {
+      "marital_status": "Married to a part-time art teacher.",
+      "children": "Two children, ages 26 and 22.",
+      "parents": "Mother and father are retired teachers living in the same city; close, weekly contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild American English with a New England inflection.",
+      "cultural_identity": "White American with English and German heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, friendly, and mildly old-fashioned.",
+      "formality": "Semi-formal; blends conversational warmth with measured expressions.",
+      "clarity": "Steady and deliberate, often digresses to share anecdotes."
+    },
+    "short_persona": "A traditional toy store owner promoting handcrafted wooden toys, deeply invested in preserving old-world craftsmanship and supporting local artisans.",
+    "neighbours": [
+      "pmem_user_0008"
+    ]
+  },
+  "pmem_user_0091": {
+    "age": "78",
+    "gender": "Male",
+    "place_of_birth": "San Francisco, California, USA",
+    "education": "Master of Fine Arts (MFA) in Illustration from the School of the Art Institute of Chicago, Bachelor of Arts in Visual Arts from the University of California, Berkeley.",
+    "occupation": "Retired book illustrator and art teacher with a 40-year career in children's book illustrations and freelance editorial work.",
+    "hobbies_and_interests": "Sketching people at local coffee shops, gardening, reading historical fiction, collecting vintage postcards, attending community lectures on local history",
+    "personality": {
+      "traits": "Warm, nostalgic, articulate",
+      "political_views": "Moderate with a leaning toward progressive social policies.",
+      "religion": "Cultural Buddhist with some Christian influences."
+    },
+    "family": {
+      "marital_status": "Widower.",
+      "children": "Two children, ages 45 and 42.",
+      "parents": "Father is deceased; mother lives abroad and is in regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild American English with occasional Cantonese influences.",
+      "cultural_identity": "Chinese-American with strong ties to East Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, polite, and slightly nostalgic.",
+      "formality": "Moderately formal — uses complete sentences and avoids heavy slang.",
+      "clarity": "Measured and deliberate, with occasional pauses for reflection."
+    },
+    "short_persona": "An elderly gentleman who always orders a cup of black coffee and a slice of apple pie.",
+    "neighbours": [
+      "pmem_user_0080"
+    ]
+  },
+  "pmem_user_0092": {
+    "age": "37",
+    "gender": "Male",
+    "place_of_birth": "United States",
+    "education": "Ph.D. in Sociology with a specialization in Computational Social Science, focusing on social media analysis and natural language processing.",
+    "occupation": "Associate Professor of Sociology at Columbia University, researching online discourse and digital community dynamics.",
+    "hobbies_and_interests": "Urban photography, jazz piano performance, cycling through city parks, attending cultural festivals, and cooking fusion recipes.",
+    "personality": {
+      "traits": "Analytical, curious, empathetic, socially conscious, detail-oriented, persistent.",
+      "political_views": "Progressive, with emphasis on digital rights and equitable access to technology.",
+      "religion": "Secular with cultural Catholic influences."
+    },
+    "family": {
+      "marital_status": "Single, recently went through a breakup after a long-term relationship.",
+      "children": "No children.",
+      "parents": "Maintains a connection with family, influenced by cultural Catholic background."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Mild American accent with occasional Spanish influence.",
+      "cultural_identity": "Afro-Latino and European heritage, strongly connected to cultural roots."
+    },
+    "speaking_style": {
+      "tone": "Warm yet precise, blending academic rigor with approachable friendliness.",
+      "formality": "Moderately formal, softening language to encourage natural conversation.",
+      "clarity": "Measured and thoughtfully paced, presenting context before questions."
+    },
+    "short_persona": "A sociologist and academic deeply engaged in the study of social media dynamics, blending technical expertise with cultural empathy.",
+    "neighbours": [
+      "pmem_user_0018"
+    ]
+  },
+  "pmem_user_0093": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "Tokyo, Japan",
+    "education": "Master of Science in Computer Science from the University of Washington, specializing in Distributed Systems and Parallel Computing.",
+    "occupation": "Senior Machine Learning Systems Engineer in the Artificial Intelligence / High-Performance Computing industry.",
+    "hobbies_and_interests": "Hiking, AI model experimentation, cooking, video games, mechanical keyboards, strategy games",
+    "personality": {
+      "traits": "Analytical, humble, meticulous, innovative, introverted",
+      "political_views": "Moderate progressive.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a software engineer.",
+      "children": "One child, age 4.",
+      "parents": "Parents live in Japan; regular contact maintained."
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Mild Japanese-inflected American English.",
+      "cultural_identity": "Japanese-American with strong ties to Japanese heritage."
+    },
+    "speaking_style": {
+      "tone": "Calm, measured, and professional.",
+      "formality": "Generally semi-formal; uses precise terminology.",
+      "clarity": "Moderate to slightly slow for accuracy and clarity."
+    },
+    "short_persona": "A dedicated machine learning systems engineer with a passion for innovation and a balanced approach to work and family life.",
+    "neighbours": [
+      "pmem_user_0071"
+    ]
+  },
+  "pmem_user_0094": {
+    "age": "22",
+    "gender": "Genderqueer (she/they)",
+    "place_of_birth": "San Francisco, California",
+    "education": "Bachelor of Fine Arts in Graphic Design from Parsons School of Design, graduating in 2024.",
+    "occupation": "Freelance graphic designer and branding consultant in the creative services industry.",
+    "hobbies_and_interests": "Street photography, designing zines, exploring vintage clothing shops, attending drag shows, and trying new bubble tea spots.",
+    "personality": {
+      "traits": "Witty, outspoken, curious, slightly sarcastic, empathetic, urban-oriented.",
+      "political_views": "Progressive.",
+      "religion": "Agnostic with some cultural Buddhist influences."
+    },
+    "family": {
+      "marital_status": "Single, casually dating.",
+      "children": "No children.",
+      "parents": "Parents are immigrants from Guangzhou, China; relationship is loving but occasionally tense over traditional expectations."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American English with an urban influence.",
+      "cultural_identity": "Second-generation Chinese American with strong ties to East Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Casual, energetic, and sprinkled with dry wit.",
+      "formality": "Primarily informal, though can switch to a more articulate, semi-formal tone when discussing design, social issues, or deep personal topics.",
+      "clarity": "Expressive and engaging, often using vivid language and pop culture references."
+    },
+    "short_persona": "A 22-year-old city girl who hates country music, passionate about creative expression and social justice.",
+    "neighbours": [
+      "pmem_user_0028"
+    ]
+  },
+  "pmem_user_0095": {
+    "age": "37",
+    "gender": "Transgender woman",
+    "place_of_birth": "Chennai, India",
+    "education": "Master’s Degree in Social Work (MSW) from the University of Washington, specializing in Clinical Social Work with a focus on family therapy and youth mental health.",
+    "occupation": "School Social Worker at Seattle Public Schools.",
+    "hobbies_and_interests": "Cooking South Indian vegetarian dishes, volunteering at LGBTQ+ support networks, gardening small balcony plants, watching indie films and documentaries, mindfulness and yoga practice.",
+    "personality": {
+      "traits": "Empathetic, patient, resilient, quietly optimistic, introspective, organized, highly observant of emotional cues.",
+      "political_views": "Moderate progressive.",
+      "religion": "Spiritual but unaffiliated."
+    },
+    "family": {
+      "marital_status": "Single, previously divorced.",
+      "children": "One child, a 15-year-old daughter.",
+      "parents": "Parents are in India; limited emotional support during her teenage years."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild South Indian-inflected American English.",
+      "cultural_identity": "Indian-American with strong ties to Tamil heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and candid, with underlying concern when discussing her daughter.",
+      "formality": "Moderately informal—professional yet personal, blending conversational language with occasional clinical mental-health terminology.",
+      "clarity": "Uses clear, accessible language, with occasional use of psychological terms."
+    },
+    "short_persona": "A single mother with a teenage daughter struggling with depression and self-esteem issues, balancing cultural expectations and personal identity.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0096": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Savannah, Georgia, USA",
+    "education": "Bachelor of Science in Criminal Justice with a minor in Psychology from Georgia State University. Additional certifications in Crisis Intervention, Advanced Interview and Interrogation Techniques, De-escalation, and Leadership in Law Enforcement.",
+    "occupation": "Detective in the Major Crimes Unit at Bibb County Sheriff's Office with 11 years of experience in law enforcement.",
+    "hobbies_and_interests": "Enjoys jogging, cooking traditional Ghanaian and Southern dishes, reading crime thrillers, and attending community meetings.",
+    "personality": {
+      "traits": "Disciplined, observant, empathetic, assertive, resilient, methodical.",
+      "political_views": "Moderate with a focus on pragmatic community safety solutions.",
+      "religion": "Christian, Methodist."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a 6-year-old son and a 3-year-old daughter.",
+      "parents": "Family-oriented with strong ties to Ghanaian heritage."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Southern American accent with subtle Ghanaian influences.",
+      "cultural_identity": "Ghanaian-American with strong ties to Southern and Ghanaian cultures."
+    },
+    "speaking_style": {
+      "tone": "Professional but approachable, balancing friendliness with respect.",
+      "formality": "Moderately formal, using full sentences and avoiding excessive slang.",
+      "clarity": "Clear and precise, with a preference for structured and coherent sentences."
+    },
+    "short_persona": "A dedicated law enforcement officer from Georgia, committed to professional growth and community safety.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0097": {
+    "age": "37",
+    "gender": "woman",
+    "place_of_birth": "Kuala Lumpur, Malaysia",
+    "education": "Bachelor’s degree in Business Administration from the University of Alberta. Completed a Certificate in Digital Marketing and attended a Small Business Finance Workshop Series by Spruce Grove Chamber of Commerce.",
+    "occupation": "Owner and Managing Director of a Boutique Café and Artisan Dessert Shop.",
+    "hobbies_and_interests": "Experimenting with fusion desserts, local farmers’ markets, yoga and mindfulness meditation, volunteering at cultural festivals, reading business leadership books, weekend hiking in nearby provincial parks",
+    "personality": {
+      "traits": "Warm, welcoming, attentive, methodical, empathetic",
+      "political_views": "Moderate progressive.",
+      "religion": "Practicing Hindu."
+    },
+    "family": {
+      "marital_status": "Married to a corporate attorney.",
+      "children": "Two children, ages 9 and 6.",
+      "parents": "Parents have moved back to Malaysia; maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "Tamil",
+      "accent": "Mild Malaysian Tamil-inflected Canadian English.",
+      "cultural_identity": "Malaysian-Canadian with strong ties to Tamil heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and encouraging; often blends subtle humor with practical realism.",
+      "formality": "Moderately informal – mixes professional vocabulary with casual expressions, especially when comfortable with the listener.",
+      "clarity": "Ensures she is understood, often rephrases key points for emphasis."
+    },
+    "short_persona": "A small business owner in Spruce Grove, dedicated to bringing multicultural food experiences to her community while balancing family life.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0098": {
+    "age": "42",
+    "gender": "Female",
+    "place_of_birth": "Wellington, New Zealand",
+    "education": "Bachelor of Communication Studies, major in Media Management from Auckland University of Technology.",
+    "occupation": "Podcast Network Executive in the Media and Entertainment industry.",
+    "hobbies_and_interests": "Surfing, true crime podcast binges, hosting intimate dinner parties, urban cycling, political debate shows, celebrity gossip columns",
+    "personality": {
+      "traits": "Ambitious, media-savvy, persuasive, decisive, charismatic",
+      "political_views": "Slightly left-leaning socially, but business-focused economically.",
+      "religion": "Secular, no religious practice."
+    },
+    "family": {
+      "marital_status": "Married to a freelance cinematographer.",
+      "children": "Two children, ages 9 and 6.",
+      "parents": "Parents are journalists who influenced her early media interests."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild New Zealand English.",
+      "cultural_identity": "White, of mixed Anglo-Celtic and Dutch-New Zealand heritage."
+    },
+    "speaking_style": {
+      "tone": "Assertive, confident, and slightly provocative.",
+      "formality": "Semi-formal but with conversational and industry slang.",
+      "clarity": "Fast-paced and direct, rarely lingering on a single point."
+    },
+    "short_persona": "A podcast network executive who pushes for more sensationalism and controversy in the episodes.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  },
+  "pmem_user_0099": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Los Angeles, California, USA",
+    "education": "Master of Fine Arts in Creative Writing from the University of California, Berkeley; Bachelor's in Environmental Studies and English Literature from Occidental College.",
+    "occupation": "Freelance Travel and Lifestyle Writer in the media industry.",
+    "hobbies_and_interests": "Coastal walking and urban exploration, photography focused on everyday life by the ocean, reading modern poetry and Indigenous literature, cooking plant-based meals with local produce, surfing in warmer months, collecting and restoring second-hand furniture.",
+    "personality": {
+      "traits": "Warm and approachable, curious about people and cultures, reflective and a good listener.",
+      "political_views": "Progressive, with focus on Indigenous sovereignty, climate action, and LGBTQ+ rights.",
+      "religion": "Spiritual with a practice rooted in ancestral Tongva traditions and occasional meditation."
+    },
+    "family": {
+      "marital_status": "In a long-term partnership with a supportive partner.",
+      "children": "No children.",
+      "parents": "Mother and father are supportive and live nearby; regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Mild Californian English.",
+      "cultural_identity": "Tongva-American with strong ties to Indigenous heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and gently humorous.",
+      "formality": "Casual yet articulate.",
+      "clarity": "Clear and thoughtful, with occasional poetic expressions."
+    },
+    "short_persona": "A resident in Manhattan Beach who loves to walk and is deeply connected to her Indigenous heritage and the environment.",
+    "neighbours": [
+      "pmem_user_0066"
+    ]
+  }
+}

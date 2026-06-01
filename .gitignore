@@ -1,0 +1,34 @@
+eval/
+api_keys.json
+src/analysis/
+src/drawing/
+PYPI_GUIDE.md
+RELEASE_CHECKLIST.md
+
+# Python packaging
+dist/
+*.egg-info/
+build/
+*.egg
+.eggs/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.env.local

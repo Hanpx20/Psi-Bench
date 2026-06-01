@@ -1,0 +1,71 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "psi-bench"
+version = "0.1.0"
+description = "Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+keywords = ["benchmark", "persuasion", "persona", "LLM", "evaluation"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    "openai>=1.0.0",
+    "transformers>=4.30.0",
+    "torch>=2.0.0",
+    "numpy>=1.24.0",
+    "pandas>=1.5.0",
+    "sentence-transformers>=2.2.0",
+    "scikit-learn>=1.2.0",
+    "scipy>=1.10.0",
+    "tqdm>=4.65.0",
+    "matplotlib>=3.7.0",
+    "seaborn>=0.12.0",
+    "bert-score>=0.3.13",
+    "rouge-score>=0.1.2",
+    "nltk>=3.8.0",
+    "json-repair>=0.17.0",
+]
+
+[project.urls]
+Repository = "https://github.com/yourusername/Psi-Bench"
+Documentation = "https://github.com/yourusername/Psi-Bench#readme"
+"Bug Tracker" = "https://github.com/yourusername/Psi-Bench/issues"
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "black>=22.0",
+    "flake8>=4.0",
+    "isort>=5.0",
+]
+
+[project.scripts]
+psi-bench = "src.cli:main"
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.black]
+line-length = 100
+target-version = ["py38"]
+
+[tool.isort]
+profile = "black"
+line_length = 100

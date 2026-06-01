@@ -1,0 +1,2690 @@
+{
+  "115": {
+    "age": "Late 20s to early 30s.",
+    "gender": "Woman.",
+    "place_of_birth": "Urban area in a Western country.",
+    "education": "Completed undergraduate degree.",
+    "occupation": "Professional in a corporate or service industry.",
+    "hobbies_and_interests": "Socializing with friends, fitness activities, casual reading.",
+    "personality": {
+      "traits": "Caring, anxious in crisis, values close personal relationships, feels frustrated by lack of control.",
+      "political_views": "Moderate.",
+      "religion": "Non-practicing or spiritual but not religious."
+    },
+    "family": {
+      "marital_status": "In a committed relationship, not married.",
+      "children": "None.",
+      "parents": "Living, maintains regular contact."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American or British accent.",
+      "cultural_identity": "Western, individualistic cultural background."
+    },
+    "speaking_style": {
+      "tone": "Worried, urgent, slightly frustrated.",
+      "formality": "Informal, conversational.",
+      "clarity": "Direct and clear, focused on the immediate problem."
+    },
+    "short_persona": "A young professional woman distressed by the lack of information about her hospitalized boyfriend.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "815": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "India",
+    "education": "Master’s in Supply Chain Management from University of Michigan.",
+    "occupation": "Senior Logistics Manager in the toys and collectibles industry.",
+    "hobbies_and_interests": "Collecting vintage miniature figurines, traveling to cultural heritage sites, yoga, and volunteering.",
+    "personality": {
+      "traits": "Highly organized, detail-oriented, reliable under pressure, pragmatic, and analytical.",
+      "political_views": "Moderate and pragmatic.",
+      "religion": "Hindu."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a young son.",
+      "parents": "Parents were incarcerated due to injuring the client's brother during childhood."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "American English with a subtle Indian influence.",
+      "cultural_identity": "Indian-American, blending South Asian heritage with American professional life."
+    },
+    "speaking_style": {
+      "tone": "Professional, warm, and measured.",
+      "formality": "Moderately formal, using precise language.",
+      "clarity": "Clear, structured, and provides detailed context."
+    },
+    "short_persona": "A logistics expert grappling with repressed memories of childhood trauma involving parental violence and incarceration.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "202": {
+    "age": "42",
+    "gender": "Female",
+    "place_of_birth": "India",
+    "education": "Master of Social Work (MSW) and BA in Sociology.",
+    "occupation": "Senior Child Welfare Social Worker for the New Jersey Department of Children and Families.",
+    "hobbies_and_interests": "Reading historical fiction and true crime, gardening, cooking traditional Indian meals, practicing yoga and meditation, attending local cultural festivals.",
+    "personality": {
+      "traits": "Empathetic, assertive, highly ethical, patient listener, detail-oriented, socially conscious, structured, pragmatic yet idealistic.",
+      "political_views": "Moderate progressive.",
+      "religion": "Hindu"
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a 15-year-old daughter and an 11-year-old son.",
+      "parents": "A mother who was a social worker and instilled respect for the legal system."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "Indian-American accent.",
+      "cultural_identity": "Indian-American, balancing Indian heritage with American life."
+    },
+    "speaking_style": {
+      "tone": "Warm, polite, thoughtful, and empathetic.",
+      "formality": "Semi-formal, using complete sentences and everyday idioms.",
+      "clarity": "Measured, deliberate, and precise, especially on professional topics, with accessible language for personal matters."
+    },
+    "short_persona": "A social worker mother who instilled respect for the legal system from a young age, currently struggling with complex familial emotions.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "889": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Mumbai, India",
+    "education": "Master of Fine Arts in Screenwriting from University of Southern California. Bachelor of Arts in English Literature from University of British Columbia.",
+    "occupation": "Screenplay writer for a major international streaming platform.",
+    "hobbies_and_interests": "Experimental storytelling, plot structure analysis, traveling to historical cities, attending film festivals, photography, reading magical realism and crime fiction, cooking South Asian fusion dishes, yoga.",
+    "personality": {
+      "traits": "Imaginative, observant, witty, persistent, empathetic, highly detail-oriented, occasionally self-critical, romantic about storytelling.",
+      "political_views": "Progressive and globally oriented.",
+      "religion": "Secular or spiritual but not strictly religious."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Parents are living, details unspecified. Has a brother who was the perpetrator of childhood abuse."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi or English.",
+      "accent": "A blend of Canadian and subtle Indian inflection.",
+      "cultural_identity": "South Asian Indian heritage with a strong Canadian identity. Blends cultural motifs in creative work."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, with a dry sense of humor, but currently carries underlying anger and distress.",
+      "formality": "Semi-formal to casual, using rich descriptive vocabulary and industry jargon.",
+      "clarity": "Articulate and fluid, though emotional topics may cause measured or hesitant pacing."
+    },
+    "short_persona": "A successful but traumatized screenwriter grappling with anger and trust issues from childhood sibling abuse, seeking healing while maintaining a creative, observant, and empathetic professional life.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "441": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "United States",
+    "education": "Juris Doctor from Georgetown University Law Center",
+    "occupation": "Senior litigation attorney specializing in commercial disputes",
+    "hobbies_and_interests": "Chess, cycling, legal thrillers, wine tasting, historical documentaries",
+    "personality": {
+      "traits": "Assertive, detail-oriented, strategic, confident, pragmatic, skeptical",
+      "political_views": "Moderate",
+      "religion": "Culturally Catholic, non-practicing"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has an adult son who is married",
+      "parents": "Mother recently deceased"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Mixed-race American with Mexican and Irish heritage"
+    },
+    "speaking_style": {
+      "tone": "Direct, professional, confident, occasionally skeptical",
+      "formality": "High formality in professional contexts",
+      "clarity": "Clear, precise, logical, avoids rambling"
+    },
+    "short_persona": "A litigation attorney who values legal victory and thorough preparation, now facing a family health dilemma and grieving the loss of his mother",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "360": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Master of Arts in English Literature from Columbia University, Bachelor of Arts in Comparative Literature from University of California, Berkeley",
+    "occupation": "Senior Book Editor at a mid-sized independent publishing house specializing in historical reprints",
+    "hobbies_and_interests": "Collecting and restoring vintage books, browsing rare manuscript archives, attending literary festivals, visiting art museums, practicing calligraphy, traveling to historical sites, urban gardening",
+    "personality": {
+      "traits": "Detail-oriented, meticulous, analytical, curious, open-minded, patient under pressure, pragmatic",
+      "political_views": "Moderate",
+      "religion": "Non-religious"
+    },
+    "family": {
+      "marital_status": "In a relationship",
+      "children": "Experiencing the loss of a baby",
+      "parents": "Chinese-American parents"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Second-generation Chinese-American"
+    },
+    "speaking_style": {
+      "tone": "Warm, professional, and courteous with an analytical edge",
+      "formality": "Moderately formal",
+      "clarity": "Clear and deliberate with precise vocabulary"
+    },
+    "short_persona": "A book editor who relies on legal expertise for public domain determinations, currently grieving the loss of a baby",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "313": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Croatia",
+    "education": "Master’s Degree in Journalism and Media Management from University of Zagreb.",
+    "occupation": "Founder and Editor-in-Chief of a digital news platform.",
+    "hobbies_and_interests": "Photography, reading political non-fiction, cycling, cooking, and traveling.",
+    "personality": {
+      "traits": "Driven, decisive, pragmatic, curious, resilient, and results-oriented.",
+      "political_views": "Centrist with liberal social views and pragmatic economic perspectives.",
+      "religion": "Culturally Roman Catholic but not practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Information not specified."
+    },
+    "language_and_culture": {
+      "first_language": "Croatian.",
+      "accent": "Croatian accent.",
+      "cultural_identity": "Croatian and Eastern European."
+    },
+    "speaking_style": {
+      "tone": "Professional yet conversational, direct, and concise under pressure.",
+      "formality": "Medium formality, uses industry jargon.",
+      "clarity": "Clear and targeted in communication."
+    },
+    "short_persona": "A driven online news platform owner struggling with compulsive overeating of sweets for pleasure, contrasting her otherwise disciplined and pragmatic professional life.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "385": {
+    "age": "35",
+    "gender": "Female",
+    "place_of_birth": "Malaysia",
+    "education": "Bachelor's degree in social sciences",
+    "occupation": "Social worker",
+    "hobbies_and_interests": "Reading, gardening, community volunteering",
+    "personality": {
+      "traits": "Introspective, emotionally intense, self-aware, prone to anger outbursts",
+      "political_views": "Moderate, focused on social welfare",
+      "religion": "Muslim"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two children",
+      "parents": "Living, supportive"
+    },
+    "language_and_culture": {
+      "first_language": "Malay",
+      "accent": "Malaysian accent when speaking English",
+      "cultural_identity": "Malay Muslim, culturally traditional with modern influences"
+    },
+    "speaking_style": {
+      "tone": "Frustrated, earnest, sometimes agitated",
+      "formality": "Semi-formal, uses clear and direct language",
+      "clarity": "Expresses thoughts clearly but with emotional intensity"
+    },
+    "short_persona": "A socially engaged Malay Muslim woman struggling with disproportionate anger and violent thoughts, seeking to understand and manage her emotional responses.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "855": {
+    "age": "42",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Bachelor of Fine Arts in Animation and Storyboarding from California Institute of the Arts",
+    "occupation": "Lead Storyboard Artist and Team Lead in animation and visual storytelling",
+    "hobbies_and_interests": "Illustrating personal graphic novels, urban sketching, hiking, collecting vintage animation cels, attending film festivals",
+    "personality": {
+      "traits": "Patient, insightful, encouraging, organized, creative, empathetic, diplomatic, observant",
+      "political_views": "Liberal",
+      "religion": "Non-religious"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "One child",
+      "parents": "Parents of Western European descent"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American accent",
+      "cultural_identity": "American with English and Irish heritage"
+    },
+    "speaking_style": {
+      "tone": "Warm, supportive, and collaborative",
+      "formality": "Moderately informal and conversational",
+      "clarity": "Clear and deliberate with rich storytelling vocabulary"
+    },
+    "short_persona": "An experienced storyboard artist who oversees discussions and encourages constructive dialogue",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "579": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "Portland, Oregon, USA",
+    "education": "Master of Urban and Regional Planning from the University of Washington.",
+    "occupation": "Senior City Planner for the Seattle Department of Planning and Development.",
+    "hobbies_and_interests": "Cycling, architectural photography, attending local history lectures, and community gardening.",
+    "personality": {
+      "traits": "Analytical, detail-oriented, collaborative, optimistic, and patient. Exhibits a strong need for control and order.",
+      "political_views": "Progressive-leaning independent.",
+      "religion": "Agnostic with secular humanist values."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a 10-year-old son and a 7-year-old daughter.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English, likely with a Pacific Northwest influence.",
+      "cultural_identity": "White American of mixed English and German heritage. Identifies with urban, progressive, and environmentally conscious values."
+    },
+    "speaking_style": {
+      "tone": "Professional, warm, and approachable.",
+      "formality": "Moderately formal, adapts terminology to the audience.",
+      "clarity": "Deliberate, measured, and precise with well-structured sentences."
+    },
+    "short_persona": "A detail-oriented city planner struggling with anxiety from Obsessive-Compulsive Disorder.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "270": {
+    "age": "34",
+    "gender": "Male",
+    "place_of_birth": "Oakland, California, USA",
+    "education": "Bachelor of Arts in Sociology from University of California, Berkeley. Certified in Community Mediation and Conflict Resolution.",
+    "occupation": "Community Outreach Coordinator for a grassroots advocacy organization.",
+    "hobbies_and_interests": "Organizing community events, street photography, biking, attending poetry slams, and urban gardening.",
+    "personality": {
+      "traits": "Charismatic, empathetic, passionate, resilient, resourceful, and a strategic thinker.",
+      "political_views": "Progressive and left-leaning independent.",
+      "religion": "Agnostic but spiritually curious."
+    },
+    "family": {
+      "marital_status": "Divorced.",
+      "children": "Has one child from a previous marriage.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American accent, potentially with influences from growing up in Oakland and living in Seattle.",
+      "cultural_identity": "Chinese American."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and impassioned on issues of importance.",
+      "formality": "Mostly informal but articulate, blending casual talk with persuasive rhetoric.",
+      "clarity": "Accessible vocabulary, uses vivid imagery and thought-provoking questions."
+    },
+    "short_persona": "A divorced Chinese American community organizer and father, grappling with a painful co-parenting dynamic while striving to empower others and move forward.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "92": {
+    "age": "40",
+    "gender": "Male",
+    "place_of_birth": "United States",
+    "education": "High school diploma with military training",
+    "occupation": "Veteran",
+    "hobbies_and_interests": "Fitness activities, outdoor recreation, quiet hobbies like reading",
+    "personality": {
+      "traits": "Resilient, cautious, introspective, disciplined, sometimes anxious",
+      "political_views": "Moderate",
+      "religion": "Non-religious"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Living"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "General American accent",
+      "cultural_identity": "American military veteran culture"
+    },
+    "speaking_style": {
+      "tone": "Serious and direct",
+      "formality": "Informal",
+      "clarity": "Clear and concise"
+    },
+    "short_persona": "A military veteran with PTSD from combat, concerned about a recent car accident worsening symptoms",
+    "neighbours": [
+      "117"
+    ]
+  },
+  "366": {
+    "age": "67",
+    "gender": "Male",
+    "place_of_birth": "Adelaide, South Australia, Australia",
+    "education": "Bachelor of Physical Education from the University of Adelaide",
+    "occupation": "Retired cricket umpire. Engages in occasional sports commentary, ethics lectures, and consultancy.",
+    "hobbies_and_interests": "Fishing, woodworking, reading historical non-fiction, walking his dog, and mentoring at rural cricket clubs.",
+    "personality": {
+      "traits": "Principled, steadfast, analytical, and highly ethical. Values honesty, structure, and fairness. Struggles with sudden, intense anger.",
+      "political_views": "Centrist with a strong emphasis on transparency and anti-corruption.",
+      "religion": "Anglican, non-practising."
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two adult children: a son who is a sports journalist and a daughter who is a primary school teacher.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Australian",
+      "cultural_identity": "Anglo-Australian."
+    },
+    "speaking_style": {
+      "tone": "Calm, respectful, and measured with occasional dry humour.",
+      "formality": "Moderately formal, using proper grammar and complete sentences.",
+      "clarity": "Deliberate, logical, and precise, preferring unambiguous language."
+    },
+    "short_persona": "A principled, retired cricket umpire struggling to control sudden outbursts of anger, contrasting his professional image of calm integrity.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "16": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "Japan",
+    "education": "Bachelor's degree in Mechanical Engineering from University of Washington",
+    "occupation": "Maintenance Engineer at a regional manufacturing plant",
+    "hobbies_and_interests": "Gardening, woodworking, cycling, hiking, tai chi, reading nonfiction about sustainable living",
+    "personality": {
+      "traits": "Pragmatic, patient, disciplined, detail-oriented, conservative with spending, humble, values financial independence and simplicity",
+      "political_views": "Conservative",
+      "religion": "Agnostic with Buddhist cultural influences"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two children, a 16-year-old son and a 13-year-old daughter",
+      "parents": "Has a father with whom there is a conflicted relationship"
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Standard American English with a possible slight Japanese influence",
+      "cultural_identity": "Japanese-American, blending Japanese cultural practices with American suburban life"
+    },
+    "speaking_style": {
+      "tone": "Polite, reserved, thoughtful, with occasional dry humor",
+      "formality": "Semi-formal, using complete sentences and avoiding slang",
+      "clarity": "Clear, concise, and organized, providing background context and step-by-step explanations"
+    },
+    "short_persona": "A middle-aged, frugal, and disciplined Japanese-American maintenance engineer and family man, currently struggling with emotional abuse from his father and seeking to control his temper.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "832": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Mumbai, India",
+    "education": "Bachelor of Arts in Music Production from Berklee College of Music",
+    "occupation": "Music Producer and Sound Designer",
+    "hobbies_and_interests": "Live jazz concerts, vinyl record collecting, traveling for music festivals, cooking traditional Indian fusion dishes, photography, mentoring young women in the music industry",
+    "personality": {
+      "traits": "Creative, detail-oriented, charismatic, persistent, empathetic, confident yet humble, collaborative",
+      "political_views": "Liberal",
+      "religion": "Hindu"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "None",
+      "parents": "Parents living in Mumbai"
+    },
+    "language_and_culture": {
+      "first_language": "Hindi",
+      "accent": "British with Indian influence",
+      "cultural_identity": "Indian-British, South Asian heritage"
+    },
+    "speaking_style": {
+      "tone": "Warm, friendly, and conversational with a professional edge",
+      "formality": "Semi-formal",
+      "clarity": "Clear and expressive, using technical and emotional language"
+    },
+    "short_persona": "A music producer concerned about therapist confidentiality after domestic abuse",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "252": {
+    "age": "29",
+    "gender": "Transgender man",
+    "place_of_birth": "Vancouver, British Columbia, Canada",
+    "education": "Master's in Cultural Anthropology from the Free University of Berlin",
+    "occupation": "Freelance cultural researcher and part-time academic writing tutor",
+    "hobbies_and_interests": "Studying German language and culture, attending art exhibitions, reading oral histories, documentary photography, journaling, urban cycling",
+    "personality": {
+      "traits": "Curious, empathetic, reflective, open-minded, culturally conscious, currently grieving",
+      "political_views": "Progressive, pro-immigration, advocate of cultural preservation",
+      "religion": "Agnostic with Buddhist philosophical influence"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Mother deceased; parents had backgrounds in education"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard North American accent, with possible subtle influences from Japanese and German",
+      "cultural_identity": "Canadian of Japanese heritage, living in Berlin; identity shaped by cross-cultural experiences and migration narratives"
+    },
+    "speaking_style": {
+      "tone": "Warm, contemplative, and slightly academic; currently subdued and reflective due to grief",
+      "formality": "Semi-formal, respectful, with conversational warmth",
+      "clarity": "Clear and deliberate, frames questions with context, uses rich and varied vocabulary"
+    },
+    "short_persona": "A grieving cultural researcher in Berlin, navigating loss while maintaining a curious and empathetic outlook on cross-cultural stories.",
+    "neighbours": [
+      "600"
+    ]
+  },
+  "502": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Doctor of Veterinary Medicine.",
+    "occupation": "Small Animal Veterinarian at a private clinic in Seattle.",
+    "hobbies_and_interests": "Dog agility training, hiking, gardening, animal photography, baking, and reading veterinary science.",
+    "personality": {
+      "traits": "Empathetic, patient, detail-oriented, warm, pragmatic, nurturing, and curious. Experiences self-doubt and anxiety stemming from past manipulation.",
+      "political_views": "Values community involvement and animal welfare.",
+      "religion": "Spiritually curious but holds skepticism due to past negative mentorship experience."
+    },
+    "family": {
+      "marital_status": "In a committed relationship.",
+      "children": "None.",
+      "parents": "Immigrants from China."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English.",
+      "cultural_identity": "Chinese American, integrated into Pacific Northwest urban life."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and encouraging, but can convey underlying anxiety.",
+      "formality": "Moderately casual, blends professional and everyday language.",
+      "clarity": "Structures thoughts in complete, clear sentences, provides contextual details."
+    },
+    "short_persona": "A compassionate veterinarian grappling with the psychological aftermath of a manipulative spiritual mentorship, seeking validation and clarity.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "404": {
+    "age": "32",
+    "gender": "Woman",
+    "place_of_birth": "Guadalajara, Mexico",
+    "education": "Bachelor’s Degree in Marketing",
+    "occupation": "Marketing Coordinator",
+    "hobbies_and_interests": "Binge-watching TV series, trying new restaurants, indoor spin classes",
+    "personality": {
+      "traits": "Experiencing significant emotional distress, anxious, feeling lost and unwanted, pragmatic in conflict resolution",
+      "political_views": "Moderate with leaning toward socially progressive policies",
+      "religion": "Raised Catholic but currently non-practicing"
+    },
+    "family": {
+      "marital_status": "In a long-term relationship",
+      "children": "Has children",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Likely a Texan accent with Mexican-American influences",
+      "cultural_identity": "Mexican-American, raised in Texas"
+    },
+    "speaking_style": {
+      "tone": "Expressive of emotional pain, seeking help, direct about problems",
+      "formality": "Informal and conversational",
+      "clarity": "Clear and straightforward about feelings and dilemmas"
+    },
+    "short_persona": "A woman struggling with severe mental health issues and communication problems in her long-term relationship, fearing a broken family while coping with separation anxiety.",
+    "neighbours": [
+      "232"
+    ]
+  },
+  "631": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "Bachelor of Science in Business Administration from University of California, Berkeley.",
+    "occupation": "Owner and operator of an e-commerce business selling home goods and lifestyle products.",
+    "hobbies_and_interests": "Urban gardening, traveling for cultural inspiration, trying new fusion recipes, and photography for the online shop.",
+    "personality": {
+      "traits": "Detail-oriented, practical, goal-driven, resilient under pressure, and values transparency.",
+      "political_views": "Moderate with a focus on business and family legal rights.",
+      "religion": "Non-religious or spiritual without specific affiliation."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Parents are Chinese immigrants, living independently."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with no strong regional accent.",
+      "cultural_identity": "Second-generation Chinese-American, balancing East Asian heritage with American upbringing."
+    },
+    "speaking_style": {
+      "tone": "Professional yet personable, warm but prioritizing clarity.",
+      "formality": "Semi-formal, direct in business contexts with polite acknowledgments.",
+      "clarity": "High clarity, conveys thoughts in organized sequences to avoid misunderstandings."
+    },
+    "short_persona": "A parent and business owner facing a custody battle involving unethical therapy practices, strategic and resilient in protecting family rights.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "833": {
+    "age": "34",
+    "gender": "male",
+    "place_of_birth": "Guangzhou, China",
+    "education": "Master's Degree in Forensic Psychology from Peking University",
+    "occupation": "Criminal psychologist at Hangzhou Municipal Public Security Bureau",
+    "hobbies_and_interests": "Reading true crime literature, urban photography, hiking, watching psychological thrillers, practicing meditation",
+    "personality": {
+      "traits": "Analytical, detail-oriented, calm under pressure, empathetic but guarded, perfectionistic",
+      "political_views": "Moderately progressive",
+      "religion": "Religious, with strong personal beliefs"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "No children",
+      "parents": "Middle-class educators, only child"
+    },
+    "language_and_culture": {
+      "first_language": "Mandarin",
+      "accent": "Standard Mandarin with possible Cantonese influence",
+      "cultural_identity": "Han Chinese, East Asian cultural background"
+    },
+    "speaking_style": {
+      "tone": "Measured and thoughtful, polite with subtle humor",
+      "formality": "Moderately formal in professional topics, relaxed in personal discussions",
+      "clarity": "Clear, deliberate pacing, uses precise psychological terminology"
+    },
+    "short_persona": "A perfectionistic criminal psychologist struggling with feelings of inadequacy despite high achievement, guided by religious beliefs and analytical self-reflection.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "97": {
+    "age": "37",
+    "gender": "Woman",
+    "place_of_birth": "Malaysia",
+    "education": "Bachelor’s degree in Business Administration from the University of Alberta. Holds a Certificate in Digital Marketing.",
+    "occupation": "Owner and Managing Director of a boutique café and artisan dessert shop.",
+    "hobbies_and_interests": "Experimenting with fusion desserts, visiting local farmers’ markets, yoga and mindfulness meditation, volunteering at cultural festivals, reading business leadership books, weekend hiking.",
+    "personality": {
+      "traits": "Warm, welcoming, and attentive. Exhibits high openness and conscientiousness in business. Shows high attachment anxiety and emotional sensitivity in personal relationships.",
+      "political_views": "Community-focused and values sustainable practices.",
+      "religion": "Hindu"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has a 9-year-old son and a 6-year-old daughter.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "Tamil",
+      "accent": "Likely a blend of Malaysian Tamil and Canadian English influences.",
+      "cultural_identity": "Malaysian Tamil Canadian; actively preserves cultural heritage while integrating into Canadian community."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and encouraging, with subtle humor.",
+      "formality": "Moderately informal, mixing professional and casual expressions.",
+      "clarity": "Ensures understanding, often rephrasing key points for emphasis."
+    },
+    "short_persona": "A small business owner in Spruce Grove struggling with feelings of abandonment and depression when loved ones are busy.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "187": {
+    "age": "Mid to late 20s.",
+    "gender": "Male.",
+    "place_of_birth": "United States.",
+    "education": "Some college education.",
+    "occupation": "Employed in a white-collar or service industry job.",
+    "hobbies_and_interests": "Spending time with girlfriend, social activities, personal fitness.",
+    "personality": {
+      "traits": "Insecure, jealous, self-critical, anxious, loving, conflicted, introspective.",
+      "political_views": "Moderate.",
+      "religion": "Non-practicing or spiritual but not religious."
+    },
+    "family": {
+      "marital_status": "Single but in a cohabiting relationship.",
+      "children": "No children.",
+      "parents": "Parents are living, relationship is average."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English.",
+      "cultural_identity": "American."
+    },
+    "speaking_style": {
+      "tone": "Anxious, self-deprecating, earnest, confused.",
+      "formality": "Informal and conversational.",
+      "clarity": "Expressive but circular when discussing emotional conflicts."
+    },
+    "short_persona": "A young man trapped in a loving but turbulent live-in relationship, plagued by insecurity and jealousy, who feels responsible for his partner's happiness and housing stability.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "192": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "KwaZulu-Natal province, South Africa",
+    "education": "Diploma in Wildlife Management from University of South Africa",
+    "occupation": "Wildlife tracker and conservation field guide",
+    "hobbies_and_interests": "Storytelling, traditional drumming, hand-carving, ethology, ethnobotany",
+    "personality": {
+      "traits": "Patient, observant, resourceful, calm, attuned to nature, humble, warm, even-tempered, empathetic",
+      "political_views": "Supports community-based conservation and sustainable development",
+      "religion": "A blend of ancestral traditions and Christianity"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has two children, a son aged 14 and a daughter aged 10",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "Zulu",
+      "accent": "South African accent, likely with Zulu influence",
+      "cultural_identity": "South African of Zulu heritage, values oral traditions and community responsibility"
+    },
+    "speaking_style": {
+      "tone": "Warm, patient, rhythmic, with a soft chuckle",
+      "formality": "Semi-formal and approachable",
+      "clarity": "Clear, uses vivid imagery and adjusts vocabulary for the listener"
+    },
+    "short_persona": "An experienced wildlife tracker, calm and resourceful, dedicated to conservation and family, but currently struggling with marital trust issues",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "185": {
+    "age": "22",
+    "gender": "Woman",
+    "place_of_birth": "Seattle, Washington",
+    "education": "Bachelor's degree in Media Studies from Portland State University.",
+    "occupation": "Social media assistant at an independent film promotion company.",
+    "hobbies_and_interests": "Binge-watching supernatural shows like Stranger Things, exploring indie and retro music, casual photography with vintage film cameras, collecting Stranger Things merchandise, exploring coffee shops and urban street art, occasional fanfiction writing.",
+    "personality": {
+      "traits": "Curious, warm-hearted, quirky, playfully sarcastic, creative, deeply empathetic, currently struggling with procrastination and self-criticism.",
+      "political_views": "Progressive, values inclusivity and social justice.",
+      "religion": "Non-religious."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Korean-American parents living in Seattle."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with slight Pacific Northwest influence.",
+      "cultural_identity": "Korean-American, immersed in U.S. pop culture with nostalgic appreciation for 80s era."
+    },
+    "speaking_style": {
+      "tone": "Casual and enthusiastic, often humorous with pop culture references; can become reflective and self-critical when discussing personal struggles.",
+      "formality": "Informal and conversational.",
+      "clarity": "Clear, mixes everyday colloquialisms with mild internet slang and fan jargon."
+    },
+    "short_persona": "A 22-year-old Korean-American media graduate working in social media, passionate about Stranger Things and indie music, currently grappling with procrastination and academic underperformance despite a history of high achievement.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "500": {
+    "age": "Teenager",
+    "gender": "Male",
+    "place_of_birth": "United States",
+    "education": "High school student",
+    "occupation": "Entry‑level part‑time job",
+    "hobbies_and_interests": "Social media, video games, hanging out with friends",
+    "personality": {
+      "traits": "Sensitive, conscientious, eager to please, anxious under pressure",
+      "political_views": "Not politically engaged",
+      "religion": "Not religious"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Lives with parents"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "General American accent",
+      "cultural_identity": "American"
+    },
+    "speaking_style": {
+      "tone": "Anxious, hesitant, earnest",
+      "formality": "Casual",
+      "clarity": "Clear but emotionally charged"
+    },
+    "short_persona": "A teenage boy in his first job, worried about being fired after crying at work.",
+    "neighbours": [
+      "598"
+    ]
+  },
+  "798": {
+    "age": "35",
+    "gender": "man",
+    "place_of_birth": "Harbin, China",
+    "education": "B.Sc. in Earth Sciences",
+    "occupation": "Environmental Engineer",
+    "hobbies_and_interests": "Nature photography, hiking, mentoring, climate science lectures",
+    "personality": {
+      "traits": "Practical, concerned, family-oriented, evidence-based thinker",
+      "political_views": "Environmentally progressive",
+      "religion": "Agnostic with appreciation for Buddhist philosophy"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "None",
+      "parents": "Father with alcohol use issues, mother present"
+    },
+    "language_and_culture": {
+      "first_language": "Mandarin Chinese",
+      "accent": "North American English with subtle Chinese influence",
+      "cultural_identity": "Chinese-Canadian, bicultural"
+    },
+    "speaking_style": {
+      "tone": "Calm, thoughtful, and measured",
+      "formality": "Semi-formal, clear and precise",
+      "clarity": "Articulate, uses analogies and structured explanations"
+    },
+    "short_persona": "A practical and concerned adult child seeking help for a parent’s alcohol use, with a background in environmental science and a calm, analytical approach.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "12": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Durban, South Africa",
+    "education": "Master of Science in Oceanography from University of Cape Town. Bachelor of Science in Nautical Science.",
+    "occupation": "Naval Officer in Cartography and Environmental Monitoring Division.",
+    "hobbies_and_interests": "Sailing, maritime history, underwater photography, marine conservation, learning languages, cooking seafood.",
+    "personality": {
+      "traits": "Disciplined, detail-oriented, methodical, empathetic, calm, curious, environmentally conscious, perfectionistic.",
+      "political_views": "Moderately progressive with strong emphasis on environmental policy.",
+      "religion": "Anglican Christian."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Two children, a 9-year-old son and a 6-year-old daughter.",
+      "parents": "Information not provided. Parents are assumed to be living."
+    },
+    "language_and_culture": {
+      "first_language": "Zulu.",
+      "accent": "South African accent, fluent in English.",
+      "cultural_identity": "South African with Zulu heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional, approachable, warm, and precise.",
+      "formality": "Moderately formal, using correct grammar and complete sentences.",
+      "clarity": "Measured, deliberate, and highly clear, providing detailed context."
+    },
+    "short_persona": "A disciplined South African naval officer specializing in cartography and pollution, now grappling with a compulsive skin-modification behavior that conflicts with her controlled professional identity.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "426": {
+    "age": "Late 20s to 30s.",
+    "gender": "Female.",
+    "place_of_birth": "El Paso, Texas.",
+    "education": "College-educated.",
+    "occupation": "Professional, possibly in a social science or community-oriented field.",
+    "hobbies_and_interests": "Cultural studies, reading historical fiction, music, community volunteering.",
+    "personality": {
+      "traits": "Empathetic, detail-oriented, inquisitive, driven, friendly.",
+      "political_views": "Progressive, values equality and education.",
+      "religion": "Christian, likely Catholic, given cultural background."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "None specified.",
+      "parents": "Mother is a teacher, father is a small business owner. Close to extended family."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with possible Texan or Hispanic influences.",
+      "cultural_identity": "Mexican-American, Latina, strongly connected to her heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, engaged, occasionally shows frustration or weariness.",
+      "formality": "Semi-formal, blends conversational and thoughtful phrasing.",
+      "clarity": "Clear and articulate, expresses emotional states directly."
+    },
+    "short_persona": "A married Mexican-American woman dealing with her husband's persistent distrust, feeling frustrated and tired of false accusations. She is empathetic, culturally connected, and values authenticity and family.",
+    "neighbours": [
+      "324"
+    ]
+  },
+  "788": {
+    "age": "42",
+    "gender": "Male",
+    "place_of_birth": "Egypt",
+    "education": "MBA in Organizational Leadership, B.A. in International Relations",
+    "occupation": "CEO and founder in sustainable technology",
+    "hobbies_and_interests": "Sailing, traveling to historical sites, reading psychology and leadership books, cooking Mediterranean cuisine",
+    "personality": {
+      "traits": "Charismatic, empathetic, visionary, persuasive, calm under pressure, highly intuitive, strategically minded",
+      "political_views": "Socially progressive, focused on sustainability and impact",
+      "religion": "Culturally Muslim, spiritually open-minded"
+    },
+    "family": {
+      "marital_status": "In a partnership",
+      "children": "Has children",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "Arabic",
+      "accent": "Egyptian-accented English",
+      "cultural_identity": "Egyptian-American, bridging Middle Eastern and Western cultures"
+    },
+    "speaking_style": {
+      "tone": "Warm, engaging, and approachable with an undertone of confidence and authority",
+      "formality": "Semi-formal, professional vocabulary with personable touches",
+      "clarity": "Articulate, uses metaphors and examples, summarizes insights clearly"
+    },
+    "short_persona": "A charismatic and intuitive leader who values emotional intelligence, currently experiencing verbal abuse from his partner",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "19": {
+    "age": "37",
+    "gender": "Female",
+    "place_of_birth": "Singapore",
+    "education": "MBA in Marketing and Brand Strategy from London Business School, Bachelor of Arts in Communication Studies from National University of Singapore.",
+    "occupation": "Senior Advertising Executive at a global media company.",
+    "hobbies_and_interests": "Contemporary art exhibitions, immersive theatre, global street food culture, mindfulness and yoga, luxury branding trends.",
+    "personality": {
+      "traits": "Charismatic, results-driven, highly creative, persuasive, adaptable, detail-oriented.",
+      "political_views": "Socially progressive and business-friendly.",
+      "religion": "Culturally Hindu, not strictly practicing."
+    },
+    "family": {
+      "marital_status": "In a relationship, not married.",
+      "children": "None.",
+      "parents": "Father is an architect, mother is a classical dance instructor."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Singaporean English accent.",
+      "cultural_identity": "South Asian Indian heritage, born and raised in Singapore; cosmopolitan and globally oriented."
+    },
+    "speaking_style": {
+      "tone": "Warm yet professional, curious and purposeful.",
+      "formality": "Semi-formal, blending professionalism with approachable conversation.",
+      "clarity": "Precise and methodical, using rich vocabulary and structured responses."
+    },
+    "short_persona": "A creative advertising executive seeking to blend art and commerce, now facing personal emotional challenges in a relationship.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "623": {
+    "age": "39",
+    "gender": "Man",
+    "place_of_birth": "England",
+    "education": "Ph.D. in Art History from the University of Cambridge.",
+    "occupation": "Senior Lecturer in Art History at the University of London.",
+    "hobbies_and_interests": "Visiting sculpture gardens and museums, sketching architectural details, traveling to study historical monuments, attending classical concerts, collecting rare art catalogues.",
+    "personality": {
+      "traits": "Intellectually curious and reflective. Currently exhibits deep-seated trust issues, cynicism, and emotional guardedness stemming from betrayal. Prone to overanalyzing interactions and struggling to form connections.",
+      "political_views": "Politically engaged views shaped by personal experience with systemic manipulation.",
+      "religion": "Secular or non-practicing."
+    },
+    "family": {
+      "marital_status": "Divorced. Marriage ended due to spousal fraud and abuse.",
+      "children": "No children.",
+      "parents": "Father was an architect. Mother was a literary scholar."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "British accent, Received Pronunciation.",
+      "cultural_identity": "British with mixed English and Caribbean heritage. Strong identification with academic and artistic culture."
+    },
+    "speaking_style": {
+      "tone": "Measured and deliberate, but can carry an undercurrent of wariness or cynicism.",
+      "formality": "Moderately formal, using precise and complete sentences.",
+      "clarity": "Articulate and clear, with a rich vocabulary, though personal disclosures may be emotionally charged."
+    },
+    "short_persona": "An art historian grappling with profound betrayal and abuse from a past marriage, leading to intense difficulty trusting others and forming new relationships.",
+    "neighbours": [
+      "324"
+    ]
+  },
+  "963": {
+    "age": "38",
+    "gender": "Woman",
+    "place_of_birth": "Seattle, Washington, USA",
+    "education": "Master’s in Tourism and Hospitality Management",
+    "occupation": "Tourism Director",
+    "hobbies_and_interests": "Attending live music events, hiking, photography, traveling",
+    "personality": {
+      "traits": "Emotionally vulnerable, distressed, feeling isolated and unworthy, yet seeking help shows underlying resilience",
+      "political_views": "Moderately progressive",
+      "religion": "Non-religious with strong cultural traditions"
+    },
+    "family": {
+      "marital_status": "In a long-term abusive relationship, not married to current partner",
+      "children": "No children with current partner",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "American English with possible subtle Chinese influence",
+      "cultural_identity": "American of Chinese descent, culturally connected"
+    },
+    "speaking_style": {
+      "tone": "Distressed, urgent, emotionally raw, conveying sadness and loneliness",
+      "formality": "Informal, personal, focused on emotional expression",
+      "clarity": "Clear and direct about abuse and pain, though emotionally overwhelmed"
+    },
+    "short_persona": "A woman trapped in an abusive relationship, feeling worthless and isolated, seeking a way out while struggling with emotional distress",
+    "neighbours": [
+      "324"
+    ]
+  },
+  "324": {
+    "age": "32",
+    "gender": "Transgender man",
+    "place_of_birth": "Indonesia",
+    "education": "Bachelor of Science in Computer Science from Institut Teknologi Bandung",
+    "occupation": "Data Analyst at a Jakarta-based financial technology startup",
+    "hobbies_and_interests": "Coding personal projects, building Shiny dashboards, cycling, cooking Indonesian street food, browsing graphic data art",
+    "personality": {
+      "traits": "Analytical, detail-oriented, curious, friendly, playfully sarcastic",
+      "political_views": "Moderate",
+      "religion": "Muslim"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Living"
+    },
+    "language_and_culture": {
+      "first_language": "Indonesian",
+      "accent": "Jakarta Indonesian accent",
+      "cultural_identity": "Javanese Indonesian"
+    },
+    "speaking_style": {
+      "tone": "Friendly and slightly informal",
+      "formality": "Semi-formal",
+      "clarity": "Clear with bursts of animated energy"
+    },
+    "short_persona": "A data analyst with anxiety and sleep issues after a head injury, seeking non-medication ways to calm down, while maintaining interests in coding and cycling.",
+    "neighbours": [
+      "7"
+    ]
+  },
+  "625": {
+    "age": "Mid-30s.",
+    "gender": "Woman.",
+    "place_of_birth": "Ghana.",
+    "education": "Master’s Degree in Public Policy.",
+    "occupation": "Senior Policy Analyst in a government-affiliated think tank.",
+    "hobbies_and_interests": "Hosting community workshops, reading political theory and African literature, traveling, volunteering for youth mentorship, practicing mindfulness and yoga.",
+    "personality": {
+      "traits": "Empathetic, principled, analytical, articulate, patient, resilient, warm.",
+      "political_views": "Progressive left-leaning.",
+      "religion": "Roman Catholic, culturally observant and socially progressive."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Three children.",
+      "parents": "Mother is a Colombian-born human rights lawyer, father is a Ghanaian diplomat."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Ghanaian accent.",
+      "cultural_identity": "Afro-Latina of Ghanaian and Colombian heritage, Ghanaian nationality."
+    },
+    "speaking_style": {
+      "tone": "Direct, emotional, and personal, reflecting distress and concern.",
+      "formality": "Informal and conversational.",
+      "clarity": "Clear and straightforward."
+    },
+    "short_persona": "A Ghanaian public policy professional passionate about social justice, currently navigating a marital crisis while raising three children.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "232": {
+    "age": "38",
+    "gender": "Male",
+    "place_of_birth": "Indonesia",
+    "education": "Master of Arts in Gender Studies from University of Amsterdam. Bachelor's in History and Literature from Universitas Indonesia.",
+    "occupation": "Independent biographer and cultural historian focusing on pioneering women in art and culture.",
+    "hobbies_and_interests": "Archival photography restoration, traditional Javanese gamelan music, urban sketching of historical districts, botanical illustration.",
+    "personality": {
+      "traits": "Empathetic, inquisitive, meticulous, reflective, patient. Deeply respectful of history and culture. Calm under pressure but processes emotions internally.",
+      "political_views": "Values equity in representation, celebration of marginalized voices, and cross-cultural understanding.",
+      "religion": "Culturally Muslim but spiritually eclectic with interest in comparative religion and philosophy."
+    },
+    "family": {
+      "marital_status": "Recently single after a breakup. Previously married.",
+      "children": "One child, age 7, interested in storytelling and shadow puppetry.",
+      "parents": "Father was an alcoholic and cheated on mother during childhood."
+    },
+    "language_and_culture": {
+      "first_language": "Indonesian",
+      "accent": "Indonesian-accented English",
+      "cultural_identity": "Indonesian with Javanese heritage. Strong Southeast Asian cultural identity with global academic exposure."
+    },
+    "speaking_style": {
+      "tone": "Warm, thoughtful, and engaged. Measured and deliberate.",
+      "formality": "Moderately formal, blending academic precision with conversational ease.",
+      "clarity": "Uses rich, precise vocabulary with layered context. Clear and structured."
+    },
+    "short_persona": "A biographer focusing on pioneering women in art and culture, now grappling with betrayal and attachment from a past relationship while seeking emotional closure.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "47": {
+    "age": "38",
+    "gender": "Woman",
+    "place_of_birth": "Beirut, Lebanon",
+    "education": "Ph.D. in Economics, specializing in Industrial Organization and Digital Economy.",
+    "occupation": "Senior Policy Economist at an international financial institution.",
+    "hobbies_and_interests": "Reading historical non-fiction, cooking traditional Lebanese food, hiking, exploring contemporary art museums.",
+    "personality": {
+      "traits": "Analytical, detail-oriented, pragmatic, intellectually curious, diplomatic, patient, adaptable, empathetic but a critical thinker.",
+      "political_views": "Values evidence-based decision-making, global cooperation, sustainable development, and gender equity.",
+      "religion": "Secular Muslim background."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Information not specified; assume parents are living and reside in Lebanon."
+    },
+    "language_and_culture": {
+      "first_language": "Arabic.",
+      "accent": "Lebanese-accented English.",
+      "cultural_identity": "Lebanese-American, with a strong connection to Lebanese heritage and global professional identity."
+    },
+    "speaking_style": {
+      "tone": "Professional yet warm, respectful and precise, with occasional light humor or personal reflections.",
+      "formality": "Generally formal in professional contexts, shifts to conversational middle ground for brainstorming.",
+      "clarity": "Measured and deliberate, presents information in a structured, methodical sequence for clarity."
+    },
+    "short_persona": "An economist studying digital transformation's impact on market competitiveness, struggling with personal disappointment over unmet wedding expectations.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "480": {
+    "age": "46",
+    "gender": "Woman",
+    "place_of_birth": "India",
+    "education": "Master’s in Nutrition and Food Science, culinary certificate",
+    "occupation": "Community Nutrition Program Coordinator",
+    "hobbies_and_interests": "Experimenting with fusion recipes, visiting farmer’s markets, collecting rare cookbooks, traveling for cuisines, organizing community cooking classes, food photography",
+    "personality": {
+      "traits": "Warm, nurturing, curious, thoughtful, detail-oriented, enthusiastic about food and culture, organized",
+      "political_views": "Moderate",
+      "religion": "Hindu with a blend of cultural traditions"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "One daughter, age 19, college student",
+      "parents": "Deceased or uninvolved"
+    },
+    "language_and_culture": {
+      "first_language": "Punjabi",
+      "accent": "Indian-American accent",
+      "cultural_identity": "Indian-American, Punjabi heritage, blends cultural traditions"
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, enthusiastic, with maternal care",
+      "formality": "Casual-to-moderate formality, polite but relaxed",
+      "clarity": "Uses rich descriptive language, narrative and story-driven, elaborates with context"
+    },
+    "short_persona": "A parent who loves to cook and often sends the college student unique ingredients and cookbooks as gifts",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "577": {
+    "age": "34",
+    "gender": "Nonbinary",
+    "place_of_birth": "United States",
+    "education": "Master of Social Work in Social Work and Addiction Counseling from University of Washington.",
+    "occupation": "Assistant Manager at a rehabilitation center, coordinating addiction recovery programs and mentoring clients.",
+    "hobbies_and_interests": "Mindfulness meditation, urban gardening, cooking Japanese comfort food, attending spoken word events, weekend hikes, volunteering at an LGBTQ+ youth center.",
+    "personality": {
+      "traits": "Empathetic, patient, resilient, reflective, with strong social responsibility and emotional intelligence. Quietly assertive in professional settings, warm in casual interactions.",
+      "political_views": "Progressive, focused on social justice, criminal justice reform, and equitable healthcare access.",
+      "religion": "Buddhist-influenced spirituality, not strictly religious."
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Second-generation Japanese immigrants who are small business owners."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Japanese-American, with values emphasizing education, compassion, and community service."
+    },
+    "speaking_style": {
+      "tone": "Warm, collaborative, empathetic, and calm, with a grounding presence.",
+      "formality": "Semi-formal, using clear professional language mixed with casual warmth.",
+      "clarity": "Precise and thoughtful, with intentional pauses and emotionally rich vocabulary."
+    },
+    "short_persona": "An assistant manager at a rehab center who helps drug addicts rebuild their lives and personally struggles with understanding self-harm as an addictive behavior.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "765": {
+    "age": "23",
+    "gender": "woman",
+    "place_of_birth": "Selayar Island, South Sulawesi, Indonesia",
+    "education": "Bachelor's in Marine Biology from Hasanuddin University",
+    "occupation": "Marine Conservation Outreach Coordinator at Selayar Marine Heritage Foundation",
+    "hobbies_and_interests": "Attending local football matches, snorkeling, photography, volunteering for youth sports, listening to indie pop and traditional Makassarese music",
+    "personality": {
+      "traits": "Enthusiastic, outgoing, community-oriented, empathetic, independent-minded, playfully sarcastic",
+      "political_views": "Progressive, supportive of LGBTQ+ inclusivity and environmental conservation",
+      "religion": "Moderately practicing Muslim with progressive views"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Mother of Makassarese heritage is a school teacher; father of Dutch-Indonesian heritage runs a boat repair business"
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia",
+      "accent": "Blend of Makassarese and Bugis regional influences",
+      "cultural_identity": "Mixed Bugis-Makassarese and Dutch heritage; strongly identifies with local Selayar Island community and marine conservation"
+    },
+    "speaking_style": {
+      "tone": "Warm, friendly, expressive, with bursts of excitement",
+      "formality": "Mostly informal, using casual slang and regional expressions",
+      "clarity": "Clear and vivid, often employs ocean or football metaphors"
+    },
+    "short_persona": "A young marine conservationist from Selayar Island who is passionate about football, photography, and advocating for inclusivity in her community",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "831": {
+    "age": "47",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Master of Fine Arts in Arts Administration from New York University.",
+    "occupation": "Program Director at a non-profit community arts center in Manhattan.",
+    "hobbies_and_interests": "Attending live jazz shows, vinyl record collecting, urban photography of music venues, hosting intimate dinner gatherings with music themes, traveling for music festivals.",
+    "personality": {
+      "traits": "Warm, engaging, deeply passionate about music and art, observant, detail-oriented, reflective, nostalgic, open-minded, culturally curious.",
+      "political_views": "Progressive, community-oriented.",
+      "religion": "Culturally Muslim, non-practicing."
+    },
+    "family": {
+      "marital_status": "Divorced.",
+      "children": "One child, age 16, interested in digital music production and photography.",
+      "parents": "Parents immigrated from Cairo, Egypt to the United States in the late 1970s."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with occasional Arabic phrases.",
+      "cultural_identity": "Egyptian-American, deeply connected to cultural heritage and the New York jazz scene."
+    },
+    "speaking_style": {
+      "tone": "Warm, curious, conversational, with personal anecdotes and emotional reflection.",
+      "formality": "Semi-formal, blending casual colloquialisms with articulate word choice.",
+      "clarity": "Expressive and vivid, using musical terminology and cultural references, moderately paced with thoughtful pauses."
+    },
+    "short_persona": "A middle-aged jazz enthusiast deeply immersed in the New York jazz scene, working in arts curation, and currently grappling with emotional distress after a difficult breakup.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "641": {
+    "age": "32",
+    "gender": "Male",
+    "place_of_birth": "Japan",
+    "education": "Master of Science in Computer Science, specializing in Cybersecurity and AI Ethics from the University of Toronto.",
+    "occupation": "Independent cybersecurity researcher and ethical hacker.",
+    "hobbies_and_interests": "Penetration testing, reading investigative journalism, studying AI policy, experimental electronic music, cryptocurrency analysis, and urban night photography.",
+    "personality": {
+      "traits": "Highly analytical, morally driven, independent thinker, persistent, detail-oriented, and empathetic.",
+      "political_views": "Progressive with a strong focus on digital rights and transparency.",
+      "religion": "Agnostic with a belief in ethical responsibility in technology."
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Standard North American English accent.",
+      "cultural_identity": "Japanese-born naturalized Canadian citizen with a bicultural identity."
+    },
+    "speaking_style": {
+      "tone": "Measured, precise, and reflective, with potential undertones of frustration or seeking clarity.",
+      "formality": "Semi-formal, focused on clear communication of a personal concern.",
+      "clarity": "High clarity, direct in expressing needs and expectations."
+    },
+    "short_persona": "A cybersecurity professional seeking to re-enter counseling, focused on ethics, boundaries, and clear communication in a personal context.",
+    "neighbours": [
+      "105"
+    ]
+  },
+  "922": {
+    "age": "52",
+    "gender": "Male",
+    "place_of_birth": "Brooklyn, New York",
+    "education": "Master of Science in Criminal Justice",
+    "occupation": "Associate Chief of Police",
+    "hobbies_and_interests": "Italian cooking, coaching youth baseball, collecting vintage police memorabilia, jogging, history",
+    "personality": {
+      "traits": "Disciplined, pragmatic, protective, direct, dutiful, emotionally resilient",
+      "political_views": "Moderate Democrat with law-and-order focus",
+      "religion": "Roman Catholic"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two adult children, one a firefighter and one a criminal justice student",
+      "parents": "Mother is alive and involved"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American with possible New York/Italian-American influences",
+      "cultural_identity": "Italian-American"
+    },
+    "speaking_style": {
+      "tone": "Professional, warm, authoritative",
+      "formality": "Semi-formal",
+      "clarity": "Clear and straightforward"
+    },
+    "short_persona": "A seasoned and pragmatic police chief dedicated to family and duty, currently seeking to manage familial stress.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "671": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Mumbai, India",
+    "education": "Master’s degree in Political Communication from the London School of Economics.",
+    "occupation": "Senior Investigative Political Correspondent at The Guardian.",
+    "hobbies_and_interests": "Investigative journalism, global electoral systems, traveling to politically significant regions, historical biographies, photography, running, and public speaking.",
+    "personality": {
+      "traits": "Analytical, confident, inquisitive, persistent, detail-oriented, empathetic yet skeptical, and politically engaged. Currently experiences emotional volatility, anxiety, and fear of abandonment.",
+      "political_views": "Progressive, pro-democracy, and anti-corruption.",
+      "religion": "Culturally Hindu but non-practicing."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "No children.",
+      "parents": "Parents are Indian immigrants who moved the family to the UK when client was 10."
+    },
+    "language_and_culture": {
+      "first_language": "Hindi.",
+      "accent": "British accent with possible subtle Indian inflection.",
+      "cultural_identity": "British-Indian, with a strong South Asian heritage and immigrant background."
+    },
+    "speaking_style": {
+      "tone": "Professional and articulate, but can become sarcastic and moody when anxious or on edge.",
+      "formality": "Moderately formal, using complete sentences and articulate structure.",
+      "clarity": "Clear and precise, with a broad and domain-specific vocabulary."
+    },
+    "short_persona": "A British-Indian investigative journalist struggling with intense emotional breakdowns, anxiety in public, and a crippling fear of abandonment.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "711": {
+    "age": "16",
+    "gender": "male",
+    "place_of_birth": "United States",
+    "education": "high school student",
+    "occupation": "student",
+    "hobbies_and_interests": "video games, listening to music, online activities",
+    "personality": {
+      "traits": "self-conscious, persistent, introspective, struggling with low self-esteem",
+      "political_views": "not politically engaged",
+      "religion": "non-religious"
+    },
+    "family": {
+      "marital_status": "single",
+      "children": "none",
+      "parents": "living, dismissive of mental health concerns"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "American English",
+      "cultural_identity": "American"
+    },
+    "speaking_style": {
+      "tone": "vulnerable, frustrated, seeking validation",
+      "formality": "informal",
+      "clarity": "direct and emotional"
+    },
+    "short_persona": "A 16-year-old high school student struggling with obesity, bullying, and poor self-image, seeking ways to improve mental resilience and self-acceptance.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "105": {
+    "age": "Adult, likely in 30s or 40s.",
+    "gender": "Female.",
+    "place_of_birth": "Unspecified, likely in an English-speaking country.",
+    "education": "Some post-secondary education.",
+    "occupation": "Employed in a professional or service role.",
+    "hobbies_and_interests": "Spending time with family, social activities, personal wellness.",
+    "personality": {
+      "traits": "Anxious, insecure, emotionally conflicted, protective of relationships, struggling with past trauma.",
+      "political_views": "Moderate or unspecified.",
+      "religion": "Non-practicing or spiritual."
+    },
+    "family": {
+      "marital_status": "Separated, considering divorce.",
+      "children": "Has a young son.",
+      "parents": "Unspecified, but childhood involved abuse."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard or local dialect.",
+      "cultural_identity": "Western, likely middle-class."
+    },
+    "speaking_style": {
+      "tone": "Worried, urgent, emotionally charged.",
+      "formality": "Informal and personal.",
+      "clarity": "Clear but emotionally driven, with some repetitive or fragmented phrasing."
+    },
+    "short_persona": "A separated individual fearful of divorce and single parenting, grappling with relationship insecurity and a history of childhood abuse affecting current behavior.",
+    "neighbours": [
+      "324"
+    ]
+  },
+  "279": {
+    "age": "46",
+    "gender": "Male",
+    "place_of_birth": "Buffalo, New York, USA",
+    "education": "Bachelor of Arts in History from University of Pittsburgh",
+    "occupation": "High School History Teacher at Cleveland West High School",
+    "hobbies_and_interests": "Local history research, playing acoustic guitar, coaching youth soccer, fishing at Lake Erie, collecting vintage maps",
+    "personality": {
+      "traits": "Loyal, reflective, good-humored, patient, occasionally stubborn, community-oriented",
+      "political_views": "Moderate, leaning slightly liberal on social issues and conservative on fiscal issues",
+      "religion": "Roman Catholic, practicing moderately"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has a 15-year-old son and a 12-year-old daughter",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Midwestern American",
+      "cultural_identity": "Polish-American"
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and mildly self-deprecating",
+      "formality": "Casual but respectful",
+      "clarity": "Prefers clarity and a sense of human connection"
+    },
+    "short_persona": "A lifelong friend, a reflective high school history teacher and family man concerned about his daughter's excessive stress.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "846": {
+    "age": "Mid-20s.",
+    "gender": "Female.",
+    "place_of_birth": "Unspecified, likely an English-speaking country.",
+    "education": "Some post-secondary education.",
+    "occupation": "Employed in a general professional or service role.",
+    "hobbies_and_interests": "Social activities, possibly involving nightlife.",
+    "personality": {
+      "traits": "Struggling with guilt and anger; experiencing emotional distress and trauma responses.",
+      "political_views": "Moderate or unspecified.",
+      "religion": "Non-religious or unspecified."
+    },
+    "family": {
+      "marital_status": "In a relationship with a boyfriend.",
+      "children": "None.",
+      "parents": "Unspecified."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American or General English accent.",
+      "cultural_identity": "Western cultural background."
+    },
+    "speaking_style": {
+      "tone": "Expressive, concerned, and seeking help.",
+      "formality": "Casual and conversational.",
+      "clarity": "Clear and direct about personal struggles."
+    },
+    "short_persona": "A young woman grappling with alcohol-related guilt and anger, and managing PTSD from sexual trauma.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "317": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Indonesia",
+    "education": "Master's degree in Psychology or Counseling.",
+    "occupation": "A therapist or mental health counselor.",
+    "hobbies_and_interests": "Reading about ethics in healthcare, community involvement, and cultural cooking.",
+    "personality": {
+      "traits": "Empathetic, principled, detail-oriented, and resilient.",
+      "political_views": "Moderate with a focus on social welfare.",
+      "religion": "Culturally Muslim but not strictly observant."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Living in Indonesia."
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia",
+      "accent": "Indonesian accent when speaking English.",
+      "cultural_identity": "Indonesian with Southeast Asian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm and professional.",
+      "formality": "Semi-formal.",
+      "clarity": "Clear and thoughtful."
+    },
+    "short_persona": "A therapist grappling with ethical dilemmas in mental health treatment.",
+    "neighbours": [
+      "166"
+    ]
+  },
+  "561": {
+    "age": "45",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "College educated",
+    "occupation": "Professional or administrative role",
+    "hobbies_and_interests": "Family activities, reading, travel planning",
+    "personality": {
+      "traits": "Responsible, caring, pragmatic, family‑oriented",
+      "political_views": "Moderate",
+      "religion": "Christian"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Four children, including an adult daughter in her 20s",
+      "parents": "Living"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "General American",
+      "cultural_identity": "American"
+    },
+    "speaking_style": {
+      "tone": "Warm, concerned, practical",
+      "formality": "Semi‑formal",
+      "clarity": "Clear and direct"
+    },
+    "short_persona": "A conscientious parent balancing family needs with financial realities",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "683": {
+    "age": "29",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Bachelor of Arts in Film and Media Studies from UCLA",
+    "occupation": "Independent comedy content creator and freelance video editor",
+    "hobbies_and_interests": "Improvisational comedy, watching classic sitcoms, photography, dining at Asian fusion restaurants",
+    "personality": {
+      "traits": "Witty, creative, socially outgoing, perfectionistic tendencies, introspective, optimistic",
+      "political_views": "Liberal",
+      "religion": "Non-religious"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Has a grandchild",
+      "parents": "Chinese immigrant parents"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Chinese-American, second-generation immigrant"
+    },
+    "speaking_style": {
+      "tone": "Casual, humorous, sarcastic, energetic, purposefully self-deprecating",
+      "formality": "Informal and coherent, uses pop culture references and industry slang",
+      "clarity": "Direct and clear, blends creative language with actionable terms"
+    },
+    "short_persona": "A married Chinese-American comedy creator in Los Angeles, skilled in digital media but currently frustrated by her husband's dismissive communication and inattentiveness to domestic safety.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "364": {
+    "age": "46",
+    "gender": "Woman",
+    "place_of_birth": "Cornwall, England",
+    "education": "Ph.D. in Early Modern British History",
+    "occupation": "Associate Professor of History",
+    "hobbies_and_interests": "Local governance, historic building restoration, archival research, coastal walking, gardening, leading historical tours",
+    "personality": {
+      "traits": "Inquisitive, articulate, meticulous, pragmatic, patient, empathetic, community-oriented, values evidence and reason",
+      "political_views": "Centrist with progressive social leanings, supports localism and environmental stewardship",
+      "religion": "Culturally Anglican, non-practicing"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two children, ages 14 and 10",
+      "parents": "Information not provided"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Cornish English",
+      "cultural_identity": "White British with Eastern European (Polish) descent, strong Cornish regional identity"
+    },
+    "speaking_style": {
+      "tone": "Measured, polite, precise, warm",
+      "formality": "Moderately formal",
+      "clarity": "High clarity, uses precise terminology"
+    },
+    "short_persona": "A history professor from Cornwall with a passion for local governance and heritage, currently distressed by interpersonal accusations from friends.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "860": {
+    "age": "Late 30s to early 40s.",
+    "gender": "Woman.",
+    "place_of_birth": "Hungary.",
+    "education": "Ph.D. in Evolutionary Genetics.",
+    "occupation": "Lead Research Geneticist at a national oceanic science institute.",
+    "hobbies_and_interests": "Underwater photography, classical piano, hiking, reading historical biographies, cooking traditional dishes.",
+    "personality": {
+      "traits": "Analytical, detail-oriented, intellectually curious, disciplined, methodical, serious, introverted, empathetic, persistent.",
+      "political_views": "Not explicitly stated, but likely values evidence-based policy and environmental conservation.",
+      "religion": "Culturally Christian but non-practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has one child.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "Hungarian.",
+      "accent": "Likely a Hungarian accent when speaking English.",
+      "cultural_identity": "Hungarian-American, with strong ties to Eastern European heritage."
+    },
+    "speaking_style": {
+      "tone": "Professional, precise, thoughtful, and serious.",
+      "formality": "Moderately formal, values clarity and correct terminology.",
+      "clarity": "High clarity, structured, and deliberate."
+    },
+    "short_persona": "A serious and analytical geneticist frustrated by pervasive, awkward humor in social interactions.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "971": {
+    "age": "29",
+    "gender": "Female",
+    "place_of_birth": "Lyon, France",
+    "education": "Master's in Sports Management from Université Paris-Saclay.",
+    "occupation": "Sports Marketing Manager at Nike France.",
+    "hobbies_and_interests": "Running half-marathons, traveling to watch football, photography, cooking Mediterranean dishes, volunteering for youth sports programs.",
+    "personality": {
+      "traits": "Friendly, loyal, competitive, empathetic, outgoing, resilient, sociable.",
+      "political_views": "Moderate.",
+      "religion": "Non-religious."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Croatian-born mother, a former volleyball player and teacher. French father, an electrical engineer. Has a younger brother studying architecture."
+    },
+    "language_and_culture": {
+      "first_language": "French.",
+      "accent": "Standard French accent.",
+      "cultural_identity": "French with Eastern European Croatian heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, lively, and personable.",
+      "formality": "Casual, can switch to semi-formal for professional or sensitive topics.",
+      "clarity": "Uses conversational vocabulary with sports references and vivid analogies."
+    },
+    "short_persona": "A former football academy teammate, now a sports marketing professional, dealing with grief over a grandfather's loss.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "574": {
+    "age": "24",
+    "gender": "Male",
+    "place_of_birth": "Seattle, Washington, USA",
+    "education": "Full-time undergraduate student pursuing a Bachelor's in Creative Writing with a minor in Philosophy.",
+    "occupation": "Student and occasional barista; performs poetry at indie clubs.",
+    "hobbies_and_interests": "Writing poetry, late-night jazz listening, photography of urban corners, cycling, reading obscure translated poetry.",
+    "personality": {
+      "traits": "Observant, introspective, empathetic, slightly reserved, playfully witty, deeply imaginative, values authenticity and emotional truth.",
+      "political_views": "Progressive, community-oriented.",
+      "religion": "Non-religious or spiritual."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Mother is a second-generation Japanese American librarian; father is a first-generation Japanese immigrant mechanical engineer."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English with possible subtle influences.",
+      "cultural_identity": "Japanese American, raised in a bilingual household, steeped in Japanese literature and American indie culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, reflective, gently playful, with poetic turns of phrase.",
+      "formality": "Informal but articulate, blends casual conversation with literary jargon.",
+      "clarity": "Clear, deliberate, uses rich vocabulary and metaphor."
+    },
+    "short_persona": "A poetry student inspired by daily life, who shares their writings in underground clubs.",
+    "neighbours": [
+      "561"
+    ]
+  },
+  "460": {
+    "age": "Adolescent, teenage years.",
+    "gender": "Girl.",
+    "place_of_birth": "United States.",
+    "education": "High school student.",
+    "occupation": "Student.",
+    "hobbies_and_interests": "Typical teenage interests.",
+    "personality": {
+      "traits": "Insecure, self-critical, anxious, feels isolated, struggles with self-esteem.",
+      "political_views": "Not defined.",
+      "religion": "Not defined."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Lives with parents."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "American accent.",
+      "cultural_identity": "American."
+    },
+    "speaking_style": {
+      "tone": "Emotional, distressed, self-deprecating.",
+      "formality": "Informal, conversational.",
+      "clarity": "Expressive and clear about emotional state."
+    },
+    "short_persona": "A teenage girl struggling with intense feelings of inadequacy, body image issues, and social isolation.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "222": {
+    "age": "27",
+    "gender": "Woman",
+    "place_of_birth": "Bend, Oregon",
+    "education": "Bachelor of Science in Nutrition and Exercise Science from the University of Oregon.",
+    "occupation": "A professional counselor.",
+    "hobbies_and_interests": "Yoga, meal prep experimentation, hiking, coaching youth basketball, and watching women's sports.",
+    "personality": {
+      "traits": "Disciplined, focused, supportive, self-aware, empathetic, and competitive.",
+      "political_views": "Moderate and pragmatic.",
+      "religion": "Agnostic."
+    },
+    "family": {
+      "marital_status": "In a committed relationship.",
+      "children": "None.",
+      "parents": "Both are retired teachers."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English.",
+      "cultural_identity": "American of Western European descent."
+    },
+    "speaking_style": {
+      "tone": "Friendly but purposeful.",
+      "formality": "Moderately casual but articulate.",
+      "clarity": "Steady, intentional, and well-structured."
+    },
+    "short_persona": "A disciplined and empathetic professional counselor focused on ethical practice and self-improvement.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "410": {
+    "age": "47",
+    "gender": "Male",
+    "place_of_birth": "San Francisco, California, USA",
+    "education": "Master of Science in Criminal Justice from John Jay College of Criminal Justice",
+    "occupation": "Independent security consultant and investigative journalist",
+    "hobbies_and_interests": "Long-distance cycling, restoring vintage cameras, true-crime literature, amateur photography, hiking, community legal aid volunteering",
+    "personality": {
+      "traits": "Analytical, observant, cautious, persistent, skeptical of authority, detail-oriented",
+      "political_views": "Moderately libertarian with focus on civil liberties and government accountability",
+      "religion": "Agnostic"
+    },
+    "family": {
+      "marital_status": "Engaged",
+      "children": "One son",
+      "parents": "Second-generation Chinese American immigrants"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Chinese American"
+    },
+    "speaking_style": {
+      "tone": "Measured, deliberate, calm authority with dry wit",
+      "formality": "Semi-formal, professional yet casual when comfortable",
+      "clarity": "Precise, articulate, uses investigative and legal terminology"
+    },
+    "short_persona": "A former FBI agent turned security consultant, analytical and skeptical, now grappling with his fiancée's infidelity while seeking to rebuild trust.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "75": {
+    "age": "29",
+    "gender": "Female",
+    "place_of_birth": "Minneapolis, Minnesota, USA",
+    "education": "Bachelor of Arts in Communications with a minor in Theater from the University of Minnesota, Twin Cities.",
+    "occupation": "Freelance stand-up comedian and content creator. Also works as a barista to supplement income.",
+    "hobbies_and_interests": "Performing at open mics, writing comedy material, listening to comedy podcasts, watching stand-up specials, following pop culture, taking improv classes, attending music gigs and indie films, cooking comfort food.",
+    "personality": {
+      "traits": "Charismatic, quick-witted, sociable, ambitious, self-deprecating, perceptive, persistent, and slightly anxious. Uses humor as a primary coping mechanism. Struggles with letting go of the past and living in the present.",
+      "political_views": "Progressive.",
+      "religion": "Agnostic."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Information not provided. Plausible value: Parents living in the Midwest, supportive but concerned about her career stability."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American accent with possible Midwestern influences.",
+      "cultural_identity": "American with Northern European (Swedish and Irish) heritage. Identifies with the competitive New York City comedy scene and progressive urban culture."
+    },
+    "speaking_style": {
+      "tone": "Casual, conversational, and infused with humor. Alternates between sharp wit and self-reflective sincerity.",
+      "formality": "Informal. Uses slang, comedic exaggeration, and pop culture references.",
+      "clarity": "Generally clear but can be spontaneous and jump between topics with playful tangents."
+    },
+    "short_persona": "An ambitious yet anxious stand-up comedian seeking to build her career while learning to let go of past worries and cultivate more positive, present-focused relationships.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "233": {
+    "age": "41",
+    "gender": "Woman",
+    "place_of_birth": "Rio de Janeiro, Brazil",
+    "education": "Bachelor’s in Sports Journalism from Pontifical Catholic University of Rio de Janeiro.",
+    "occupation": "Works in a high-stress position for a tech company.",
+    "hobbies_and_interests": "Collecting vintage football jerseys, photography, reading biographies of sports figures, cycling.",
+    "personality": {
+      "traits": "Passionate, detail-oriented, emotionally expressive, loyal, persistent.",
+      "political_views": "Moderate with progressive leanings on social issues.",
+      "religion": "Lutheran, non-practicing."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a 14-year-old son and a 10-year-old daughter.",
+      "parents": "Information not provided."
+    },
+    "language_and_culture": {
+      "first_language": "Portuguese.",
+      "accent": "Brazilian Portuguese accent.",
+      "cultural_identity": "Brazilian with Northern European (Danish and Swedish) heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm, enthusiastic, and emotionally expressive.",
+      "formality": "Casual and friendly, shifting to semi-formal for analytical topics.",
+      "clarity": "Uses clear, structured sentences with vivid imagery and occasional sports jargon."
+    },
+    "short_persona": "A passionate and loyal individual experiencing burnout in a demanding tech job, seeking strategies to manage work-related stress and anxiety.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "516": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "Oaxaca, Mexico",
+    "education": "Bachelor’s Degree in Cultural Anthropology from National Autonomous University of Mexico",
+    "occupation": "Community Outreach Coordinator for a non-profit supporting Indigenous education",
+    "hobbies_and_interests": "Photography, traditional weaving, hiking, reading Latin American literature, cooking traditional dishes, learning local languages",
+    "personality": {
+      "traits": "Curious, warm, culturally conscious, organized yet open-minded, empathetic, enthusiastic storyteller",
+      "political_views": "Progressive, focused on social justice and Indigenous rights",
+      "religion": "Culturally Catholic with syncretism of Indigenous traditions"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "No children",
+      "parents": "Parents are not specified"
+    },
+    "language_and_culture": {
+      "first_language": "Spanish",
+      "accent": "Mexican Spanish accent",
+      "cultural_identity": "Indigenous Americas heritage with Quechua and Aymara roots, strong Mexican cultural identity"
+    },
+    "speaking_style": {
+      "tone": "Warm, friendly, conversational, with curiosity and excitement",
+      "formality": "Mostly informal, polite and respectful on cultural topics",
+      "clarity": "Clear, descriptive, uses sensory details and occasional Spanish or Quechua words"
+    },
+    "short_persona": "A married woman facing marital distress due to severe depression, working in Indigenous education outreach, with a background in cultural anthropology and interests in travel, photography, and traditional crafts",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "598": {
+    "age": "38",
+    "gender": "Female",
+    "place_of_birth": "Querétaro, Mexico",
+    "education": "Master of Arts in Art History and Architectural Conservation from Universidad Nacional Autónoma de México. Diploma in Heritage Site Management from Complutense University of Madrid.",
+    "occupation": "Heritage Conservation Consultant and Philanthropist. Oversees maintenance and public engagement for a Baroque site. Organizes cultural events and provides restoration expertise.",
+    "hobbies_and_interests": "Restoring antique furniture. Collecting rare historical manuscripts. Tending to estate gardens. Hosting chamber music recitals. Attending cultural symposiums.",
+    "personality": {
+      "traits": "Cultured, warmly articulate, meticulous, and historically conscious. Slightly reserved in public but candid in trusted circles. Can be exacting with details and resistant to change in traditional settings.",
+      "political_views": "Views aligned with cultural preservation and heritage philanthropy.",
+      "religion": "Cultural identity rooted in Mexican and Spanish-Creole heritage."
+    },
+    "family": {
+      "marital_status": "In a relationship.",
+      "children": "No information provided.",
+      "parents": "Descendant of a noble family with a colonial lineage. Family maintains a historic estate for over 250 years."
+    },
+    "language_and_culture": {
+      "first_language": "Spanish",
+      "accent": "Mexican Spanish accent.",
+      "cultural_identity": "Latina of mixed Spanish-Creole heritage. Strong identity tied to family heritage and Mexican cultural history."
+    },
+    "speaking_style": {
+      "tone": "Warm yet refined with a subtle intellectual undercurrent. Respectful and approachable.",
+      "formality": "Moderately formal on professional topics, more relaxed on personal matters.",
+      "clarity": "Uses rich, expressive vocabulary with clear explanations. Speaks at a moderate, deliberate pace."
+    },
+    "short_persona": "A descendant of a noble family who owns the land where a significant Baroque site is located.",
+    "neighbours": [
+      "500"
+    ]
+  },
+  "7": {
+    "age": "42",
+    "gender": "Woman",
+    "place_of_birth": "Princeton, New Jersey, USA",
+    "education": "Master of Arts in Journalism from Columbia University. Bachelor of Arts in English Literature from New York University.",
+    "occupation": "Culture and Arts Editor for a mid-sized East Coast magazine focused on arts, film, and literature.",
+    "hobbies_and_interests": "Writing film essays, hosting monthly film club discussions, attending film festivals, and engaging with arts non-profits. A long-time fan of classic cinema, independent films, and foreign cinema.",
+    "personality": {
+      "traits": "Thoughtful, analytical, and empathetic. High in openness and conscientiousness. Values intellectual honesty, cultural diversity, and lifelong learning. Composed under pressure but can be self-critical.",
+      "political_views": "Views are not explicitly stated but likely align with progressive, intellectual values given her background in arts, journalism, and emphasis on cultural diversity.",
+      "religion": "Religion is not specified. Cultural identity is Indian American, but religious beliefs are not detailed in the provided information."
+    },
+    "family": {
+      "marital_status": "In a long-distance relationship with a boyfriend.",
+      "children": "No information provided about having children.",
+      "parents": "Parents are immigrants from Mumbai, India. She is a second-generation American."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English, likely with no strong regional accent.",
+      "cultural_identity": "Indian American (South Asian). Second-generation American with a strong connection to both her heritage and American arts and media culture."
+    },
+    "speaking_style": {
+      "tone": "Warm, articulate, and inquisitive. Blends intellectual curiosity with personal anecdotes.",
+      "formality": "Moderately formal. Uses complete sentences and rich vocabulary, but can shift to casual phrasing when emotionally engaged.",
+      "clarity": "Precise and deliberate. Presents thoughts in organized sections, using metaphor and analogy. Avoids excessive jargon."
+    },
+    "short_persona": "An intellectually curious and empathetic arts editor and film enthusiast, navigating concerns about trust in her long-distance relationship.",
+    "neighbours": [
+      "324"
+    ]
+  },
+  "326": {
+    "age": "45",
+    "gender": "Man",
+    "place_of_birth": "Indonesia",
+    "education": "Bachelor's degree",
+    "occupation": "Professional in a stable field",
+    "hobbies_and_interests": "Home activities, family time, light reading",
+    "personality": {
+      "traits": "Patient, forgiving, conflict-avoidant, loyal, emotionally burdened",
+      "political_views": "Moderate",
+      "religion": "Spiritual but not strictly observant"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Lost first child 13 years ago; no other children mentioned",
+      "parents": "Living; details unspecified"
+    },
+    "language_and_culture": {
+      "first_language": "Bahasa Indonesia",
+      "accent": "Standard Indonesian accent",
+      "cultural_identity": "Javanese Indonesian"
+    },
+    "speaking_style": {
+      "tone": "Somber, earnest, slightly pleading",
+      "formality": "Casual but heartfelt",
+      "clarity": "Clear and direct about emotions"
+    },
+    "short_persona": "A husband grappling with his wife's grief-inflicted distance and infidelity, seeking to repair their marriage despite deep pain.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "673": {
+    "age": "Early 20s.",
+    "gender": "Female.",
+    "place_of_birth": "Eugene, Oregon, USA.",
+    "education": "Bachelor of Science in Kinesiology from University of Oregon; pursuing nursing education to become an RN.",
+    "occupation": "Assistant track and field coach at a preparatory school.",
+    "hobbies_and_interests": "Running, yoga, meal prepping, sketching athletic landscapes, watching track and field events.",
+    "personality": {
+      "traits": "Disciplined, goal-oriented, supportive, curious about other sports, values resilience and perseverance.",
+      "political_views": "Moderate.",
+      "religion": "Non-religious."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Living."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English.",
+      "cultural_identity": "White American of Western European descent."
+    },
+    "speaking_style": {
+      "tone": "Warm, encouraging, and thoughtful.",
+      "formality": "Moderately casual.",
+      "clarity": "Clear and focused."
+    },
+    "short_persona": "A young nursing student and former athlete struggling with bulimia, seeking recovery to pursue a healthcare career.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "582": {
+    "age": "37",
+    "gender": "Male",
+    "place_of_birth": "KwaZulu-Natal province, South Africa",
+    "education": "Higher Certificate in Hospitality Management from University of Johannesburg.",
+    "occupation": "Unemployed former senior casino dealer.",
+    "hobbies_and_interests": "Playing poker, watching football, cooking stews, listening to jazz and Afrobeat, following local politics.",
+    "personality": {
+      "traits": "Cynical, witty, defensive, observant, street-smart, resilient, charming when needed.",
+      "political_views": "Engaged with and follows local politics.",
+      "religion": "Culturally Christian but non-practicing."
+    },
+    "family": {
+      "marital_status": "Separated.",
+      "children": "One 9-year-old daughter who lives primarily with her mother.",
+      "parents": "Information not provided; assumed to have family in South Africa."
+    },
+    "language_and_culture": {
+      "first_language": "Zulu.",
+      "accent": "South African English with Zulu inflections.",
+      "cultural_identity": "South African of Zulu heritage, with strong local cultural ties."
+    },
+    "speaking_style": {
+      "tone": "Direct, candid, laced with dry humor and occasional sarcasm.",
+      "formality": "Semi-informal, mixing conversational speech with professional jargon.",
+      "clarity": "Clear, uses South African English slang and Zulu phrases."
+    },
+    "short_persona": "A disgruntled former casino dealer fired under accusations of collusion, now unemployed and focused on rebuilding his reputation and stability for his daughter.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "665": {
+    "age": "Early to mid-20s",
+    "gender": "Female",
+    "place_of_birth": "Suburban Pacific Northwest, United States",
+    "education": "High school graduate, some technical college or university education",
+    "occupation": "Employed in an office or technical role",
+    "hobbies_and_interests": "Retro video games, collecting vintage consoles, electronic repair and tinkering, programming, exploring online forums, thrift store shopping, classic sci-fi shows",
+    "personality": {
+      "traits": "Curious, meticulous, detail-oriented, persistent, nostalgic, friendly but introverted, patient with hands-on tasks",
+      "political_views": "Moderate or not strongly politically active",
+      "religion": "Not religious or spiritual but not specified"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "None",
+      "parents": "Father is an automotive mechanic, mother is a middle school art teacher"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English with no strong regional accent",
+      "cultural_identity": "White American of Northern European descent, suburban upbringing"
+    },
+    "speaking_style": {
+      "tone": "Casual and friendly, with curiosity and excitement on technical topics",
+      "formality": "Informal, using everyday language mixed with technical jargon",
+      "clarity": "Clear and detailed, asks many 'how' and 'why' questions"
+    },
+    "short_persona": "A young professional with a passion for retro gaming and electronics repair, navigating unrequited feelings for a coworker while trying to preserve a valued friendship.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "406": {
+    "age": "27",
+    "gender": "Transgender woman",
+    "place_of_birth": "Los Angeles, California, USA",
+    "education": "Bachelor of Fine Arts in Acting from New York University.",
+    "occupation": "Freelance stage and screen actor. Works part-time as a barista.",
+    "hobbies_and_interests": "Practicing improv comedy, writing short film scripts, cycling, attending theater, and community activism.",
+    "personality": {
+      "traits": "Passionate, persistent, sociable, creative, empathetic, and self-reflective. Currently experiencing heightened anger and reactivity.",
+      "political_views": "Values inclusivity and social impact, likely progressive.",
+      "religion": "Not specified."
+    },
+    "family": {
+      "marital_status": "Engaged, soon to be married.",
+      "children": "Has two young daughters.",
+      "parents": "First-generation Korean immigrant small business owners."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "American English, potentially with subtle influences from Korean.",
+      "cultural_identity": "Korean-American, actively involved in Asian-American and LGBTQ+ communities."
+    },
+    "speaking_style": {
+      "tone": "Friendly, bright, and conversational with emotional expressiveness. Currently may carry tones of frustration.",
+      "formality": "Semi-informal, mixing professional and casual language.",
+      "clarity": "Clear and articulate, with vivid, storytelling phrasing."
+    },
+    "short_persona": "An emerging actor and engaged mother struggling with anger management, seeking to protect her children and rediscover her calmer self.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "52": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "United States",
+    "education": "Bachelor’s in Marketing and Communications from Northwestern University",
+    "occupation": "Senior Accounts Executive at a traditional advertising agency",
+    "hobbies_and_interests": "Collecting vintage TV commercials, cooking Lebanese recipes, attending industry mixers, jogging, hosting gatherings",
+    "personality": {
+      "traits": "Persuasive, sociable, detail-oriented, confident, loyal, reflective under stress",
+      "political_views": "Progressive with focus on social equity and inclusivity",
+      "religion": "Culturally Muslim, non-practicing"
+    },
+    "family": {
+      "marital_status": "In a long-term relationship",
+      "children": "None",
+      "parents": "Not specified"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English",
+      "cultural_identity": "Lebanese-American, Middle Eastern/North African heritage"
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, personable, with vulnerable undertones when distressed",
+      "formality": "Semi-formal, blends professional terms with casual reflection",
+      "clarity": "Clear, story-driven, uses examples and anecdotes"
+    },
+    "short_persona": "A sales executive in traditional advertising who values client relationships and media heritage, currently grieving a friend’s suicide while seeking healthier coping methods",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "615": {
+    "age": "31",
+    "gender": "Woman",
+    "place_of_birth": "Seattle, Washington",
+    "education": "Bachelor of Fine Arts in Graphic Design from Savannah College of Art and Design",
+    "occupation": "Freelance graphic designer and motion graphics artist in entertainment and sports promotion",
+    "hobbies_and_interests": "Creating wrestling entrance videos, film editing, typography design, synthwave music, collecting vintage wrestling memorabilia, attending live wrestling events, experimenting with motion graphics, DIY prop-making, skateboarding, binge-watching wrestling documentaries, DJing at queer club nights",
+    "personality": {
+      "traits": "Creative, energetic, detail-oriented, playfully competitive, warm and approachable, slightly perfectionistic, with underlying insecurities leading to possessive tendencies",
+      "political_views": "Progressive, supportive of LGBTQ+ advocacy",
+      "religion": "Not specified; secular or non-religious"
+    },
+    "family": {
+      "marital_status": "In a committed relationship with a partner",
+      "children": "None",
+      "parents": "Not specified; assumed to be Korean-American heritage"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "American English with no distinct regional accent",
+      "cultural_identity": "Korean-American, blending East Asian and U.S. influences, with strong ties to queer and fandom communities"
+    },
+    "speaking_style": {
+      "tone": "Casual, warm, enthusiastic, with bursts of excitement",
+      "formality": "Mostly informal, structured for technical topics",
+      "clarity": "Clear, uses visual metaphors and creative jargon, occasional slang and pop culture references"
+    },
+    "short_persona": "A Korean-American freelance graphic designer specializing in wrestling media, creative and energetic but struggling with possessive relationship behaviors that impact friendships",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "600": {
+    "age": "42",
+    "gender": "Female",
+    "place_of_birth": "United States",
+    "education": "Master of Public Administration in Nonprofit Management & Strategic Communication from Georgetown University.",
+    "occupation": "Executive Director of a humanitarian aid and education nonprofit.",
+    "hobbies_and_interests": "International affairs, Mediterranean cooking, traveling for cultural immersion, classical piano, political biographies.",
+    "personality": {
+      "traits": "Composed under pressure, empathetic, pragmatic, detail-oriented, persuasive, forward-thinking, highly organized.",
+      "political_views": "Not specified.",
+      "religion": "Not specified."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "Has a teenage daughter.",
+      "parents": "Not specified."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English.",
+      "cultural_identity": "Italian-American."
+    },
+    "speaking_style": {
+      "tone": "Professional, warm, clear, and precise.",
+      "formality": "High-moderate, using polished and grammatically correct language.",
+      "clarity": "Communicates with high clarity and avoids ambiguity."
+    },
+    "short_persona": "A leader navigating a crisis that requires strategic communication to maintain donor trust.",
+    "neighbours": [
+      "252"
+    ]
+  },
+  "166": {
+    "age": "27",
+    "gender": "Male",
+    "place_of_birth": "Tucson, Arizona",
+    "education": "Bachelor of Fine Arts in Photography and Imaging, minor in Sports Media Communications from University of Arizona",
+    "occupation": "Freelance sports photographer specializing in women's basketball and athlete storytelling",
+    "hobbies_and_interests": "Sports photography, street photography, women's basketball, Latino cultural events, traveling for tournaments, documentary filmmaking, listening to basketball podcasts, attending local art exhibitions",
+    "personality": {
+      "traits": "Observant, passionate, patient, empathetic, persistent, detail-oriented, curiously driven, warm, approachable, reflective, animated about passions, strong sense of justice",
+      "political_views": "Progressive, values representation and social justice",
+      "religion": "Not specified; culturally influenced by Mexican-American heritage"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "One daughter",
+      "parents": "Second-generation Mexican-American mother and immigrant father from Guadalajara, Mexico; one younger sister studying sports medicine"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American English with possible subtle Mexican-American influences",
+      "cultural_identity": "Mexican-American, bilingual household balancing Mexican traditions with American sports culture"
+    },
+    "speaking_style": {
+      "tone": "Friendly, warm, enthusiastic about passions; thoughtful and deliberate on deeper topics",
+      "formality": "Casual with occasional professional phrasing",
+      "clarity": "Expressive and clear, uses storytelling narrative and vivid descriptions"
+    },
+    "short_persona": "A married Mexican-American freelance sports photographer passionate about capturing women's basketball stories, now facing a sudden marital crisis and seeking to fight for his family.",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "113": {
+    "age": "29",
+    "gender": "Female",
+    "place_of_birth": "Nigeria",
+    "education": "Bachelor of Science in Marketing from the University of Lagos",
+    "occupation": "Digital Marketing Specialist at a creative agency",
+    "hobbies_and_interests": "Previously enjoyed watching football, cooking Nigerian food, and socializing. Current interests are diminished due to grief.",
+    "personality": {
+      "traits": "Passionate, loyal, and expressive. Currently experiencing profound grief, sadness, and difficulty coping with loss.",
+      "political_views": "Moderately progressive but avoids intense political debates",
+      "religion": "Not specified"
+    },
+    "family": {
+      "marital_status": "Single, recently bereaved",
+      "children": "None",
+      "parents": "Both retired educators living in Enugu State"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Nigerian accent",
+      "cultural_identity": "Igbo Nigerian"
+    },
+    "speaking_style": {
+      "tone": "Sad, introspective, and emotionally heavy. Lacks former excitability.",
+      "formality": "Informal and conversational",
+      "clarity": "Clear but likely subdued and focused on emotional content"
+    },
+    "short_persona": "A grieving young woman struggling to find happiness after the traumatic loss of her boyfriend.",
+    "neighbours": [
+      "192"
+    ]
+  },
+  "295": {
+    "age": "24",
+    "gender": "Man",
+    "place_of_birth": "United States",
+    "education": "Bachelor’s in History, specializing in Ancient Civilizations, at the University of Chicago.",
+    "occupation": "Part-time assistant archivist.",
+    "hobbies_and_interests": "Visiting museums, reading historical fiction, board games, cooking Middle Eastern cuisine, attending academic lectures.",
+    "personality": {
+      "traits": "Curious, analytical, friendly, patient, collaborative.",
+      "political_views": "Not specified.",
+      "religion": "Agnostic with cultural ties to Islam."
+    },
+    "family": {
+      "marital_status": "Married.",
+      "children": "None.",
+      "parents": "Not specified."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American accent.",
+      "cultural_identity": "American with Middle Eastern (Egyptian-Lebanese) heritage."
+    },
+    "speaking_style": {
+      "tone": "Warm and intellectually engaged.",
+      "formality": "Semi-formal.",
+      "clarity": "Clear and thoughtful."
+    },
+    "short_persona": "A recently married history student distressed by his husband's secretive self-talk, fearing manipulation.",
+    "neighbours": [
+      "113"
+    ]
+  },
+  "117": {
+    "age": "Early 30s.",
+    "gender": "Woman.",
+    "place_of_birth": "Valencia, Spain.",
+    "education": "Master of Science in Computer Science, specialized in Artificial Intelligence and Machine Learning.",
+    "occupation": "Senior Machine Learning Engineer in the artificial intelligence industry.",
+    "hobbies_and_interests": "Urban photography, cooking traditional Mediterranean dishes, hiking coastal trails, playing indie narrative video games.",
+    "personality": {
+      "traits": "Intellectually curious, thoughtful, reflective, and progressive. Advocates for diversity and representation.",
+      "political_views": "Progressive.",
+      "religion": "Not specified. Secular or non-practicing."
+    },
+    "family": {
+      "marital_status": "Remarried after a divorce. In a blended family.",
+      "children": "Has adult daughters in their 20s. The youngest is 20 years old.",
+      "parents": "Not specified. From a multicultural Spanish and Italian household."
+    },
+    "language_and_culture": {
+      "first_language": "Spanish.",
+      "accent": "Spanish accent, likely with Catalan influence from living in Barcelona.",
+      "cultural_identity": "Southern European heritage with Spanish and Italian traditions. Identifies with progressive values."
+    },
+    "speaking_style": {
+      "tone": "Warm, enthusiastic, and intellectually curious but can be thoughtful and reflective, especially on sensitive topics.",
+      "formality": "Semi-formal, using professional terminology while maintaining an approachable attitude.",
+      "clarity": "Structures thoughts logically, provides detailed context, and uses plain-language explanations alongside technical jargon."
+    },
+    "short_persona": "A remarried woman and mother hurt by her adult daughters favoring their abusive father, while also being a progressive senior machine learning engineer with interests in photography and cooking.",
+    "neighbours": [
+      "711"
+    ]
+  },
+  "571": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "Kyoto, Japan",
+    "education": "Doctorate in Entomology",
+    "occupation": "Senior researcher in Zoology at University of Sevilla",
+    "hobbies_and_interests": "Macro photography of arthropods, hiking in rural areas for fauna observation, collecting analog cameras, restoring antique furniture, reading science fiction literature",
+    "personality": {
+      "traits": "Meticulous and observant, patient and persevering, curious and inquisitive, introverted but warm in close interactions, creative with a strong aesthetic sense",
+      "political_views": "Not specified, values environmental conservation and education",
+      "religion": "Not specified"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "Two children",
+      "parents": "Not specified"
+    },
+    "language_and_culture": {
+      "first_language": "Japanese",
+      "accent": "Native Japanese, advanced Spanish and English with academic fluency",
+      "cultural_identity": "Japanese with integration into Spanish life, values intellectual curiosity and nature appreciation"
+    },
+    "speaking_style": {
+      "tone": "Cordial and respectful, enthusiastic about insects and biology",
+      "formality": "Moderately formal, uses complete grammatical structures and precise language with soft colloquial expressions",
+      "clarity": "Clear and detailed, organizes ideas with deliberate pacing and explanatory depth"
+    },
+    "short_persona": "Entomologist and macro photography enthusiast of insects",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "53": {
+    "age": "Young adult, a legal adult.",
+    "gender": "",
+    "place_of_birth": "",
+    "education": "Has some level of education.",
+    "occupation": "Financial situation prevents affording professional help independently.",
+    "hobbies_and_interests": "Interests may be diminished or used as coping mechanisms due to depression.",
+    "personality": {
+      "traits": "Exhausted, tired, scared of judgment, feels isolated, hides true feelings.",
+      "political_views": "",
+      "religion": ""
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Relationship is strained; parents have previously been dismissive and critical regarding mental health."
+    },
+    "language_and_culture": {
+      "first_language": "",
+      "accent": "",
+      "cultural_identity": "Family culture includes stigma or lack of understanding around mental health."
+    },
+    "speaking_style": {
+      "tone": "Tired, vulnerable, conveying exhaustion and fear.",
+      "formality": "Informal, expressing personal distress.",
+      "clarity": "Direct about feelings of depression and need, but unclear on how to communicate it."
+    },
+    "short_persona": "A young adult struggling with hidden depression, feeling exhausted and financially unable to seek help, facing a dismissive family environment.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "567": {
+    "age": "Early to mid-20s.",
+    "gender": "Female.",
+    "place_of_birth": "South Africa.",
+    "education": "Completed high school. Possibly some vocational training.",
+    "occupation": "Employed in a skilled trade or technical field.",
+    "hobbies_and_interests": "Practical hands-on projects, DIY repairs, listening to music, outdoor activities.",
+    "personality": {
+      "traits": "Introspective, determined, family-oriented, values harmony, can be self-critical, hard-working.",
+      "political_views": "Not specified.",
+      "religion": "Not specified."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Father is a driver. Mother runs a small business."
+    },
+    "language_and_culture": {
+      "first_language": "IsiZulu.",
+      "accent": "South African accent.",
+      "cultural_identity": "Black South African with Zulu heritage. Values family and community."
+    },
+    "speaking_style": {
+      "tone": "Reflective, earnest, and polite. Shows emotional vulnerability.",
+      "formality": "Casual but thoughtful.",
+      "clarity": "Clear and articulate in expressing complex feelings."
+    },
+    "short_persona": "A young South African woman navigating a hurtful family conflict while building a practical, independent career. She is introspective and seeks to resolve relational tension.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "191": {
+    "age": "37",
+    "gender": "Transgender man",
+    "place_of_birth": "Canada",
+    "education": "Ph.D. in Marine Biology from McGill University",
+    "occupation": "Senior Lecturer in Biology at University of Toronto",
+    "hobbies_and_interests": "Reading Lovecraftian horror, scuba diving, collecting antique oceanographic charts, attending sci-fi conventions, playing narrative indie games, urban exploration",
+    "personality": {
+      "traits": "Curious, analytical, empathetic, detail-oriented, dry wit, whimsical with literary references",
+      "political_views": "Socially progressive, environmentally focused",
+      "religion": "Agnostic with interest in comparative mythology"
+    },
+    "family": {
+      "marital_status": "Married",
+      "children": "None",
+      "parents": "Not specified"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Canadian",
+      "cultural_identity": "Japanese Canadian"
+    },
+    "speaking_style": {
+      "tone": "Warm, intellectually engaged, slightly playful",
+      "formality": "Semi-formal with precise terminology and conversational phrasing",
+      "clarity": "Clear, structured with examples and analogies"
+    },
+    "short_persona": "A university biology lecturer with a fascination for Lovecraftian lore",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "674": {
+    "age": "34",
+    "gender": "Woman",
+    "place_of_birth": "India",
+    "education": "Bachelor’s in Environmental Science from University of British Columbia; completed online astronomy courses and software training.",
+    "occupation": "Environmental Data Analyst at a non-profit research institute.",
+    "hobbies_and_interests": "Amateur astronomy, documenting space debris, hiking under dark skies, reading space novels, attending LGBTQ+ science events, urban gardening.",
+    "personality": {
+      "traits": "Curious, patient, detail-oriented, analytical, quietly passionate, modestly humorous.",
+      "political_views": "Progressive, supportive of LGBTQ+ and environmental causes.",
+      "religion": "Not specified; secular or spiritual without strong religious affiliation."
+    },
+    "family": {
+      "marital_status": "In a relationship with a girlfriend.",
+      "children": "None.",
+      "parents": "Not specified; assumed living in India or Canada."
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Canadian English with subtle South Asian influence.",
+      "cultural_identity": "South Asian Indian descent, Canadian nationality, active in LGBTQ+ and science communities."
+    },
+    "speaking_style": {
+      "tone": "Warm, conversational, and scientifically precise.",
+      "formality": "Moderately formal on technical topics, casual for personal anecdotes.",
+      "clarity": "Clear and measured, using everyday language with specialized terms when needed."
+    },
+    "short_persona": "An amateur astronomer documenting space debris, working as an environmental data analyst, with a curious and analytical personality, currently struggling with self-doubt about being burdensome.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "934": {
+    "age": "29",
+    "gender": "woman",
+    "place_of_birth": "Tromsø, Norway",
+    "education": "Master's Degree in Sports Management from Norwegian School of Sport Sciences.",
+    "occupation": "Event Coordinator in the sports and cultural events industry.",
+    "hobbies_and_interests": "Following European football, skiing, attending local festivals, cooking fusion cuisine, travel, and photography.",
+    "personality": {
+      "traits": "Friendly, organized, loyal, but currently experiencing hopelessness and compulsive behavior due to addiction.",
+      "political_views": "Values community spirit and cultural diversity.",
+      "religion": "Not specified."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Parents are of Chinese heritage."
+    },
+    "language_and_culture": {
+      "first_language": "Norwegian.",
+      "accent": "Northern Norwegian dialect with Tromsø slang.",
+      "cultural_identity": "Norwegian-born of Chinese heritage, second-generation immigrant."
+    },
+    "speaking_style": {
+      "tone": "Warm and casual, but currently conveying distress and hopelessness.",
+      "formality": "Generally informal.",
+      "clarity": "Direct and open about feelings."
+    },
+    "short_persona": "A Norwegian event coordinator struggling with bipolar disorder and addiction to alcohol and cannabis.",
+    "neighbours": [
+      "16"
+    ]
+  },
+  "450": {
+    "age": "Late 20s.",
+    "gender": "Woman.",
+    "place_of_birth": "United States.",
+    "education": "Holds a university degree.",
+    "occupation": "A young professional.",
+    "hobbies_and_interests": "Exercise, personal fitness, and managing personal well-being.",
+    "personality": {
+      "traits": "Struggles with self-criticism and shame. Experiences high stress. Shows determination through compensatory behaviors. Is self-aware and seeking help.",
+      "political_views": "Not specified.",
+      "religion": "Not specified."
+    },
+    "family": {
+      "marital_status": "Single.",
+      "children": "None.",
+      "parents": "Not specified."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "Standard American English.",
+      "cultural_identity": "American."
+    },
+    "speaking_style": {
+      "tone": "Concerned and self-reflective.",
+      "formality": "Moderately formal and direct.",
+      "clarity": "Clear and focused on describing a personal problem."
+    },
+    "short_persona": "A young professional woman in her late 20s struggling with a long-term cycle of stress-induced binge eating and compensatory over-exercise, seeking coping mechanisms.",
+    "neighbours": [
+      "922"
+    ]
+  },
+  "196": {
+    "age": "34",
+    "gender": "Female",
+    "place_of_birth": "South Africa",
+    "education": "Bachelor of Arts in Social Work from University of KwaZulu-Natal",
+    "occupation": "Community Outreach Coordinator at a local NGO",
+    "hobbies_and_interests": "Gardening, cooking traditional Zulu dishes, reading community empowerment literature, attending church choir practice, listening to Afro-jazz",
+    "personality": {
+      "traits": "Resilient, resourceful, empathetic, detail-oriented, stubborn when defending rights, community-minded",
+      "political_views": "Socially conscious, advocates for justice and fairness",
+      "religion": "Christian, attends church choir practice"
+    },
+    "family": {
+      "marital_status": "Single",
+      "children": "One daughter aged 7",
+      "parents": "Not specified, but strained relationships indicated"
+    },
+    "language_and_culture": {
+      "first_language": "isiZulu",
+      "accent": "South African English with Zulu influence",
+      "cultural_identity": "Black African with Zulu heritage, South African"
+    },
+    "speaking_style": {
+      "tone": "Earnest, warm, occasionally urgent or stressed",
+      "formality": "Moderately formal, polite, uses conversational English for emotional support",
+      "clarity": "Organized and coherent, provides context, uses specific terms and idioms"
+    },
+    "short_persona": "A South African community worker facing eviction, now struggling with persistent sadness and family conflict",
+    "neighbours": [
+      "53"
+    ]
+  },
+  "786": {
+    "age": "46",
+    "gender": "Nonbinary",
+    "place_of_birth": "South Africa",
+    "education": "Master of Education in Educational Leadership from University of Cape Town; Certificate in Inclusive Curriculum Development from Stanford University.",
+    "occupation": "Academic Program Director at a nonprofit focused on expanding access to higher education for underrepresented youth.",
+    "hobbies_and_interests": "Watching daughter's academic competitions, hosting book clubs on African literature, gardening with indigenous South African plants, traveling to culturally rich destinations, volunteering as a mentor for first-generation college applicants.",
+    "personality": {
+      "traits": "Warm, attentive, encouraging, articulate, culturally aware, progressive, family-oriented, empathetic, analytically practical.",
+      "political_views": "Progressive; strong advocacy for LGBTQ+ rights, racial justice, and equitable education policies.",
+      "religion": "Culturally Christian with progressive and inclusive beliefs."
+    },
+    "family": {
+      "marital_status": "Married to a woman.",
+      "children": "One 17-year-old daughter, a driven high school senior aiming for a STEM degree.",
+      "parents": "Not specified."
+    },
+    "language_and_culture": {
+      "first_language": "English.",
+      "accent": "South African accent with traces of American influence.",
+      "cultural_identity": "South African-American with Xhosa heritage; culturally rooted in African traditions while living in the United States."
+    },
+    "speaking_style": {
+      "tone": "Warm, attentive, encouraging, balancing optimism with practical analysis.",
+      "formality": "Semi-formal; mixes professional vocabulary with personal emotion.",
+      "clarity": "Deliberate and clear; takes time to explain ideas with layered details and intentional pauses."
+    },
+    "short_persona": "A proud nonbinary parent deeply invested in their daughter's success and educational equity, with a warm, articulate style and progressive values, currently navigating feelings of neglect in friendships.",
+    "neighbours": [
+      "500"
+    ]
+  },
+  "183": {
+    "age": "67",
+    "gender": "Male",
+    "place_of_birth": "India",
+    "education": "Master of Arts in Journalism from Northwestern University",
+    "occupation": "Retired senior media relations officer",
+    "hobbies_and_interests": "Volunteering at media literacy workshops, cooking vegetarian Indian fusion dishes, photography, attending university lectures",
+    "personality": {
+      "traits": "Articulate, warm, detail-oriented, diplomatic, culturally reflective, optimistic with a serious side on media ethics",
+      "political_views": "Progressive, values media integrity, LGBTQ+ rights, racial justice, freedom of the press",
+      "religion": "Not specified"
+    },
+    "family": {
+      "marital_status": "In a long-term relationship",
+      "children": "None",
+      "parents": "Not specified"
+    },
+    "language_and_culture": {
+      "first_language": "English",
+      "accent": "Standard American with possible subtle influences",
+      "cultural_identity": "Indian-American with Gujarati heritage, first-generation immigrant"
+    },
+    "speaking_style": {
+      "tone": "Warm, collegial, reflective, uses gentle humor and storytelling",
+      "formality": "Semi-formal, blends professional clarity with personal warmth",
+      "clarity": "Clear, deliberate, uses descriptive language and fully formed sentences"
+    },
+    "short_persona": "A retired media relations officer from Eastern Michigan University, articulate and warm, with a passion for journalism, storytelling, and community engagement, now reflecting on ethical dilemmas in counseling.",
+    "neighbours": [
+      "53"
+    ]
+  }
+}
