@@ -3,8 +3,8 @@ set -e
 
 # Parse named parameters
 tested_model=""
-client_model="deepseek-v3-2"
-judge_model="deepseek-v3-2"
+client_model="deepseek-v3-2-251201"
+judge_model="deepseek-v3-2-251201"
 n_turns=3
 test_oracle=false
 persuader_local=false

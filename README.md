@@ -47,12 +47,12 @@ This is the easiest way of using Psi-bench.
 pip install psi-bench
 psi-bench download all # data will be saved in ./data
 
-# Run evaluation with local persuader model
+# Run evaluation with local persuader model, results will be saved in ./eval
 CUDA_VISIBLE_DEVICES=0 psi-bench eval all \
   --tested_model Qwen/Qwen3-8B \
   --persuader_local \
-  --client_model deepseek-v3-2 \
-  --judge_model deepseek-v3-2 \
+  --client_model deepseek-v3-2-251201 \
+  --judge_model deepseek-v3-2-251201 \
 ```
 
 ### Clone the Repository
@@ -65,21 +65,21 @@ cd Psi-Bench
 # Basic evaluation with local persuader
 CUDA_VISIBLE_DEVICES=0 bash eval.sh all \
   --tested_model Qwen/Qwen3-8B \
-  --client_model deepseek-v3-2 \
-  --judge_model deepseek-v3-2 \
+  --client_model deepseek-v3-2-251201 \
+  --judge_model deepseek-v3-2-251201 \
   --persuader_local
 
 # Inference with oracle setting (client profile provided)
 CUDA_VISIBLE_DEVICES=0 bash eval.sh all \
   --tested_model Qwen/Qwen3-8B \
-  --client_model deepseek-v3-2 \
-  --judge_model deepseek-v3-2 \
+  --client_model deepseek-v3-2-251201 \
+  --judge_model deepseek-v3-2-251201 \
   --persuader_local \
   --test_oracle
 
 # Inference with profile analyzer (client profile predicted by an LLM)
 CUDA_VISIBLE_DEVICES=0 python psi_bench/inference.py \
-  --client_model deepseek-v3-2 \
+  --client_model deepseek-v3-2-251201 \
   --task request \
   --conv_file data/request/queries.json \
   --persona_file data/request/persona_profile.json \

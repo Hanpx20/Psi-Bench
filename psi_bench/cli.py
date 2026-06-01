@@ -33,8 +33,8 @@ EVAL USAGE:
 
     OPTIONS:
         --tested_model MODEL          (required) Model to test
-        --client_model MODEL          Client model (default: deepseek-v3-2)
-        --judge_model MODEL           Judge model (default: deepseek-v3-2)
+        --client_model MODEL          Client model (default: deepseek-v3-2-251201)
+        --judge_model MODEL           Judge model (default: deepseek-v3-2-251201)
         --n_turns N                   Number of turns (default: 3)
         --size M                      Number of conversations to evaluate (default: 500 for cmv, full for other scenarios)
         --test_oracle                 Test oracle mode
@@ -165,8 +165,8 @@ def main():
 
     # Eval options
     parser.add_argument('--tested_model', type=str, help='Model to test')
-    parser.add_argument('--client_model', type=str, default='deepseek-v3-2', help='Client model')
-    parser.add_argument('--judge_model', type=str, default='deepseek-v3-2', help='Judge model')
+    parser.add_argument('--client_model', type=str, default='deepseek-v3-2-251201', help='Client model')
+    parser.add_argument('--judge_model', type=str, default='deepseek-v3-2-251201', help='Judge model')
     parser.add_argument('--n_turns', type=int, default=3, help='Number of turns')
     parser.add_argument('--size', type=int, default=500, help='Number of conversations to evaluate')
     parser.add_argument('--test_oracle', action='store_true', help='Test oracle mode')

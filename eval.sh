@@ -16,8 +16,8 @@ COMMANDS:
 
 COMMON OPTIONS:
     --tested_model MODEL          (required) Model to test (e.g., "gpt-4", "Qwen/Qwen3-8B")
-    --client_model MODEL          Client model (default: deepseek-v3-2)
-    --judge_model MODEL           Judge model for evaluation (default: deepseek-v3-2)
+    --client_model MODEL          Client model (default: deepseek-v3-2-251201)
+    --judge_model MODEL           Judge model for evaluation (default: deepseek-v3-2-251201)
     --n_turns N                   Number of conversation turns (default: 3)
     --test_oracle                 Test oracle mode (uses reference responses)
     --persuader_local            Use local persuader model
