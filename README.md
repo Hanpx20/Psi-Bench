@@ -2,7 +2,7 @@
   <img src="figs/title_fig.jpg" width="100%">
 </div>
 
-<h1 align="center">Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues</h1>
+<!-- <h1 align="center">Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues</h1> -->
 <h2 align="center">Peixuan Han, Hongyi Du, Jiayu Liu, Yihang Sun, Yutong Liu, Jiaxuan You</h2>
 
 <p align="center">
@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/pypi/v/your-package?logo=pypi&logoColor=white" />
   </a>
   ·
-  <a href="https://arxiv.org/abs/2401.12345">
-    <img src="https://img.shields.io/badge/arXiv-2401.12345-b31b1b?logo=arxiv" />
+  <a href="https://arxiv.org/pdf/2606.02754">
+    <img src="https://img.shields.io/badge/arXiv-2606.02754-b31b1b?logo=arxiv" />
   </a>
 </p>
 
@@ -52,7 +52,7 @@ CUDA_VISIBLE_DEVICES=0 psi-bench eval all \
   --tested_model Qwen/Qwen3-8B \
   --persuader_local \
   --client_model deepseek-v3-2-251201 \
-  --judge_model deepseek-v3-2-251201 \
+  --judge_model deepseek-v3-2-251201
 ```
 
 ### Clone the Repository
@@ -100,7 +100,13 @@ CUDA_VISIBLE_DEVICES=0 python psi_bench/inference.py \
 ## Cite this paper
 If you find this repo or the paper useful, please cite:
 ```
-xxxxxx
+@article{han2026psibench,
+  title={$\Psi$-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues}, 
+  author={Peixuan Han and Hongyi Du and Jiayu Liu and Yihang Sun and Yutong Liu and Jiaxuan You},
+  journal={arXiv preprint arXiv:2606.02754},
+  year={2026},
+  url={https://arxiv.org/abs/2606.02754}, 
+}
 ```
 
 Reach out to [Peixuan Han](mailto:ph16@illinois.edu) for any questions.

@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "psi-bench"
-version = "0.2.0.dev1"
+version = "0.1.0"
 description = "Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -56,7 +56,7 @@ dev = [
 psi-bench = "psi_bench.cli:main"
 
 [tool.setuptools]
-packages = ["psi_bench"]
+packages = ["psi_bench", "fig"]
 
 [tool.black]
 line-length = 100
