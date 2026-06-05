@@ -9,7 +9,7 @@
   <a href="https://pypi.org/project/psi-bench">
     <img src="https://img.shields.io/pypi/v/your-package?logo=pypi&logoColor=white" />
   </a>
-  ·
+  
   <a href="https://arxiv.org/pdf/2606.02754">
     <img src="https://img.shields.io/badge/arXiv-2606.02754-b31b1b?logo=arxiv" />
   </a>
